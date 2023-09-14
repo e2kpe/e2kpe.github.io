@@ -1,5 +1,5 @@
 ---
-title: "${list}"
+title: "tkr"
 date:
 menu: data
 showdates: true
