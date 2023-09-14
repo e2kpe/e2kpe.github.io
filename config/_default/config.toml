@@ -1,0 +1,68 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "e2kpe"
+theme = "hugo-arcana"
+copyright = "© Untitled. All rights reserved"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  archive = "archives"
+
+[params]
+    description = "e2kpe"
+    show_post_dates = false
+
+    [[params.social]]
+        title = "Twitter"
+        icon = "fa-twitter"
+        url = "#"
+    [[params.social]]
+        title = "Facebook"
+        icon = "fa-facebook-f"
+        url = "#"
+    [[params.social]]
+        title = "GitHub"
+        icon = "fa-github"
+        url = "#"
+    [[params.social]]
+        title = "LinkedIn"
+        icon = "fa-linkedin-in"
+        url = "#"
+    [[params.social]]
+        title = "Creative Commons"
+        icon = "fa-creative-commons"
+        url = "https://creativecommons.org/"
+
+
+    [params.footer]
+
+        [[params.footer.links]]
+            header = "Links"
+
+        [[params.footer.links.links]]
+            title = "Home"
+            url = "/"
+
+        [[params.footer.links.links]]
+            title = "TMC"
+            url = "https://"
+
+        [[params.footer.links]]
+
+        [[params.footer.links.links]]
+            title = "e2open"
+            url = "https://e2open.com"
+
+        [[params.footer.links.links]]
+            title = "Confluence"
+            url = "https://"
+
+        [[params.footer.links.links]]
+            title = ""
+            url = "#"
+
+        [params.footer.contact_form]
+            enabled = false
+            header = "Get In Touch"
+            action = ""

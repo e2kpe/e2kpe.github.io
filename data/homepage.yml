@@ -1,0 +1,42 @@
+banner:
+  enable: true
+  image: "images/kpe-3864x1128.jpg"
+  contents: ""
+  button:
+    contents: "Kubernetes Info"
+    url: "/data"
+items:
+  - type: posts
+    heading: Recent Changes
+    content_type: posts
+    max: 3
+  - type: cta
+    contents: More info
+    button:
+      contents: Button
+      url: "https://e2open.com"
+  - type: heading
+    heading: About
+    contents: >
+      ipsum lorem.
+#  - type: highlights
+#    items_per_row: 2
+#    items:
+#    - title: This Is Important
+#      icon: fa-paper-plane
+#      content: >
+#        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+#        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+#    - title: Also Important
+#      icon: fa-pencil-alt
+#      content: >
+#        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+#        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+#    - title: Probably Important
+#      icon: fa-wrench
+#      content: >
+#        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+#        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+#  - type: heading
+#    heading: A gigantic heading you can use for whatever
+#    contents: With a much smaller subtitle hanging out just below it
