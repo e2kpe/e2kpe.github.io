@@ -1,7 +1,7 @@
 ---
-title: TKGs
+title: docs
 menu: main
-tags: [ "tkgs" ]
+tags: [ "docs" ]
 weight: 20
 ---
 changelog

@@ -2,10 +2,11 @@
 title: "${list}"
 date:
 menu: data
-showdates: false
+showdates: true
 weight: 11
 draft: false
 ---
+<!-- more -->
 | clustername                    | distribution |
 | ------------------------------ | ------------ |
 | chg-prod-cargoscreening-tkc    | v1.22.9      |

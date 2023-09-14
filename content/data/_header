@@ -2,7 +2,8 @@
 title: "TITLE"
 date:
 menu: data
-showdates: false
+showdates: true
 weight: 11
 draft: false
 ---
+<!-- more -->
