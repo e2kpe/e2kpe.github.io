@@ -1,4 +1,4 @@
-pushd content/data
+cd content/data
 
 
 for list in tkg tkc tkr ;
@@ -8,4 +8,4 @@ do
 done
 
 
-popd
+cd ../..

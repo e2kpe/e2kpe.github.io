@@ -12,6 +12,7 @@ copyright = "© Untitled. All rights reserved"
 [params]
     description = "e2kpe"
     show_post_dates = false
+    summaryLength = 1
 
     [[params.social]]
         title = "Twitter"

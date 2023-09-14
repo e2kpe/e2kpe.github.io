@@ -6,7 +6,7 @@ showdates: true
 weight: 11
 draft: false
 ---
-<!-- more -->
+<!--more-->
 | fullName             | ClusterGroup           | health  | MemoryPercent | CpuPercent | READYmessage                                       |
 | -------------------- | ---------------------- | ------- | ------------- | ---------- | -------------------------------------------------- |
 | chg-prod-tanzu-k8s   | chg-prod-tanzu         | HEALTHY |             0 |          2 | management cluster is connected to TMC and healthy |

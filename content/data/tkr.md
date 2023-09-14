@@ -6,7 +6,7 @@ showdates: true
 weight: 11
 draft: false
 ---
-<!-- more -->
+<!--more-->
 | clustername                    | distribution |
 | ------------------------------ | ------------ |
 | chg-prod-cargoscreening-tkc    | v1.22.9      |
