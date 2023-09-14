@@ -4,7 +4,7 @@ if [ ! "${1}" == "" ] ; then
   rm -rf resources/_gen/*
   rm -rf public/*
 
-  hugo
+#  hugo
 
   git add .
   git commit -m "$1"
