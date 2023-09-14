@@ -1,3 +1,10 @@
 pushd content/data
-( cat _header.md ; tmcpull.sh --csv --tkc --look ) | sed -e 's/TITLE/tkc/' > tkc.md
+
+
+for list in tkg tkc tkr ;
+do
+  ( cat _header ; tmcpull.sh --csv --${list} --look ) | sed -e 's/TITLE/${list}/' > ${list}.md
+done
+
+
 popd

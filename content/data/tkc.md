@@ -1,5 +1,5 @@
 ---
-title: "tkc"
+title: "${list}"
 date:
 menu: data
 showdates: false
@@ -18,21 +18,21 @@ draft: false
 | chg-prod-rdm-tkc               |     240,788 |             5 |   36,000 |         33 |         6 | HEALTHY            | Cluster is healthy                           |
 | chg-prod-sharedservices-tkc    |      95,636 |            15 |   36,000 |         38 |         6 | HEALTHY            | Cluster is healthy                           |
 | chg-prod-vault-tkc             |      47,255 |            12 |   24,000 |         34 |         6 | HEALTHY            | Cluster is healthy                           |
-| den-tanzu-ci-apps-tkc          |      95,636 |            13 |   48,000 |         24 |         6 | HEALTHY            | Cluster is healthy                           |
+| den-tanzu-ci-apps-tkc          |      95,636 |            12 |   48,000 |         24 |         6 | HEALTHY            | Cluster is healthy                           |
 | den-tanzu-e2proxy-tkc          |     111,577 |            12 |   44,000 |         29 |         7 | HEALTHY            | Cluster is healthy                           |
 | den-tanzu-e2proxy-walkme-tkc   |      55,505 |            21 |   28,000 |         38 |         5 | HEALTHY            | Cluster is healthy                           |
 | e2dev-tanzu-cargoscreening-tkc |      47,255 |            33 |   24,000 |         53 |         6 | HEALTHY            | Cluster is healthy                           |
 | e2dev-tanzu-ci-tkc             |     826,867 |             7 |  108,000 |         36 |         9 | HEALTHY            | Cluster is healthy                           |
 | e2dev-tanzu-cl-tkc             |     240,212 |            10 |  108,000 |         16 |         9 | HEALTHY            | Cluster is healthy                           |
 | e2dev-tanzu-cops-tkc           |     127,514 |            13 |   52,000 |         34 |         8 | HEALTHY            | Cluster is healthy                           |
-| e2dev-tanzu-crpmrri-tkc        |     240,791 |             6 |   24,000 |         45 |         6 | HEALTHY            | Cluster is healthy                           |
+| e2dev-tanzu-crpmrri-tkc        |     240,791 |             6 |   24,000 |         46 |         6 | HEALTHY            | Cluster is healthy                           |
 | e2dev-tanzu-cs-tkc             |     817,428 |            32 |  204,000 |         31 |        27 | HEALTHY            | Cluster is healthy                           |
 | e2dev-tanzu-dcops-test-tkc     |      50,914 |            21 |   26,000 |         45 |         8 | HEALTHY            | Cluster is healthy                           |
 | e2dev-tanzu-e2net-tkc          |     144,015 |            21 |   60,000 |         33 |         6 | HEALTHY            | Cluster is healthy                           |
 | e2dev-tanzu-rdm-devqa-tkc      |     240,788 |             5 |   36,000 |         29 |         6 | HEALTHY            | Cluster is healthy                           |
 | e2dev-tanzu-rdm-tkc            |     240,788 |             6 |   36,000 |         37 |         6 | HEALTHY            | Cluster is healthy                           |
 | e2dev-tanzu-snop-tkc           |     305,489 |             4 |   28,000 |         37 |         5 | HEALTHY            | Cluster is healthy                           |
-| e2dev-tanzu-vault-tkc          |     127,519 |            15 |   32,000 |         47 |         8 | HEALTHY            | Cluster is healthy                           |
+| e2dev-tanzu-vault-tkc          |     127,519 |            15 |   32,000 |         48 |         8 | HEALTHY            | Cluster is healthy                           |
 | fr8-prod-e2net-cdm-platform    |     240,788 |             4 |   36,000 |         27 |         6 | HEALTHY            | Cluster is healthy                           |
 | fr8-prod-vault-tkc             |      35,163 |            11 |   12,000 |         52 |         6 | HEALTHY            | Cluster is healthy                           |
 | fr8-stg-dcops                  |      23,067 |            25 |   12,000 |         61 |         6 | HEALTHY            | Cluster is healthy                           |
@@ -47,20 +47,20 @@ draft: false
 | sjca-prod-ci-apps-tkc          |     111,459 |            12 |   44,000 |         29 |         7 | HEALTHY            | Cluster is healthy                           |
 | sjca-prod-cops-tkc             |     111,575 |            12 |   44,000 |         29 |         7 | HEALTHY            | Cluster is healthy                           |
 | sjca-prod-e2net-tkc            |     479,845 |             7 |  300,000 |         10 |        21 | HEALTHY            | Cluster is healthy                           |
-| sjca-prod-e2proxy-tkc          |     127,382 |            12 |   52,000 |         27 |         8 | HEALTHY            | Cluster is healthy                           |
+| sjca-prod-e2proxy-tkc          |     127,382 |            11 |   52,000 |         27 |         8 | HEALTHY            | Cluster is healthy                           |
 | sjc-prod-sharedservices        |     240,783 |             4 |   60,000 |         16 |         6 | HEALTHY            | Cluster is healthy                           |
 | stg-cargoscreening-tkc         |     119,821 |             8 |   72,000 |         12 |         6 | HEALTHY            | Cluster is healthy                           |
 | stg-cdm-awx-tkc                |     305,111 |             8 |   44,000 |         42 |         7 | HEALTHY            | Cluster is healthy                           |
 | stg-cdm-ppi-tkc                |     948,341 |            19 |  124,000 |         15 |        17 | HEALTHY            | Cluster is healthy                           |
 | stg-cdm-waf-tkc                |      47,256 |            10 |   24,000 |         30 |         6 | HEALTHY            | Cluster is healthy                           |
 | stg-e2net-tkc                  |     335,836 |             5 |  204,000 |          8 |        15 | HEALTHY            | Cluster is healthy                           |
-| stg-fra-ci-apps-tkc            |      95,636 |            14 |   36,000 |         33 |         6 | HEALTHY            | Cluster is healthy                           |
+| stg-fra-ci-apps-tkc            |      95,636 |            14 |   36,000 |         36 |         6 | HEALTHY            | Cluster is healthy                           |
 | stgfra-dcops-tkc               |      23,064 |            21 |   24,000 |         30 |         6 | HEALTHY            | Cluster is healthy                           |
 | stg-fra-e2proxy-tkc            |     176,087 |             8 |   44,000 |         34 |         7 | HEALTHY            | Cluster is healthy                           |
 | stg-fra-e2proxy-walkme-tkc     |      31,315 |            33 |   20,000 |         49 |         5 | HEALTHY            | Cluster is healthy                           |
 | stg-shared-service-tkc         |     434,319 |             2 |   60,000 |         19 |         6 | HEALTHY            | Cluster is healthy                           |
 | stg-tanzu-ci-apps-tkc          |      95,636 |            12 |   36,000 |         32 |         6 | HEALTHY            | Cluster is healthy                           |
-| stg-tanzu-cops-tkc             |     175,773 |             7 |   44,000 |         29 |         7 | HEALTHY            | Cluster is healthy                           |
+| stg-tanzu-cops-tkc             |     175,773 |             8 |   44,000 |         29 |         7 | HEALTHY            | Cluster is healthy                           |
 | stg-tanzu-e2proxy-tkc          |     111,575 |            12 |   44,000 |         29 |         7 | HEALTHY            | Cluster is healthy                           |
 | stg-tanzu-e2proxy-walkme-tkc   |      47,255 |            25 |   24,000 |         47 |         6 | HEALTHY            | Cluster is healthy                           |
 | stg-tanzu-rdm-sb-tkc           |   3,906,957 |             6 |  956,000 |         38 |       236 | HEALTH_UNSPECIFIED | 230 control plane nodes are in UNKNOWN state |
