@@ -11,7 +11,7 @@ draft: false
 | ------------------------------ | ------------ |
 | chg-prod-cargoscreening-tkc    | v1.22.9      |
 | chg-prod-cdm-awx-tkc           | v1.22.9      |
-| chg-prod-ci-apps-tkc           | v1.20.12     |
+| chg-prod-ci-apps-tkc           | v1.22.9      |
 | chg-prod-cops-tkc              | v1.22.9      |
 | chg-prod-e2net-tkc             | v1.22.9      |
 | chg-prod-e2proxy-tkc           | v1.20.12     |
@@ -45,7 +45,7 @@ draft: false
 | fra-prod-sharedservices-tkc    | v1.22.9      |
 | sha-prod-ci-apps-tkc           | v1.22.9      |
 | sha-prod-e2proxy-tkc           | v1.22.9      |
-| sjca-prod-ci-apps-tkc          | v1.20.12     |
+| sjca-prod-ci-apps-tkc          | v1.22.9      |
 | sjca-prod-cops-tkc             | v1.22.9      |
 | sjca-prod-e2net-tkc            | v1.22.9      |
 | sjca-prod-e2proxy-tkc          | v1.20.12     |
