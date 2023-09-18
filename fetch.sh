@@ -9,3 +9,7 @@ done
 
 
 cd ../..
+
+comment=$(date +'%Y-%m-%d_%H-%M-%S')
+
+./push.sh "$comment"
