@@ -34,6 +34,7 @@ draft: false
 | rdm-es-prod                     | chg-prod-rdm-tkc               | chg-rdm-prod                                | chg-prod-tanzu-k8s   |
 | rdm-prod                        | chg-prod-rdm-tkc               | chg-rdm-prod                                | chg-prod-tanzu-k8s   |
 | watermill                       | chg-prod-sharedservices-tkc    | chg-prod-sharedservices                     | chg-prod-tanzu-k8s   |
+| temporal                        | chg-prod-sharedservices-tkc    | chg-prod-temporal                           | chg-prod-tanzu-k8s   |
 | chg-prod-sharedservices         | chg-prod-sharedservices-tkc    | fra-prod-sharedservices                     | chg-prod-tanzu-k8s   |
 | ocular                          | chg-prod-sharedservices-tkc    | fra-prod-sharedservices                     | chg-prod-tanzu-k8s   |
 | infosec-fwdproxy                | den-tanzu-ci-apps-tkc          | denver-infosec                              | denver-tanzu         |
@@ -148,6 +149,7 @@ draft: false
 | infosec-fwdproxy                | fra-prod-ci-apps-tkc           | prod-fra-ci-infosec                         | fr8-prod-tanzu       |
 | e2proxy                         | fra-prod-e2proxy-tkc           | prod-fra-ci-developer                       | fr8-prod-tanzu       |
 | e2proxy                         | fra-prod-e2proxy-walkme-tkc    | prod-fra-ci-developer                       | fr8-prod-tanzu       |
+| temporal                        | fra-prod-sharedservices-tkc    | fr8-prod-temporal                           | fr8-prod-tanzu       |
 | ocular                          | fra-prod-sharedservices-tkc    | fra-prod-sharedservices                     | fr8-prod-tanzu       |
 | watermill                       | fra-prod-sharedservices-tkc    | fra-prod-sharedservices                     | fr8-prod-tanzu       |
 | ci-prod                         | sha-prod-ci-apps-tkc           | sha-prod-ci-apps-tkc-cloudoperation         | sha-tanzu            |
