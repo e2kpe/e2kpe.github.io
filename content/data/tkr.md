@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2023-09-26_18-20-06
+date: 2023-09-26
 menu: data
 showdates: true
 weight: 11
