@@ -71,5 +71,6 @@ draft: false
 | sv1-dev-demo                   | v1.24.11     |
 | sv1-dev-infosec                | v1.24.11     |
 | sv1-dev-sandbox-demo           | v1.24.11     |
+| sv1-gitops-demo                | v1.24.11     |
 | fr8-prod-e2net-cdm-platform    |              |
 | fr8-stg-e2net-cdm-platform     |              |
