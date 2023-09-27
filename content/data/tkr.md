@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2023-09-26
+date: 2023-09-27
 menu: data
 showdates: true
 weight: 11
@@ -64,6 +64,7 @@ draft: false
 | den-tanzu-ci-apps-tkc          | v1.23.8      |
 | den-tanzu-e2proxy-tkc          | v1.23.8      |
 | e2dev-tanzu-dcops-test-tkc     | v1.23.8      |
+| e2dev-tanzu-platform-tkc       | v1.23.8      |
 | fr8-prod-vault-tkc             | v1.23.8      |
 | fr8-stg-dcops                  | v1.23.8      |
 | stg-cdm-waf-tkc                | v1.23.8      |
