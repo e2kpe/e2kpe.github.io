@@ -70,6 +70,7 @@ draft: false
 | stg-cdm-waf-tkc                | v1.23.8      |
 | stgfra-dcops-tkc               | v1.23.8      |
 | sv1-dev-demo                   | v1.24.11     |
+| sv1-dev-gitdemo1               | v1.24.11     |
 | sv1-dev-infosec                | v1.24.11     |
 | sv1-dev-sandbox-demo           | v1.24.11     |
 | sv1-gitops-test1               | v1.24.11     |
