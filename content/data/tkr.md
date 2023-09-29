@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2023-09-28
+date: 2023-09-29
 menu: data
 showdates: true
 weight: 11
@@ -73,6 +73,6 @@ draft: false
 | sv1-dev-gitdemo1               | v1.24.11     |
 | sv1-dev-infosec                | v1.24.11     |
 | sv1-dev-sandbox-demo           | v1.24.11     |
-| sv1-gitops-test1               | v1.24.11     |
+| sv1-gitops-demo-02             | v1.24.11     |
 | fr8-prod-e2net-cdm-platform    |              |
 | fr8-stg-e2net-cdm-platform     |              |
