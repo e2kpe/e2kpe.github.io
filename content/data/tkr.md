@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2023-10-04
+date: 2023-10-05
 menu: data
 showdates: true
 weight: 11
@@ -69,6 +69,8 @@ draft: false
 | fr8-stg-dcops                  | v1.23.8      |
 | stg-cdm-waf-tkc                | v1.23.8      |
 | stgfra-dcops-tkc               | v1.23.8      |
+| dev-git-demo1                  | v1.24.11     |
+| dev-git-demo2                  | v1.24.11     |
 | sv1-dev-demo                   | v1.24.11     |
 | sv1-dev-gitdemo1               | v1.24.11     |
 | sv1-dev-infosec                | v1.24.11     |
