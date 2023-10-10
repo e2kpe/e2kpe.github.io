@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2023-10-09
+date: 2023-10-10
 menu: data
 showdates: true
 weight: 11
@@ -27,6 +27,7 @@ draft: false
 | e2dev-tanzu-crpmrri-tkc        | v1.22.9      |
 | e2dev-tanzu-cs-tkc             | v1.22.9      |
 | e2dev-tanzu-e2net-tkc          | v1.22.9      |
+| e2dev-tanzu-e2proxy-tkc        | v1.22.9      |
 | e2dev-tanzu-rdm-devqa-tkc      | v1.22.9      |
 | e2dev-tanzu-rdm-tkc            | v1.22.9      |
 | e2dev-tanzu-snop-tkc           | v1.22.9      |
