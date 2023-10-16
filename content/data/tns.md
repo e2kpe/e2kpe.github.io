@@ -98,11 +98,6 @@ draft: false
 | monitor-zabbix                  | e2dev-tanzu-snop-tkc           | dev-tanzu-monitor                                  | e2open-dev-tanzu     |
 | brengine                        | e2dev-tanzu-snop-tkc           | snop-dev-tanzu                                     | e2open-dev-tanzu     |
 | packages                        | sv1-dev-sandbox-demo           | dev-demo-tkc                                       | e2open-dev-tanzu     |
-| demo-workspace                  | sv1-gitops-demo-02             | demo-quota                                         | e2open-dev-tanzu     |
-| workload-ns1                    | sv1-gitops-demo-02             | demo-wsp                                           | e2open-dev-tanzu     |
-| workload-ns2                    | sv1-gitops-demo-02             | demo-wsp                                           | e2open-dev-tanzu     |
-| workload-ns3                    | sv1-gitops-demo-02             | demo-wsp                                           | e2open-dev-tanzu     |
-| sv1-gitops-demo-02-ns           | sv1-gitops-demo-02             | sv1-gitops-demo-02-ns                              | e2open-dev-tanzu     |
 | workload-ns6                    | sv1-vmware-workshop-demo       | default                                            | e2open-dev-tanzu     |
 | demo-workspace                  | sv1-vmware-workshop-demo       | demo-wsp                                           | e2open-dev-tanzu     |
 | workload-ns1                    | sv1-vmware-workshop-demo       | demo-wsp                                           | e2open-dev-tanzu     |
