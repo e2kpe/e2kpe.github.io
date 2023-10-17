@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2023-10-16
+date: 2023-10-17
 menu: data
 showdates: true
 weight: 11
@@ -77,6 +77,6 @@ draft: false
 | gold-cluster1                  | v1.24.11     |
 | sv1-dev-infosec                | v1.24.11     |
 | sv1-dev-sandbox-demo           | v1.24.11     |
-| sv1-vmware-workshop-demo       | v1.24.11     |
+| terraform-demo-cluster         | v1.24.11     |
 | fr8-prod-e2net-cdm-platform    |              |
 | fr8-stg-e2net-cdm-platform     |              |
