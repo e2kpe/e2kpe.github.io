@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2023-10-18
+date: 2023-10-19
 menu: data
 showdates: true
 weight: 11
@@ -38,6 +38,7 @@ draft: false
 | fra-prod-e2proxy-walkme-tkc    | v1.22.9      |
 | fra-prod-sharedservices-tkc    | v1.22.9      |
 | oci-dr-ciapps                  | v1.22.9      |
+| oci-dr-cops                    | v1.22.9      |
 | oci-dr-e2proxy                 | v1.22.9      |
 | sha-prod-ci-apps-tkc           | v1.22.9      |
 | sha-prod-e2proxy-tkc           | v1.22.9      |
@@ -77,5 +78,6 @@ draft: false
 | sv1-dev-infosec                | v1.24.11     |
 | sv1-dev-sandbox-demo           | v1.24.11     |
 | sv1-vmware-workshop-demo       | v1.24.11     |
+| training                       | v1.24.11     |
 | fr8-prod-e2net-cdm-platform    |              |
 | fr8-stg-e2net-cdm-platform     |              |
