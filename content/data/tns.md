@@ -1,6 +1,6 @@
 ---
 title: "tns"
-date: 2023-10-19
+date: 2023-10-23
 menu: data
 showdates: true
 weight: 11
@@ -98,6 +98,8 @@ draft: false
 | monitor-zabbix                  | e2dev-tanzu-snop-tkc           | dev-tanzu-monitor                           | e2open-dev-tanzu     |
 | brengine                        | e2dev-tanzu-snop-tkc           | snop-dev-tanzu                              | e2open-dev-tanzu     |
 | packages                        | sv1-dev-sandbox-demo           | dev-demo-tkc                                | e2open-dev-tanzu     |
+| workload-ns1                    | sv1-vmware-workshop-demo       | demo-wsp                                    | e2open-dev-tanzu     |
+| workload-ns2                    | sv1-vmware-workshop-demo       | demo-wsp                                    | e2open-dev-tanzu     |
 | workload-ns3                    | sv1-vmware-workshop-demo       | demo-wsp                                    | e2open-dev-tanzu     |
 | ci-apps                         | stg-fra-ci-apps-tkc            | stg-fra-ci-developer                        | e2open-fr8-stg-tanzu |
 | e2proxy                         | stg-fra-e2proxy-tkc            | stg-fra-ci-developer                        | e2open-fr8-stg-tanzu |
