@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2023-10-23
+date: 2023-10-25
 menu: data
 showdates: true
 weight: 11
@@ -77,6 +77,7 @@ draft: false
 | dev-git-demo2                  | v1.24.11     |
 | sv1-dev-infosec                | v1.24.11     |
 | sv1-dev-sandbox-demo           | v1.24.11     |
+| sv1-terraform-demo             | v1.24.11     |
 | sv1-vmware-workshop-demo       | v1.24.11     |
 | training                       | v1.24.11     |
 | wingho-training                | v1.24.11     |
