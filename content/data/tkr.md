@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2023-10-25
+date: 2023-10-26
 menu: data
 showdates: true
 weight: 11
@@ -63,6 +63,8 @@ draft: false
 | stg-tanzu-rdm-uat-tkc          | v1.22.9      |
 | stg-vault-tkc                  | v1.22.9      |
 | sv1-dev-rnd-sandbox            | v1.22.9      |
+| sv1-e2proxy-blue-demo          | v1.22.9      |
+| sv1-e2proxy-green-demo         | v1.22.9      |
 | sv4-dr-cdm-e2proxy             | v1.22.9      |
 | sv4-dr-rdm                     | v1.22.9      |
 | den-tanzu-ci-apps-tkc          | v1.23.8      |
@@ -74,12 +76,8 @@ draft: false
 | oci-dr-dcops                   | v1.23.8      |
 | stg-cdm-waf-tkc                | v1.23.8      |
 | stgfra-dcops-tkc               | v1.23.8      |
-| dev-git-demo2                  | v1.24.11     |
 | sv1-dev-infosec                | v1.24.11     |
-| sv1-dev-sandbox-demo           | v1.24.11     |
 | sv1-terraform-demo             | v1.24.11     |
-| sv1-vmware-workshop-demo       | v1.24.11     |
-| training                       | v1.24.11     |
 | wingho-training                | v1.24.11     |
 | fr8-prod-e2net-cdm-platform    |              |
 | fr8-stg-e2net-cdm-platform     |              |
