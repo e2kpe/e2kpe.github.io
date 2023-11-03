@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2023-10-27
+date: 2023-11-03
 menu: data
 showdates: true
 weight: 11
@@ -64,7 +64,6 @@ draft: false
 | stg-vault-tkc                  | v1.22.9      |
 | sv1-dev-rnd-sandbox            | v1.22.9      |
 | sv1-e2proxy-blue-demo          | v1.22.9      |
-| sv1-e2proxy-green-demo         | v1.22.9      |
 | sv4-dr-cdm-e2proxy             | v1.22.9      |
 | sv4-dr-rdm                     | v1.22.9      |
 | den-tanzu-ci-apps-tkc          | v1.23.8      |
@@ -77,6 +76,8 @@ draft: false
 | oci-dr-dcops                   | v1.23.8      |
 | stg-cdm-waf-tkc                | v1.23.8      |
 | stgfra-dcops-tkc               | v1.23.8      |
+| sv1-e2proxy-green-demo         | v1.23.8      |
+| hanglo-training                | v1.24.11     |
 | sv1-dev-infosec                | v1.24.11     |
 | sv1-terraform-demo             | v1.24.11     |
 | wingho-training                | v1.24.11     |
