@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2023-11-06
+date: 2023-11-09
 menu: data
 showdates: true
 weight: 11
@@ -31,7 +31,6 @@ draft: false
 | e2dev-tanzu-rdm-devqa-tkc      | v1.22.9      |
 | e2dev-tanzu-rdm-tkc            | v1.22.9      |
 | e2dev-tanzu-snop-tkc           | v1.22.9      |
-| e2dev-tanzu-vault-tkc          | v1.22.9      |
 | fra-prod-ci-apps-tkc           | v1.22.9      |
 | fra-prod-cops-tkc              | v1.22.9      |
 | fra-prod-e2proxy-tkc           | v1.22.9      |
@@ -77,6 +76,7 @@ draft: false
 | stg-cdm-waf-tkc                | v1.23.8      |
 | stgfra-dcops-tkc               | v1.23.8      |
 | sv1-e2proxy-green-demo         | v1.23.8      |
+| e2dev-tanzu-vault-tkc          | v1.24.11     |
 | hanglo-training                | v1.24.11     |
 | sv1-dev-infosec                | v1.24.11     |
 | sv1-terraform-demo             | v1.24.11     |
