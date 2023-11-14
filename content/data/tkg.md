@@ -1,6 +1,6 @@
 ---
 title: "tkg"
-date: 2023-11-10
+date: 2023-11-14
 menu: data
 showdates: true
 weight: 11
@@ -18,4 +18,4 @@ draft: false
 | e2open-fr8-stg-tanzu | e2open-fr8-stg-tanzu   | WARNING | management cluster is connected to TMC but is not healthy |
 | sha-tanzu            | default                | HEALTHY | management cluster is connected to TMC and healthy        |
 | svl-lab-tkgm         | default                | HEALTHY | management cluster is connected to TMC and healthy        |
-| oci-par-tanzu        | default                | HEALTHY | management cluster is connected to TMC and healthy        |
+| cdg-dr               | default                | HEALTHY | management cluster is connected to TMC and healthy        |

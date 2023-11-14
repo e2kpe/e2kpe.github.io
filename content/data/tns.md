@@ -1,6 +1,6 @@
 ---
 title: "tns"
-date: 2023-11-10
+date: 2023-11-14
 menu: data
 showdates: true
 weight: 11
@@ -154,7 +154,6 @@ draft: false
 | temporal                        | fra-prod-sharedservices-tkc    | fr8-prod-temporal                           | fr8-prod-tanzu       |
 | ocular                          | fra-prod-sharedservices-tkc    | fra-prod-sharedservices                     | fr8-prod-tanzu       |
 | watermill                       | fra-prod-sharedservices-tkc    | fra-prod-sharedservices                     | fr8-prod-tanzu       |
-| e2proxy                         | oci-dr-e2proxy                 | oci-e2proxy                                 | oci-par-tanzu        |
 | ci-prod                         | sha-prod-ci-apps-tkc           | sha-prod-ci-apps-tkc-cloudoperation         | sha-tanzu            |
 | e2proxy                         | sha-prod-e2proxy-tkc           | sha-e2proxy                                 | sha-tanzu            |
 | watermill                       | sjc-prod-sharedservices        | watermill                                   | sjca-prod-tanzu-k8s  |

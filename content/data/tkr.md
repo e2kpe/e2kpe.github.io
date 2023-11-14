@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2023-11-10
+date: 2023-11-14
 menu: data
 showdates: true
 weight: 11
@@ -9,12 +9,14 @@ draft: false
 <!--more-->
 | clustername                    | distribution |
 | ------------------------------ | ------------ |
-| chg-prod-e2proxy-tkc           | v1.20.12     |
+| cdg-dr-ciapps                  | v1.22.9      |
+| cdg-dr-e2proxy                 | v1.22.9      |
 | chg-prod-cargoscreening-tkc    | v1.22.9      |
 | chg-prod-cdm-awx-tkc           | v1.22.9      |
 | chg-prod-ci-apps-tkc           | v1.22.9      |
 | chg-prod-cops-tkc              | v1.22.9      |
 | chg-prod-e2net-tkc             | v1.22.9      |
+| chg-prod-e2proxy-tkc           | v1.22.9      |
 | chg-prod-e2proxy-walkme-tkc    | v1.22.9      |
 | chg-prod-rdm-tkc               | v1.22.9      |
 | chg-prod-sharedservices-tkc    | v1.22.9      |
@@ -45,6 +47,7 @@ draft: false
 | sjca-prod-cops-tkc             | v1.22.9      |
 | sjca-prod-e2net-tkc            | v1.22.9      |
 | sjca-prod-e2proxy-tkc          | v1.22.9      |
+| sjca-prod-vault-tkc            | v1.22.9      |
 | sjc-prod-sharedservices        | v1.22.9      |
 | stg-cargoscreening-tkc         | v1.22.9      |
 | stg-cdm-awx-tkc                | v1.22.9      |
@@ -67,7 +70,6 @@ draft: false
 | sv4-dr-rdm                     | v1.22.9      |
 | den-tanzu-ci-apps-tkc          | v1.23.8      |
 | den-tanzu-e2proxy-tkc          | v1.23.8      |
-| e2dev-tanzu-dcops-test-tkc     | v1.23.8      |
 | e2dev-tanzu-platform-tkc       | v1.23.8      |
 | fr8-prod-vault-tkc             | v1.23.8      |
 | fr8-stg-cops                   | v1.23.8      |
@@ -76,6 +78,7 @@ draft: false
 | stg-cdm-waf-tkc                | v1.23.8      |
 | stgfra-dcops-tkc               | v1.23.8      |
 | sv1-e2proxy-green-demo         | v1.23.8      |
+| e2dev-tanzu-dcops-test-tkc     | v1.24.11     |
 | e2dev-tanzu-vault-tkc          | v1.24.11     |
 | hanglo-training                | v1.24.11     |
 | sv1-dev-infosec                | v1.24.11     |
