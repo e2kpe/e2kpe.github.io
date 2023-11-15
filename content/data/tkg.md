@@ -1,6 +1,6 @@
 ---
 title: "tkg"
-date: 2023-11-14
+date: 2023-11-15
 menu: data
 showdates: true
 weight: 11
@@ -10,7 +10,7 @@ draft: false
 | fullName             | ClusterGroup           | health  | READYmessage                                              |
 | -------------------- | ---------------------- | ------- | --------------------------------------------------------- |
 | chg-prod-tanzu-k8s   | chg-prod-tanzu         | HEALTHY | management cluster is connected to TMC and healthy        |
-| e2open-dev-tanzu     | e2open-dev-tanzu       | HEALTHY | management cluster is connected to TMC and healthy        |
+| e2open-dev-tanzu     | e2open-dev-tanzu       | WARNING | management cluster is connected to TMC but is not healthy |
 | e2stg-tanzu          | e2open-stg-tanzu       | HEALTHY | management cluster is connected to TMC and healthy        |
 | sjca-prod-tanzu-k8s  | e2open-sjca-prod-tanzu | HEALTHY | management cluster is connected to TMC and healthy        |
 | denver-tanzu         | dever-tanzu            | HEALTHY | management cluster is connected to TMC and healthy        |

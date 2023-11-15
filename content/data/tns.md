@@ -1,6 +1,6 @@
 ---
 title: "tns"
-date: 2023-11-14
+date: 2023-11-15
 menu: data
 showdates: true
 weight: 11
@@ -13,6 +13,7 @@ draft: false
 | rdm-prod                        | fr8-prod-e2net-cdm-platform    | fr8-prod-rdm                                | attached             |
 | rdm-es-uat                      | fr8-stg-e2net-cdm-platform     | fr8stg-rdm                                  | attached             |
 | rdm-uat                         | fr8-stg-e2net-cdm-platform     | fr8stg-rdm                                  | attached             |
+| e2proxy                         | cdg-dr-e2proxy                 | prod-fra-ci-developer                       | cdg-dr               |
 | cargoscreening-prod             | chg-prod-cargoscreening-tkc    | chg-cargoscreening-devteam                  | chg-prod-tanzu-k8s   |
 | ci-prod                         | chg-prod-ci-apps-tkc           | chg-prod-ci-apps-tkc-ci-developer           | chg-prod-tanzu-k8s   |
 | monitor-log-testbench           | chg-prod-ci-apps-tkc           | chg-prod-ci-apps-tkc-cloudoperation         | chg-prod-tanzu-k8s   |
