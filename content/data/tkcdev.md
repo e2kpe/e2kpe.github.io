@@ -22,4 +22,4 @@ draft: false
 | e2dev-tanzu-snop-tkc           |     305,489 |             4 |   28,000 |         37 |         5 | HEALTHY | Cluster is healthy |
 | e2dev-tanzu-vault-tkc          |     111,483 |            15 |   28,000 |         49 |         7 | HEALTHY | Cluster is healthy |
 | sv1-dev-infosec                |      47,172 |            21 |   24,000 |         38 |         6 | HEALTHY | Cluster is healthy |
-| sv1-dev-rnd-sandbox            |     176,087 |            27 |   44,000 |         71 |         7 | HEALTHY | Cluster is healthy |
+| sv1-dev-rnd-sandbox            |     176,087 |            26 |   44,000 |         70 |         7 | HEALTHY | Cluster is healthy |
