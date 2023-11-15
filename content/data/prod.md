@@ -32,5 +32,5 @@ draft: false
 | sjca-prod-cops-tkc          |     111,575 |            12 |   44,000 |         29 |         7 | HEALTHY      | Cluster is healthy                                |
 | sjca-prod-e2net-tkc         |     479,845 |             7 |  300,000 |         10 |        21 | HEALTHY      | Cluster is healthy                                |
 | sjca-prod-e2proxy-tkc       |     127,514 |            27 |   52,000 |         36 |         8 | HEALTHY      | Cluster is healthy                                |
-| sjca-prod-vault-tkc         |      35,160 |            11 |   18,000 |         35 |         6 | HEALTHY      | Cluster is healthy                                |
+| sjca-prod-vault-tkc         |      35,160 |            12 |   18,000 |         35 |         6 | HEALTHY      | Cluster is healthy                                |
 | sjc-prod-sharedservices     |     240,783 |             4 |   60,000 |         16 |         6 | HEALTHY      | Cluster is healthy                                |
