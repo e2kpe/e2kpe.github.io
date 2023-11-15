@@ -36,7 +36,6 @@ draft: false
 | fra-prod-e2proxy-tkc           | v1.22.9      |
 | fra-prod-e2proxy-walkme-tkc    | v1.22.9      |
 | fra-prod-sharedservices-tkc    | v1.22.9      |
-| oci-dr-ciapps                  | v1.22.9      |
 | oci-dr-cops                    | v1.22.9      |
 | sha-prod-ci-apps-tkc           | v1.22.9      |
 | sha-prod-e2proxy-tkc           | v1.22.9      |
