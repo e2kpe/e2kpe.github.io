@@ -1,6 +1,6 @@
 ---
 title: "tkcstg"
-date: 2023-11-15
+date: 2023-11-16
 menu: data
 showdates: true
 weight: 11
@@ -23,7 +23,7 @@ draft: false
 | stg-fra-e2proxy-walkme-tkc   |      31,315 |            33 |   20,000 |         49 |         5 | HEALTHY | Cluster is healthy |
 | stg-shared-service-tkc       |     434,319 |             3 |   60,000 |         20 |         6 | HEALTHY | Cluster is healthy |
 | stg-tanzu-ci-apps-tkc        |     111,575 |            15 |   44,000 |         31 |         7 | HEALTHY | Cluster is healthy |
-| stg-tanzu-cops-tkc           |     175,773 |             8 |   44,000 |         29 |         7 | HEALTHY | Cluster is healthy |
+| stg-tanzu-cops-tkc           |     175,773 |             7 |   44,000 |         29 |         7 | HEALTHY | Cluster is healthy |
 | stg-tanzu-e2proxy-tkc        |     111,575 |            47 |   44,000 |         47 |         7 | HEALTHY | Cluster is healthy |
 | stg-tanzu-e2proxy-walkme-tkc |      47,255 |            38 |   24,000 |         52 |         6 | HEALTHY | Cluster is healthy |
 | stg-tanzu-rdm-sb-tkc         |     240,788 |             6 |   36,000 |         34 |         6 | HEALTHY | Cluster is healthy |
