@@ -9,7 +9,7 @@ draft: false
 <!--more-->
 | clustername           | memorytotal | memorypercent | cputotal | cpupercent | nodecount | health  | message            |
 | --------------------- | ----------- | ------------- | -------- | ---------- | --------- | ------- | ------------------ |
-| cdg-dr-ciapps         |     111,575 |            14 |   44,000 |         26 |         7 | HEALTHY | Cluster is healthy |
+| cdg-dr-ciapps         |     111,575 |            13 |   44,000 |         26 |         7 | HEALTHY | Cluster is healthy |
 | cdg-dr-e2proxy        |      95,636 |            14 |   36,000 |         29 |         6 | HEALTHY | Cluster is healthy |
 | cdg-dr-sharedservices |      95,636 |            14 |   36,000 |         28 |         6 | HEALTHY | Cluster is healthy |
 | den-dr-cops           |      95,380 |             3 |   24,000 |         26 |         6 | HEALTHY | Cluster is healthy |
