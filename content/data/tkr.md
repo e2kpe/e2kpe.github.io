@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2023-11-16
+date: 2023-11-17
 menu: data
 showdates: true
 weight: 11
@@ -75,6 +75,7 @@ draft: false
 | stgfra-dcops-tkc               | v1.23.8      |
 | sv1-e2proxy-green-demo         | v1.23.8      |
 | test-automation                | v1.23.8      |
+| den-dr-cops                    | v1.24.11     |
 | e2dev-tanzu-cl-tkc             | v1.24.11     |
 | e2dev-tanzu-dcops-test-tkc     | v1.24.11     |
 | e2dev-tanzu-vault-tkc          | v1.24.11     |
