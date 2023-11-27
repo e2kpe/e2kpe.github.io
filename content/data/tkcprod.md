@@ -1,6 +1,6 @@
 ---
 title: "tkcprod"
-date: 2023-11-17
+date: 2023-11-27
 menu: data
 showdates: true
 weight: 11
@@ -23,14 +23,14 @@ draft: false
 | fr8-prod-vault-tkc          |           0 |             0 |        0 |          0 |         8 | DISCONNECTED | Disconnected. Last heartbeat 2023-10-21T17:06:28Z |
 | fra-prod-ci-apps-tkc        |     111,575 |            12 |   44,000 |         29 |         7 | HEALTHY      | Cluster is healthy                                |
 | fra-prod-cops-tkc           |     111,575 |             5 |   44,000 |         21 |         7 | HEALTHY      | Cluster is healthy                                |
-| fra-prod-e2proxy-tkc        |     176,087 |             8 |   44,000 |         33 |         7 | HEALTHY      | Cluster is healthy                                |
+| fra-prod-e2proxy-tkc        |     176,087 |            10 |   44,000 |         31 |         7 | HEALTHY      | Cluster is healthy                                |
 | fra-prod-e2proxy-walkme-tkc |      55,505 |            19 |   28,000 |         35 |         5 | HEALTHY      | Cluster is healthy                                |
 | fra-prod-sharedservices-tkc |     240,784 |             5 |   60,000 |         19 |         6 | HEALTHY      | Cluster is healthy                                |
 | sha-prod-ci-apps-tkc        |      95,634 |            11 |   48,000 |         20 |         6 | HEALTHY      | Cluster is healthy                                |
-| sha-prod-e2proxy-tkc        |     111,573 |            10 |   56,000 |         18 |         7 | HEALTHY      | Cluster is healthy                                |
+| sha-prod-e2proxy-tkc        |     111,573 |            13 |   56,000 |         20 |         7 | HEALTHY      | Cluster is healthy                                |
 | sjca-prod-ci-apps-tkc       |     111,575 |            12 |   44,000 |         29 |         7 | HEALTHY      | Cluster is healthy                                |
 | sjca-prod-cops-tkc          |     111,575 |            12 |   44,000 |         29 |         7 | HEALTHY      | Cluster is healthy                                |
 | sjca-prod-e2net-tkc         |     479,845 |             7 |  300,000 |         10 |        21 | HEALTHY      | Cluster is healthy                                |
 | sjca-prod-e2proxy-tkc       |     127,514 |            27 |   52,000 |         36 |         8 | HEALTHY      | Cluster is healthy                                |
-| sjca-prod-vault-tkc         |      35,160 |            12 |   18,000 |         35 |         6 | HEALTHY      | Cluster is healthy                                |
+| sjca-prod-vault-tkc         |      35,160 |            11 |   18,000 |         35 |         6 | HEALTHY      | Cluster is healthy                                |
 | sjc-prod-sharedservices     |     240,783 |             4 |   60,000 |         16 |         6 | HEALTHY      | Cluster is healthy                                |

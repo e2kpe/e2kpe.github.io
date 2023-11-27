@@ -1,6 +1,6 @@
 ---
 title: "tns"
-date: 2023-11-17
+date: 2023-11-27
 menu: data
 showdates: true
 weight: 11
@@ -39,6 +39,7 @@ draft: false
 | chg-prod-sharedservices         | chg-prod-sharedservices-tkc    | fra-prod-sharedservices                     | chg-prod-tanzu-k8s   |
 | ocular                          | chg-prod-sharedservices-tkc    | fra-prod-sharedservices                     | chg-prod-tanzu-k8s   |
 | infosec-fwdproxy                | den-tanzu-ci-apps-tkc          | denver-infosec                              | denver-tanzu         |
+| e2proxy                         | den-tanzu-e2proxy-walkme-tkc   | den-e2proxy                                 | denver-tanzu         |
 | cargo-test                      | e2dev-tanzu-cargoscreening-tkc | dev-cargoscreening-devteam                  | e2open-dev-tanzu     |
 | cargoscreening-dev              | e2dev-tanzu-cargoscreening-tkc | dev-cargoscreening-devteam                  | e2open-dev-tanzu     |
 | monitor-zabbix                  | e2dev-tanzu-cargoscreening-tkc | dev-tanzu-monitor                           | e2open-dev-tanzu     |
@@ -84,6 +85,7 @@ draft: false
 | tp-dev                          | e2dev-tanzu-cs-tkc             | dev-cs-rndteam                              | e2open-dev-tanzu     |
 | trueid-dev                      | e2dev-tanzu-cs-tkc             | dev-cs-rndteam                              | e2open-dev-tanzu     |
 | monitor-zabbix                  | e2dev-tanzu-cs-tkc             | dev-tanzu-monitor                           | e2open-dev-tanzu     |
+| dcops-demo                      | e2dev-tanzu-dcops-test-tkc     | demo-wsp                                    | e2open-dev-tanzu     |
 | activemq                        | e2dev-tanzu-e2net-tkc          | dev-e2net                                   | e2open-dev-tanzu     |
 | e2net-artemis                   | e2dev-tanzu-e2net-tkc          | dev-e2net                                   | e2open-dev-tanzu     |
 | hazelcast                       | e2dev-tanzu-e2net-tkc          | dev-e2net                                   | e2open-dev-tanzu     |
