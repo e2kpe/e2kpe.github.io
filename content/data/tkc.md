@@ -49,8 +49,8 @@ draft: false
 | fra-prod-e2proxy-walkme-tkc    |      55,505 |            19 |   28,000 |         35 |         5 | HEALTHY      | Cluster is healthy                                |
 | fra-prod-sharedservices-tkc    |     240,784 |             5 |   60,000 |         19 |         6 | HEALTHY      | Cluster is healthy                                |
 | hanglo-training                |     128,415 |             5 |   16,000 |         32 |         2 | HEALTHY      | Cluster is healthy                                |
-| oci-dr-cops                    |      95,639 |             6 |   24,000 |         35 |         6 | HEALTHY      | Cluster is healthy                                |
-| oci-dr-dcops                   |      47,726 |            19 |   12,000 |         51 |         3 | HEALTHY      | Cluster is healthy                                |
+| oci-dr-cops                    |      95,639 |             6 |   24,000 |         34 |         6 | HEALTHY      | Cluster is healthy                                |
+| oci-dr-dcops                   |      47,726 |            19 |   12,000 |         52 |         3 | HEALTHY      | Cluster is healthy                                |
 | sha-prod-ci-apps-tkc           |      95,634 |            11 |   48,000 |         20 |         6 | HEALTHY      | Cluster is healthy                                |
 | sha-prod-e2proxy-tkc           |     111,573 |            13 |   56,000 |         20 |         7 | HEALTHY      | Cluster is healthy                                |
 | sjca-prod-ci-apps-tkc          |     111,575 |            12 |   44,000 |         29 |         7 | HEALTHY      | Cluster is healthy                                |
@@ -72,7 +72,7 @@ draft: false
 | stg-tanzu-ci-apps-tkc          |     111,575 |            15 |   44,000 |         31 |         7 | HEALTHY      | Cluster is healthy                                |
 | stg-tanzu-cops-tkc             |     175,773 |             7 |   44,000 |         29 |         7 | HEALTHY      | Cluster is healthy                                |
 | stg-tanzu-e2proxy-tkc          |     111,575 |            47 |   44,000 |         47 |         7 | HEALTHY      | Cluster is healthy                                |
-| stg-tanzu-e2proxy-walkme-tkc   |      47,255 |            38 |   24,000 |         52 |         6 | HEALTHY      | Cluster is healthy                                |
+| stg-tanzu-e2proxy-walkme-tkc   |      47,255 |            37 |   24,000 |         52 |         6 | HEALTHY      | Cluster is healthy                                |
 | stg-tanzu-rdm-sb-tkc           |     240,788 |             6 |   36,000 |         34 |         6 | HEALTHY      | Cluster is healthy                                |
 | stg-tanzu-rdm-uat-tkc          |     240,788 |             7 |   36,000 |         35 |         6 | HEALTHY      | Cluster is healthy                                |
 | stg-vault-tkc                  |      59,352 |            26 |   18,000 |         68 |         6 | HEALTHY      | Cluster is healthy                                |
@@ -80,9 +80,9 @@ draft: false
 | sv1-dev-rnd-sandbox            |     176,087 |            26 |   44,000 |         70 |         7 | HEALTHY      | Cluster is healthy                                |
 | sv1-dev-test                   |      31,793 |            20 |    8,000 |         64 |         2 | HEALTHY      | Cluster is healthy                                |
 | sv1-e2proxy-blue-demo          |      55,695 |            24 |   16,000 |         64 |         4 | HEALTHY      | Cluster is healthy                                |
-| sv1-e2proxy-green-demo         |      55,582 |            24 |   16,000 |         64 |         4 | HEALTHY      | Cluster is healthy                                |
+| sv1-e2proxy-green-demo         |      55,582 |            24 |   16,000 |         65 |         4 | HEALTHY      | Cluster is healthy                                |
 | sv1-terraform-demo             |      31,793 |            20 |    8,000 |         65 |         2 | HEALTHY      | Cluster is healthy                                |
 | sv4-dr-cdm-e2proxy             |      71,444 |             4 |   36,000 |         17 |         6 | HEALTHY      | Cluster is healthy                                |
 | sv4-dr-rdm                     |     119,828 |             3 |   36,000 |         17 |         6 | HEALTHY      | Cluster is healthy                                |
-| test-automation                |      11,720 |            49 |    6,000 |         77 |         2 | HEALTHY      | Cluster is healthy                                |
+| test-automation                |      11,720 |            48 |    6,000 |         75 |         2 | HEALTHY      | Cluster is healthy                                |
 | wingho-training                |      80,104 |             9 |   12,000 |         43 |         2 | HEALTHY      | Cluster is healthy                                |

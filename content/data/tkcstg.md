@@ -25,7 +25,7 @@ draft: false
 | stg-tanzu-ci-apps-tkc        |     111,575 |            15 |   44,000 |         31 |         7 | HEALTHY | Cluster is healthy |
 | stg-tanzu-cops-tkc           |     175,773 |             7 |   44,000 |         29 |         7 | HEALTHY | Cluster is healthy |
 | stg-tanzu-e2proxy-tkc        |     111,575 |            47 |   44,000 |         47 |         7 | HEALTHY | Cluster is healthy |
-| stg-tanzu-e2proxy-walkme-tkc |      47,255 |            38 |   24,000 |         52 |         6 | HEALTHY | Cluster is healthy |
+| stg-tanzu-e2proxy-walkme-tkc |      47,255 |            37 |   24,000 |         52 |         6 | HEALTHY | Cluster is healthy |
 | stg-tanzu-rdm-sb-tkc         |     240,788 |             6 |   36,000 |         34 |         6 | HEALTHY | Cluster is healthy |
 | stg-tanzu-rdm-uat-tkc        |     240,788 |             7 |   36,000 |         35 |         6 | HEALTHY | Cluster is healthy |
 | stg-vault-tkc                |      59,352 |            26 |   18,000 |         68 |         6 | HEALTHY | Cluster is healthy |
