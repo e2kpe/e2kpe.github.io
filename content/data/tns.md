@@ -1,6 +1,6 @@
 ---
 title: "tns"
-date: 2023-11-27
+date: 2023-11-29
 menu: data
 showdates: true
 weight: 11
@@ -13,6 +13,7 @@ draft: false
 | rdm-prod                        | fr8-prod-e2net-cdm-platform    | fr8-prod-rdm                                | attached             |
 | rdm-es-uat                      | fr8-stg-e2net-cdm-platform     | fr8stg-rdm                                  | attached             |
 | rdm-uat                         | fr8-stg-e2net-cdm-platform     | fr8stg-rdm                                  | attached             |
+| ci-apps                         | cdg-dr-ciapps                  | prod-fra-ci-developer                       | cdg-dr               |
 | e2proxy                         | cdg-dr-e2proxy                 | prod-fra-ci-developer                       | cdg-dr               |
 | cargoscreening-prod             | chg-prod-cargoscreening-tkc    | chg-cargoscreening-devteam                  | chg-prod-tanzu-k8s   |
 | ci-prod                         | chg-prod-ci-apps-tkc           | chg-prod-ci-apps-tkc-ci-developer           | chg-prod-tanzu-k8s   |
@@ -55,9 +56,11 @@ draft: false
 | monitor-observability-testbench | e2dev-tanzu-ci-tkc             | dev-tanzu-monitor                           | e2open-dev-tanzu     |
 | monitor-zabbix                  | e2dev-tanzu-ci-tkc             | dev-tanzu-monitor                           | e2open-dev-tanzu     |
 | ci-buildenv                     | e2dev-tanzu-ci-tkc             | e2dev-tanzu-ci-tkc-ci-developer             | e2open-dev-tanzu     |
+| ci-helm                         | e2dev-tanzu-ci-tkc             | e2dev-tanzu-ci-tkc-ci-developer             | e2open-dev-tanzu     |
 | ci-productqa                    | e2dev-tanzu-ci-tkc             | e2dev-tanzu-ci-tkc-ci-developer             | e2open-dev-tanzu     |
 | ci-projectdev                   | e2dev-tanzu-ci-tkc             | e2dev-tanzu-ci-tkc-ci-developer             | e2open-dev-tanzu     |
 | ci-psr                          | e2dev-tanzu-ci-tkc             | e2dev-tanzu-ci-tkc-ci-developer             | e2open-dev-tanzu     |
+| devops-test                     | e2dev-tanzu-ci-tkc             | e2dev-tanzu-ci-tkc-ci-developer             | e2open-dev-tanzu     |
 | jfrog                           | e2dev-tanzu-ci-tkc             | jfrog                                       | e2open-dev-tanzu     |
 | temporal                        | e2dev-tanzu-ci-tkc             | temporal                                    | e2open-dev-tanzu     |
 | ocular                          | e2dev-tanzu-ci-tkc             | watermill-developement-team                 | e2open-dev-tanzu     |

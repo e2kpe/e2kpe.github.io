@@ -1,6 +1,6 @@
 ---
 title: "tnsdev"
-date: 2023-11-27
+date: 2023-11-29
 menu: data
 showdates: true
 weight: 11
@@ -24,9 +24,11 @@ draft: false
 | monitor-observability-testbench | e2dev-tanzu-ci-tkc             | dev-tanzu-monitor               | e2open-dev-tanzu |
 | monitor-zabbix                  | e2dev-tanzu-ci-tkc             | dev-tanzu-monitor               | e2open-dev-tanzu |
 | ci-buildenv                     | e2dev-tanzu-ci-tkc             | e2dev-tanzu-ci-tkc-ci-developer | e2open-dev-tanzu |
+| ci-helm                         | e2dev-tanzu-ci-tkc             | e2dev-tanzu-ci-tkc-ci-developer | e2open-dev-tanzu |
 | ci-productqa                    | e2dev-tanzu-ci-tkc             | e2dev-tanzu-ci-tkc-ci-developer | e2open-dev-tanzu |
 | ci-projectdev                   | e2dev-tanzu-ci-tkc             | e2dev-tanzu-ci-tkc-ci-developer | e2open-dev-tanzu |
 | ci-psr                          | e2dev-tanzu-ci-tkc             | e2dev-tanzu-ci-tkc-ci-developer | e2open-dev-tanzu |
+| devops-test                     | e2dev-tanzu-ci-tkc             | e2dev-tanzu-ci-tkc-ci-developer | e2open-dev-tanzu |
 | jfrog                           | e2dev-tanzu-ci-tkc             | jfrog                           | e2open-dev-tanzu |
 | temporal                        | e2dev-tanzu-ci-tkc             | temporal                        | e2open-dev-tanzu |
 | ocular                          | e2dev-tanzu-ci-tkc             | watermill-developement-team     | e2open-dev-tanzu |
