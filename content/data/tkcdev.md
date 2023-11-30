@@ -1,6 +1,6 @@
 ---
 title: "tkcdev"
-date: 2023-11-29
+date: 2023-11-30
 menu: data
 showdates: true
 weight: 11
@@ -13,10 +13,10 @@ draft: false
 | e2dev-tanzu-ci-tkc             |     826,867 |            16 |  108,000 |         47 |         9 | HEALTHY | Cluster is healthy                 |
 | e2dev-tanzu-cl-tkc             |     240,088 |            10 |  108,000 |         17 |         9 | HEALTHY | Cluster is healthy                 |
 | e2dev-tanzu-cops-tkc           |     127,514 |            13 |   52,000 |         34 |         8 | HEALTHY | Cluster is healthy                 |
-| e2dev-tanzu-crpmrri-tkc        |     240,791 |             5 |   24,000 |         42 |         6 | HEALTHY | Cluster is healthy                 |
-| e2dev-tanzu-cs-tkc             |     817,428 |            32 |  204,000 |         31 |        27 | HEALTHY | Cluster is healthy                 |
+| e2dev-tanzu-crpmrri-tkc        |     240,791 |             5 |   24,000 |         41 |         6 | HEALTHY | Cluster is healthy                 |
+| e2dev-tanzu-cs-tkc             |     817,428 |            34 |  204,000 |         31 |        27 | HEALTHY | Cluster is healthy                 |
 | e2dev-tanzu-dcops-test-tkc     |      27,216 |            48 |   14,000 |         80 |         5 | WARNING | 1 worker node is in UNKNOWN state. |
-| e2dev-tanzu-e2net-tkc          |     144,015 |            10 |   60,000 |         19 |         6 | HEALTHY | Cluster is healthy                 |
+| e2dev-tanzu-e2net-tkc          |     144,015 |            10 |   60,000 |         20 |         6 | HEALTHY | Cluster is healthy                 |
 | e2dev-tanzu-rdm-devqa-tkc      |     240,788 |             5 |   36,000 |         28 |         6 | HEALTHY | Cluster is healthy                 |
 | e2dev-tanzu-rdm-tkc            |     305,111 |             5 |   44,000 |         32 |         7 | HEALTHY | Cluster is healthy                 |
 | e2dev-tanzu-snop-tkc           |     305,489 |             4 |   28,000 |         37 |         5 | HEALTHY | Cluster is healthy                 |
