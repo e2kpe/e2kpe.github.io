@@ -1,6 +1,6 @@
 ---
 title: "tkcstg"
-date: 2023-11-30
+date: 2023-12-01
 menu: data
 showdates: true
 weight: 11
@@ -10,7 +10,7 @@ draft: false
 | clustername                  | memorytotal | memorypercent | cputotal | cpupercent | nodecount | health  | message            |
 | ---------------------------- | ----------- | ------------- | -------- | ---------- | --------- | ------- | ------------------ |
 | fr8-stg-cops                 |      95,640 |             3 |   24,000 |         26 |         6 | HEALTHY | Cluster is healthy |
-| fr8-stg-dcops                |      23,067 |            25 |   12,000 |         61 |         6 | HEALTHY | Cluster is healthy |
+| fr8-stg-dcops                |      23,067 |            26 |   12,000 |         61 |         6 | HEALTHY | Cluster is healthy |
 | fr8-stg-e2net-cdm-platform   |     240,788 |             4 |   36,000 |         27 |         6 | HEALTHY | Cluster is healthy |
 | stg-cargoscreening-tkc       |     119,821 |            11 |   72,000 |         13 |         6 | HEALTHY | Cluster is healthy |
 | stg-cdm-awx-tkc              |     305,111 |             9 |   44,000 |         44 |         7 | HEALTHY | Cluster is healthy |
@@ -27,5 +27,5 @@ draft: false
 | stg-tanzu-e2proxy-tkc        |     111,575 |            47 |   44,000 |         47 |         7 | HEALTHY | Cluster is healthy |
 | stg-tanzu-e2proxy-walkme-tkc |      47,255 |            37 |   24,000 |         52 |         6 | HEALTHY | Cluster is healthy |
 | stg-tanzu-rdm-sb-tkc         |     240,788 |             6 |   36,000 |         34 |         6 | HEALTHY | Cluster is healthy |
-| stg-tanzu-rdm-uat-tkc        |     240,788 |             7 |   36,000 |         35 |         6 | HEALTHY | Cluster is healthy |
+| stg-tanzu-rdm-uat-tkc        |     240,788 |             7 |   36,000 |         36 |         6 | HEALTHY | Cluster is healthy |
 | stg-vault-tkc                |      59,352 |            26 |   18,000 |         68 |         6 | HEALTHY | Cluster is healthy |
