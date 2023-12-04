@@ -1,5 +1,5 @@
 ---
-title: "TKG#1"
+title: "Some Document"
 date:
 tags:
   - "tkgs"
@@ -8,4 +8,4 @@ showdates: false
 weight: 1
 draft: false
 ---
-1
+This is a sample document.
