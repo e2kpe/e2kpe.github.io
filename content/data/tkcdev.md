@@ -15,7 +15,7 @@ draft: false
 | e2dev-tanzu-cops-tkc           |     127,514 |            12 |   52,000 |         32 |         8 | HEALTHY      | Cluster is healthy                                |
 | e2dev-tanzu-crpmrri-tkc        |     240,791 |             5 |   24,000 |         41 |         6 | HEALTHY      | Cluster is healthy                                |
 | e2dev-tanzu-cs-tkc             |     817,428 |            34 |  204,000 |         31 |        27 | HEALTHY      | Cluster is healthy                                |
-| e2dev-tanzu-dcops-test-tkc     |           0 |             0 |        0 |          0 |         5 | DISCONNECTED | Disconnected. Last heartbeat 2023-12-04T14:59:43Z |
+| e2dev-tanzu-dcops-test-tkc     |           0 |             0 |        0 |          0 |         5 | DISCONNECTED | Disconnected. Last heartbeat 2023-12-04T16:45:51Z |
 | e2dev-tanzu-e2net-tkc          |     144,015 |            10 |   60,000 |         19 |         6 | HEALTHY      | Cluster is healthy                                |
 | e2dev-tanzu-rdm-devqa-tkc      |     240,788 |             5 |   36,000 |         28 |         6 | HEALTHY      | Cluster is healthy                                |
 | e2dev-tanzu-rdm-tkc            |     305,111 |             5 |   44,000 |         32 |         7 | HEALTHY      | Cluster is healthy                                |

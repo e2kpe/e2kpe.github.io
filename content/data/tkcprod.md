@@ -20,7 +20,7 @@ draft: false
 | chg-prod-sharedservices-tkc |      95,636 |            23 |   36,000 |         49 |         6 | HEALTHY | Cluster is healthy |
 | chg-prod-vault-tkc          |      47,255 |            12 |   24,000 |         34 |         6 | HEALTHY | Cluster is healthy |
 | fr8-prod-e2net-cdm-platform |     240,788 |             4 |   36,000 |         27 |         6 | HEALTHY | Cluster is healthy |
-| fr8-prod-vault-tkc          |      35,163 |            12 |   12,000 |         53 |         6 | HEALTHY | Cluster is healthy |
+| fr8-prod-vault-tkc          |      35,163 |            11 |   12,000 |         52 |         6 | HEALTHY | Cluster is healthy |
 | fra-prod-ci-apps-tkc        |     111,575 |            12 |   44,000 |         29 |         7 | HEALTHY | Cluster is healthy |
 | fra-prod-cops-tkc           |     111,575 |             5 |   44,000 |         21 |         7 | HEALTHY | Cluster is healthy |
 | fra-prod-e2proxy-tkc        |     176,087 |            10 |   44,000 |         31 |         7 | HEALTHY | Cluster is healthy |
