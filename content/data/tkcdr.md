@@ -16,4 +16,4 @@ draft: false
 | oci-dr-cops           |      95,639 |             6 |   24,000 |         34 |         6 | HEALTHY | Cluster is healthy |
 | oci-dr-dcops          |      47,726 |            19 |   12,000 |         51 |         3 | HEALTHY | Cluster is healthy |
 | sv4-dr-cdm-e2proxy    |      71,444 |             4 |   36,000 |         17 |         6 | HEALTHY | Cluster is healthy |
-| sv4-dr-rdm            |     119,828 |             3 |   36,000 |         18 |         6 | HEALTHY | Cluster is healthy |
+| sv4-dr-rdm            |     119,828 |             4 |   36,000 |         19 |         6 | HEALTHY | Cluster is healthy |
