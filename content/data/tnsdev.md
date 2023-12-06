@@ -1,6 +1,6 @@
 ---
 title: "tnsdev"
-date: 2023-12-04
+date: 2023-12-06
 menu: data
 showdates: true
 weight: 11
@@ -60,6 +60,9 @@ draft: false
 | activemq                        | e2dev-tanzu-e2net-tkc          | dev-e2net                       | e2open-dev-tanzu |
 | e2net-artemis                   | e2dev-tanzu-e2net-tkc          | dev-e2net                       | e2open-dev-tanzu |
 | hazelcast                       | e2dev-tanzu-e2net-tkc          | dev-e2net                       | e2open-dev-tanzu |
+| e2net-es                        | e2dev-tanzu-e2net-tkc          | e2dev-tanzu-e2net-tkc-e2net-zk  | e2open-dev-tanzu |
+| e2net-kosh                      | e2dev-tanzu-e2net-tkc          | e2dev-tanzu-e2net-tkc-e2net-zk  | e2open-dev-tanzu |
+| e2net-zk                        | e2dev-tanzu-e2net-tkc          | e2dev-tanzu-e2net-tkc-e2net-zk  | e2open-dev-tanzu |
 | rdm-es-qa                       | e2dev-tanzu-rdm-devqa-tkc      | dev-rdm-qa                      | e2open-dev-tanzu |
 | rdm-qa                          | e2dev-tanzu-rdm-devqa-tkc      | dev-rdm-qa                      | e2open-dev-tanzu |
 | rdm-devint                      | e2dev-tanzu-rdm-tkc            | dev-rdm-qa                      | e2open-dev-tanzu |
