@@ -1,6 +1,6 @@
 ---
 title: "tnsdev"
-date: 2023-12-06
+date: 2023-12-07
 menu: data
 showdates: true
 weight: 11
@@ -74,4 +74,6 @@ draft: false
 | rdm-es-dev                      | e2dev-tanzu-rdm-tkc            | rdm-rndteam                     | e2open-dev-tanzu |
 | monitor-zabbix                  | e2dev-tanzu-snop-tkc           | dev-tanzu-monitor               | e2open-dev-tanzu |
 | brengine                        | e2dev-tanzu-snop-tkc           | snop-dev-tanzu                  | e2open-dev-tanzu |
+| e2net-es                        | sv1-dev-e2net                  | sv1-dev-e2net                   | e2open-dev-tanzu |
+| e2net-kosh                      | sv1-dev-e2net                  | sv1-dev-e2net                   | e2open-dev-tanzu |
 | hackathon-innovation            | sv1-dev-rnd-sandbox            | hackathon-innovation            | e2open-dev-tanzu |
