@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2023-12-07
+date: 2023-12-11
 menu: data
 showdates: true
 weight: 11
@@ -80,11 +80,10 @@ draft: false
 | e2dev-tanzu-dcops-test-tkc     | v1.24.11     |
 | e2dev-tanzu-vault-tkc          | v1.24.11     |
 | hanglo-training                | v1.24.11     |
-| sv1-dev-cops                   | v1.24.11     |
-| sv1-dev-e2net                  | v1.24.11     |
 | sv1-dev-infosec                | v1.24.11     |
-| sv1-dev-test                   | v1.24.11     |
-| sv1-terraform-demo             | v1.24.11     |
+| sv4-dev-cargoscreening         | v1.24.11     |
+| sv4-dev-cops                   | v1.24.11     |
+| sv4-dev-e2net                  | v1.24.11     |
 | wingho-training                | v1.24.11     |
 | fr8-prod-e2net-cdm-platform    |              |
 | fr8-stg-e2net-cdm-platform     |              |
