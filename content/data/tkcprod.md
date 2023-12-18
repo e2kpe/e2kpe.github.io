@@ -1,6 +1,6 @@
 ---
 title: "tkcprod"
-date: 2023-12-11
+date: 2023-12-18
 menu: data
 showdates: true
 weight: 11
@@ -9,6 +9,7 @@ draft: false
 <!--more-->
 | clustername                 | memorytotal | memorypercent | cputotal | cpupercent | nodecount | health  | message            |
 | --------------------------- | ----------- | ------------- | -------- | ---------- | --------- | ------- | ------------------ |
+| ch3-prod-cdm                |     240,313 |             6 |   36,000 |         30 |         6 | HEALTHY | Cluster is healthy |
 | chg-prod-cargoscreening-tkc |     119,821 |            10 |   72,000 |         15 |         6 | HEALTHY | Cluster is healthy |
 | chg-prod-cdm-awx-tkc        |     305,111 |             8 |   44,000 |         42 |         7 | HEALTHY | Cluster is healthy |
 | chg-prod-ci-apps-tkc        |     111,575 |            12 |   44,000 |         29 |         7 | HEALTHY | Cluster is healthy |
@@ -23,7 +24,7 @@ draft: false
 | fr8-prod-vault-tkc          |      35,163 |            11 |   12,000 |         52 |         6 | HEALTHY | Cluster is healthy |
 | fra-prod-ci-apps-tkc        |     111,575 |            12 |   44,000 |         29 |         7 | HEALTHY | Cluster is healthy |
 | fra-prod-cops-tkc           |     111,575 |             5 |   44,000 |         21 |         7 | HEALTHY | Cluster is healthy |
-| fra-prod-e2proxy-tkc        |     176,087 |            10 |   44,000 |         32 |         7 | HEALTHY | Cluster is healthy |
+| fra-prod-e2proxy-tkc        |     176,087 |            10 |   44,000 |         31 |         7 | HEALTHY | Cluster is healthy |
 | fra-prod-e2proxy-walkme-tkc |      55,505 |            19 |   28,000 |         35 |         5 | HEALTHY | Cluster is healthy |
 | fra-prod-sharedservices-tkc |     240,784 |             5 |   60,000 |         19 |         6 | HEALTHY | Cluster is healthy |
 | sha-prod-ci-apps-tkc        |      95,634 |            11 |   48,000 |         20 |         6 | HEALTHY | Cluster is healthy |

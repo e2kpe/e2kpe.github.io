@@ -1,6 +1,6 @@
 ---
 title: "tnsdev"
-date: 2023-12-11
+date: 2023-12-18
 menu: data
 showdates: true
 weight: 11
@@ -13,6 +13,7 @@ draft: false
 | cargoscreening-dev              | e2dev-tanzu-cargoscreening-tkc | dev-cargoscreening-devteam      | e2open-dev-tanzu |
 | monitor-zabbix                  | e2dev-tanzu-cargoscreening-tkc | dev-tanzu-monitor               | e2open-dev-tanzu |
 | catx                            | e2dev-tanzu-ci-tkc             | catx                            | e2open-dev-tanzu |
+| clamav                          | e2dev-tanzu-ci-tkc             | dev-cops                        | e2open-dev-tanzu |
 | ci                              | e2dev-tanzu-ci-tkc             | dev-tanzu-ci                    | e2open-dev-tanzu |
 | ci-cdm                          | e2dev-tanzu-ci-tkc             | dev-tanzu-ci                    | e2open-dev-tanzu |
 | e2net-dai                       | e2dev-tanzu-ci-tkc             | dev-tanzu-ci                    | e2open-dev-tanzu |
@@ -36,10 +37,6 @@ draft: false
 | watermill-2nd                   | e2dev-tanzu-ci-tkc             | watermill-developement-team     | e2open-dev-tanzu |
 | wm-dev                          | e2dev-tanzu-ci-tkc             | watermill-developement-team     | e2open-dev-tanzu |
 | wm-psr                          | e2dev-tanzu-ci-tkc             | watermill-developement-team     | e2open-dev-tanzu |
-| argo                            | e2dev-tanzu-cops-tkc           | dev-cops                        | e2open-dev-tanzu |
-| clamav                          | e2dev-tanzu-cops-tkc           | dev-cops                        | e2open-dev-tanzu |
-| spire                           | e2dev-tanzu-cops-tkc           | dev-cops                        | e2open-dev-tanzu |
-| observability-es-poc            | e2dev-tanzu-cops-tkc           | dev-cops-cloud-mon              | e2open-dev-tanzu |
 | crp-dev                         | e2dev-tanzu-crpmrri-tkc        | dev-crpmrri                     | e2open-dev-tanzu |
 | ppi                             | e2dev-tanzu-cs-tkc             | default                         | e2open-dev-tanzu |
 | awx                             | e2dev-tanzu-cs-tkc             | dev-cs-rndteam                  | e2open-dev-tanzu |
@@ -56,7 +53,6 @@ draft: false
 | tp-dev                          | e2dev-tanzu-cs-tkc             | dev-cs-rndteam                  | e2open-dev-tanzu |
 | trueid-dev                      | e2dev-tanzu-cs-tkc             | dev-cs-rndteam                  | e2open-dev-tanzu |
 | monitor-zabbix                  | e2dev-tanzu-cs-tkc             | dev-tanzu-monitor               | e2open-dev-tanzu |
-| dcops-demo                      | e2dev-tanzu-dcops-test-tkc     | demo-wsp                        | e2open-dev-tanzu |
 | activemq                        | e2dev-tanzu-e2net-tkc          | dev-e2net                       | e2open-dev-tanzu |
 | e2net-artemis                   | e2dev-tanzu-e2net-tkc          | dev-e2net                       | e2open-dev-tanzu |
 | hazelcast                       | e2dev-tanzu-e2net-tkc          | dev-e2net                       | e2open-dev-tanzu |
@@ -75,6 +71,17 @@ draft: false
 | monitor-zabbix                  | e2dev-tanzu-snop-tkc           | dev-tanzu-monitor               | e2open-dev-tanzu |
 | brengine                        | e2dev-tanzu-snop-tkc           | snop-dev-tanzu                  | e2open-dev-tanzu |
 | hackathon-innovation            | sv1-dev-rnd-sandbox            | hackathon-innovation            | e2open-dev-tanzu |
-| cargoscreening-dev              | sv4-dev-cargoscreening         | dev-cargoscreening-devteam      | e2open-dev-tanzu |
+| crp-dev                         | sv4-dev-cdm                    | dev-crpmrri                     | e2open-dev-tanzu |
+| catx                            | sv4-dev-ci                     | catx                            | e2open-dev-tanzu |
+| watermill                       | sv4-dev-ci                     | watermill-developement-team     | e2open-dev-tanzu |
+| watermill-2nd                   | sv4-dev-ci                     | watermill-developement-team     | e2open-dev-tanzu |
+| wm-dev                          | sv4-dev-ci                     | watermill-developement-team     | e2open-dev-tanzu |
+| wm-psr                          | sv4-dev-ci                     | watermill-developement-team     | e2open-dev-tanzu |
+| clamav                          | sv4-dev-cops                   | dev-cops                        | e2open-dev-tanzu |
+| activemq                        | sv4-dev-e2net                  | sv1-dev-e2net                   | e2open-dev-tanzu |
+| e2net-artemis                   | sv4-dev-e2net                  | sv1-dev-e2net                   | e2open-dev-tanzu |
+| e2net-dev421                    | sv4-dev-e2net                  | sv1-dev-e2net                   | e2open-dev-tanzu |
 | e2net-es                        | sv4-dev-e2net                  | sv1-dev-e2net                   | e2open-dev-tanzu |
 | e2net-kosh                      | sv4-dev-e2net                  | sv1-dev-e2net                   | e2open-dev-tanzu |
+| e2netpsr                        | sv4-dev-e2net                  | sv1-dev-e2net                   | e2open-dev-tanzu |
+| cargoscreening-dev              | sv4-dev-gtm                    | dev-cargoscreening-devteam      | e2open-dev-tanzu |

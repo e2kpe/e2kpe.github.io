@@ -1,6 +1,6 @@
 ---
 title: "tnsprod"
-date: 2023-12-11
+date: 2023-12-18
 menu: data
 showdates: true
 weight: 11
@@ -11,6 +11,7 @@ draft: false
 | ----------------------- | --------------------------- | ------------------------------------------ | ------------------- |
 | rdm-es-prod             | fr8-prod-e2net-cdm-platform | fr8-prod-rdm                               | attached            |
 | rdm-prod                | fr8-prod-e2net-cdm-platform | fr8-prod-rdm                               | attached            |
+| crp-mrri                | ch3-prod-cdm                | crp-mrri-prod                              | chg-prod-tanzu-k8s  |
 | cargoscreening-prod     | chg-prod-cargoscreening-tkc | chg-cargoscreening-devteam                 | chg-prod-tanzu-k8s  |
 | ci-prod                 | chg-prod-ci-apps-tkc        | chg-prod-ci-apps-tkc-ci-developer          | chg-prod-tanzu-k8s  |
 | monitor-log-testbench   | chg-prod-ci-apps-tkc        | chg-prod-ci-apps-tkc-cloudoperation        | chg-prod-tanzu-k8s  |

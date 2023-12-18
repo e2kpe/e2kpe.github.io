@@ -1,6 +1,6 @@
 ---
 title: "tnsstg"
-date: 2023-12-11
+date: 2023-12-18
 menu: data
 showdates: true
 weight: 11
@@ -20,6 +20,7 @@ draft: false
 | awx-staging                     | stg-cdm-awx-tkc              | stg-cs-rndteam                              | e2stg-tanzu          |
 | crp                             | stg-cdm-ppi-tkc              | stg-cdm-ppi-ws                              | e2stg-tanzu          |
 | cvis                            | stg-cdm-ppi-tkc              | stg-cdm-ppi-ws                              | e2stg-tanzu          |
+| cvissb                          | stg-cdm-ppi-tkc              | stg-cdm-ppi-ws                              | e2stg-tanzu          |
 | feeds                           | stg-cdm-ppi-tkc              | stg-cdm-ppi-ws                              | e2stg-tanzu          |
 | ppi                             | stg-cdm-ppi-tkc              | stg-cdm-ppi-ws                              | e2stg-tanzu          |
 | sso                             | stg-cdm-ppi-tkc              | stg-cdm-ppi-ws                              | e2stg-tanzu          |

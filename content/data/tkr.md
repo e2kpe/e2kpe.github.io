@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2023-12-11
+date: 2023-12-18
 menu: data
 showdates: true
 weight: 11
@@ -25,7 +25,6 @@ draft: false
 | den-tanzu-e2proxy-walkme-tkc   | v1.22.9      |
 | e2dev-tanzu-cargoscreening-tkc | v1.22.9      |
 | e2dev-tanzu-ci-tkc             | v1.22.9      |
-| e2dev-tanzu-cops-tkc           | v1.22.9      |
 | e2dev-tanzu-crpmrri-tkc        | v1.22.9      |
 | e2dev-tanzu-cs-tkc             | v1.22.9      |
 | e2dev-tanzu-e2net-tkc          | v1.22.9      |
@@ -75,15 +74,17 @@ draft: false
 | stgfra-dcops-tkc               | v1.23.8      |
 | sv1-e2proxy-green-demo         | v1.23.8      |
 | test-automation                | v1.23.8      |
+| ch3-prod-cdm                   | v1.24.11     |
 | den-dr-cops                    | v1.24.11     |
 | e2dev-tanzu-cl-tkc             | v1.24.11     |
-| e2dev-tanzu-dcops-test-tkc     | v1.24.11     |
-| e2dev-tanzu-vault-tkc          | v1.24.11     |
 | hanglo-training                | v1.24.11     |
 | sv1-dev-infosec                | v1.24.11     |
-| sv4-dev-cargoscreening         | v1.24.11     |
+| sv4-dev-cdm                    | v1.24.11     |
+| sv4-dev-ci                     | v1.24.11     |
 | sv4-dev-cops                   | v1.24.11     |
 | sv4-dev-e2net                  | v1.24.11     |
+| sv4-dev-gtm                    | v1.24.11     |
+| sv4-dev-rnd-sandbox            | v1.24.11     |
 | wingho-training                | v1.24.11     |
 | fr8-prod-e2net-cdm-platform    |              |
 | fr8-stg-e2net-cdm-platform     |              |
