@@ -1,6 +1,6 @@
 ---
 title: "tnsstg"
-date: 2023-12-18
+date: 2024-01-11
 menu: data
 showdates: true
 weight: 11
@@ -25,7 +25,6 @@ draft: false
 | ppi                             | stg-cdm-ppi-tkc              | stg-cdm-ppi-ws                              | e2stg-tanzu          |
 | sso                             | stg-cdm-ppi-tkc              | stg-cdm-ppi-ws                              | e2stg-tanzu          |
 | trueid                          | stg-cdm-ppi-tkc              | stg-cdm-ppi-ws                              | e2stg-tanzu          |
-| e2net-stg                       | stg-e2net-tkc                | stg-e2net                                   | e2stg-tanzu          |
 | ingress-nginx                   | stg-shared-service-tkc       | stg-shared-service                          | e2stg-tanzu          |
 | stg-shared-service-access       | stg-shared-service-tkc       | stg-shared-service                          | e2stg-tanzu          |
 | watermill                       | stg-shared-service-tkc       | watermill-stg-dev-team                      | e2stg-tanzu          |
@@ -58,3 +57,6 @@ draft: false
 | rdm-sb                          | stg-tanzu-rdm-sb-tkc         | stg-rdm-sb                                  | e2stg-tanzu          |
 | rdm-es-uat                      | stg-tanzu-rdm-uat-tkc        | stg-rdm-uat                                 | e2stg-tanzu          |
 | rdm-uat                         | stg-tanzu-rdm-uat-tkc        | stg-rdm-uat                                 | e2stg-tanzu          |
+| e2net-es                        | sv4-stg-e2net                | stg-e2net                                   | e2stg-tanzu          |
+| e2net-kosh                      | sv4-stg-e2net                | stg-e2net                                   | e2stg-tanzu          |
+| e2net-zk                        | sv4-stg-e2net                | stg-e2net                                   | e2stg-tanzu          |
