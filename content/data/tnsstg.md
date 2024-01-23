@@ -1,6 +1,6 @@
 ---
 title: "tnsstg"
-date: 2024-01-11
+date: 2024-01-23
 menu: data
 showdates: true
 weight: 11
@@ -11,6 +11,9 @@ draft: false
 | ------------------------------- | ---------------------------- | ------------------------------------------- | -------------------- |
 | rdm-es-uat                      | fr8-stg-e2net-cdm-platform   | fr8stg-rdm                                  | attached             |
 | rdm-uat                         | fr8-stg-e2net-cdm-platform   | fr8stg-rdm                                  | attached             |
+| e2net-es                        | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
+| e2net-kosh                      | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
+| e2net-zk                        | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
 | ci-apps                         | stg-fra-ci-apps-tkc          | stg-fra-ci-developer                        | e2open-fr8-stg-tanzu |
 | e2proxy                         | stg-fra-e2proxy-tkc          | stg-fra-ci-developer                        | e2open-fr8-stg-tanzu |
 | e2proxy                         | stg-fra-e2proxy-walkme-tkc   | stg-fra-ci-developer                        | e2open-fr8-stg-tanzu |
@@ -53,10 +56,13 @@ draft: false
 | monitor-observability-testbench | stg-tanzu-e2proxy-walkme-tkc | stg-tanzu-e2proxy-walkme-tkc-cloudoperation | e2stg-tanzu          |
 | k8smonitor                      | stg-tanzu-e2proxy-walkme-tkc | stg-tanzu-monitor                           | e2stg-tanzu          |
 | monitor-zabbix                  | stg-tanzu-e2proxy-walkme-tkc | stg-tanzu-monitor                           | e2stg-tanzu          |
+| feeds-es-sb                     | stg-tanzu-rdm-sb-tkc         | stg-rdm-sb                                  | e2stg-tanzu          |
 | rdm-es-sb                       | stg-tanzu-rdm-sb-tkc         | stg-rdm-sb                                  | e2stg-tanzu          |
 | rdm-sb                          | stg-tanzu-rdm-sb-tkc         | stg-rdm-sb                                  | e2stg-tanzu          |
+| feeds-es-uat                    | stg-tanzu-rdm-uat-tkc        | stg-rdm-uat                                 | e2stg-tanzu          |
 | rdm-es-uat                      | stg-tanzu-rdm-uat-tkc        | stg-rdm-uat                                 | e2stg-tanzu          |
 | rdm-uat                         | stg-tanzu-rdm-uat-tkc        | stg-rdm-uat                                 | e2stg-tanzu          |
 | e2net-es                        | sv4-stg-e2net                | stg-e2net                                   | e2stg-tanzu          |
 | e2net-kosh                      | sv4-stg-e2net                | stg-e2net                                   | e2stg-tanzu          |
 | e2net-zk                        | sv4-stg-e2net                | stg-e2net                                   | e2stg-tanzu          |
+| e2search-zk                     | sv4-stg-sharedservices       | sv4-stg-sharedservices                      | e2stg-tanzu          |

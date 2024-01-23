@@ -1,6 +1,6 @@
 ---
 title: "tnsprod"
-date: 2024-01-11
+date: 2024-01-23
 menu: data
 showdates: true
 weight: 11
@@ -12,14 +12,15 @@ draft: false
 | rdm-es-prod             | fr8-prod-e2net-cdm-platform | fr8-prod-rdm                               | attached            |
 | rdm-prod                | fr8-prod-e2net-cdm-platform | fr8-prod-rdm                               | attached            |
 | crp-mrri                | ch3-prod-channel            | ch3-prod-channel                           | chg-prod-tanzu-k8s  |
+| e2net-es                | ch3-prod-e2net              | ch3-prod-e2net                             | chg-prod-tanzu-k8s  |
+| e2net-kosh              | ch3-prod-e2net              | ch3-prod-e2net                             | chg-prod-tanzu-k8s  |
+| e2net-zk                | ch3-prod-e2net              | ch3-prod-e2net                             | chg-prod-tanzu-k8s  |
 | cargoscreening-prod     | chg-prod-cargoscreening-tkc | chg-cargoscreening-devteam                 | chg-prod-tanzu-k8s  |
 | ci-prod                 | chg-prod-ci-apps-tkc        | chg-prod-ci-apps-tkc-ci-developer          | chg-prod-tanzu-k8s  |
 | monitor-log-testbench   | chg-prod-ci-apps-tkc        | chg-prod-ci-apps-tkc-cloudoperation        | chg-prod-tanzu-k8s  |
 | monitor-logging         | chg-prod-ci-apps-tkc        | chg-prod-ci-apps-tkc-cloudoperation        | chg-prod-tanzu-k8s  |
 | k8smonitor              | chg-prod-ci-apps-tkc        | chg-tanzu-monitor                          | chg-prod-tanzu-k8s  |
 | monitor-zabbix          | chg-prod-ci-apps-tkc        | chg-tanzu-monitor                          | chg-prod-tanzu-k8s  |
-| e2net-chg               | chg-prod-e2net-tkc          | chg-e2net                                  | chg-prod-tanzu-k8s  |
-| cassandra               | chg-prod-e2net-tkc          | chg-e2net-cassandra                        | chg-prod-tanzu-k8s  |
 | e2proxy                 | chg-prod-e2proxy-tkc        | chg-prod-ci-apps-tkc-ci-developer          | chg-prod-tanzu-k8s  |
 | monitor-log-testbench   | chg-prod-e2proxy-tkc        | chg-prod-e2proxy-tkc-cloudoperation        | chg-prod-tanzu-k8s  |
 | monitor-logging         | chg-prod-e2proxy-tkc        | chg-prod-e2proxy-tkc-cloudoperation        | chg-prod-tanzu-k8s  |
@@ -51,9 +52,11 @@ draft: false
 | monitor-logging         | sjca-prod-ci-apps-tkc       | sjca-prod-ci-apps-tkc-cloudoperation       | sjca-prod-tanzu-k8s |
 | k8smonitor              | sjca-prod-ci-apps-tkc       | sjca-tanzu-monitor                         | sjca-prod-tanzu-k8s |
 | monitor-zabbix          | sjca-prod-ci-apps-tkc       | sjca-tanzu-monitor                         | sjca-prod-tanzu-k8s |
-| cargoscreening          | sjca-prod-e2net-tkc         | sjca-e2net                                 | sjca-prod-tanzu-k8s |
 | e2proxy                 | sjca-prod-e2proxy-tkc       | sjca-prod-ci-apps-tkc-ci-developer         | sjca-prod-tanzu-k8s |
 | monitor-log-testbench   | sjca-prod-e2proxy-tkc       | sjca-prod-e2proxy-tkc-cloudoperation       | sjca-prod-tanzu-k8s |
 | monitor-logging         | sjca-prod-e2proxy-tkc       | sjca-prod-e2proxy-tkc-cloudoperation       | sjca-prod-tanzu-k8s |
 | k8smonitor              | sjca-prod-e2proxy-tkc       | sjca-tanzu-monitor                         | sjca-prod-tanzu-k8s |
 | monitor-zabbix          | sjca-prod-e2proxy-tkc       | sjca-tanzu-monitor                         | sjca-prod-tanzu-k8s |
+| e2net-es                | sv1-prod-e2net              | sv1-prod-e2net                             | sjca-prod-tanzu-k8s |
+| e2net-kosh              | sv1-prod-e2net              | sv1-prod-e2net                             | sjca-prod-tanzu-k8s |
+| e2net-zk                | sv1-prod-e2net              | sv1-prod-e2net                             | sjca-prod-tanzu-k8s |

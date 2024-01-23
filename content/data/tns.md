@@ -1,6 +1,6 @@
 ---
 title: "tns"
-date: 2024-01-11
+date: 2024-01-23
 menu: data
 showdates: true
 weight: 11
@@ -17,14 +17,15 @@ draft: false
 | e2proxy                         | cdg-dr-e2proxy               | prod-fra-ci-developer                       | cdg-dr               |
 | watermill                       | cdg-dr-sharedservices        | watermill                                   | cdg-dr               |
 | crp-mrri                        | ch3-prod-channel             | ch3-prod-channel                            | chg-prod-tanzu-k8s   |
+| e2net-es                        | ch3-prod-e2net               | ch3-prod-e2net                              | chg-prod-tanzu-k8s   |
+| e2net-kosh                      | ch3-prod-e2net               | ch3-prod-e2net                              | chg-prod-tanzu-k8s   |
+| e2net-zk                        | ch3-prod-e2net               | ch3-prod-e2net                              | chg-prod-tanzu-k8s   |
 | cargoscreening-prod             | chg-prod-cargoscreening-tkc  | chg-cargoscreening-devteam                  | chg-prod-tanzu-k8s   |
 | ci-prod                         | chg-prod-ci-apps-tkc         | chg-prod-ci-apps-tkc-ci-developer           | chg-prod-tanzu-k8s   |
 | monitor-log-testbench           | chg-prod-ci-apps-tkc         | chg-prod-ci-apps-tkc-cloudoperation         | chg-prod-tanzu-k8s   |
 | monitor-logging                 | chg-prod-ci-apps-tkc         | chg-prod-ci-apps-tkc-cloudoperation         | chg-prod-tanzu-k8s   |
 | k8smonitor                      | chg-prod-ci-apps-tkc         | chg-tanzu-monitor                           | chg-prod-tanzu-k8s   |
 | monitor-zabbix                  | chg-prod-ci-apps-tkc         | chg-tanzu-monitor                           | chg-prod-tanzu-k8s   |
-| e2net-chg                       | chg-prod-e2net-tkc           | chg-e2net                                   | chg-prod-tanzu-k8s   |
-| cassandra                       | chg-prod-e2net-tkc           | chg-e2net-cassandra                         | chg-prod-tanzu-k8s   |
 | e2proxy                         | chg-prod-e2proxy-tkc         | chg-prod-ci-apps-tkc-ci-developer           | chg-prod-tanzu-k8s   |
 | monitor-log-testbench           | chg-prod-e2proxy-tkc         | chg-prod-e2proxy-tkc-cloudoperation         | chg-prod-tanzu-k8s   |
 | monitor-logging                 | chg-prod-e2proxy-tkc         | chg-prod-e2proxy-tkc-cloudoperation         | chg-prod-tanzu-k8s   |
@@ -102,11 +103,8 @@ draft: false
 | feeds-es-dev                    | e2dev-tanzu-rdm-tkc          | rdm-rndteam                                 | e2open-dev-tanzu     |
 | rdm-dev                         | e2dev-tanzu-rdm-tkc          | rdm-rndteam                                 | e2open-dev-tanzu     |
 | rdm-es-dev                      | e2dev-tanzu-rdm-tkc          | rdm-rndteam                                 | e2open-dev-tanzu     |
-| monitor-zabbix                  | e2dev-tanzu-snop-tkc         | dev-tanzu-monitor                           | e2open-dev-tanzu     |
-| brengine                        | e2dev-tanzu-snop-tkc         | snop-dev-tanzu                              | e2open-dev-tanzu     |
 | hanglo-namespace                | hanglo-training              | default                                     | e2open-dev-tanzu     |
 | hackathon-innovation            | sv1-dev-rnd-sandbox          | hackathon-innovation                        | e2open-dev-tanzu     |
-| crp-dev                         | sv4-dev-cdm                  | dev-crpmrri                                 | e2open-dev-tanzu     |
 | crp-dev                         | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |
 | catx                            | sv4-dev-ci                   | catx                                        | e2open-dev-tanzu     |
 | watermill                       | sv4-dev-ci                   | watermill-developement-team                 | e2open-dev-tanzu     |
@@ -124,14 +122,23 @@ draft: false
 | e2net-kosh                      | sv4-dev-e2net                | sv1-dev-e2net                               | e2open-dev-tanzu     |
 | e2net-zk                        | sv4-dev-e2net                | sv1-dev-e2net                               | e2open-dev-tanzu     |
 | e2netpsr                        | sv4-dev-e2net                | sv1-dev-e2net                               | e2open-dev-tanzu     |
+| e2net-es-psr                    | sv4-dev-e2net                | sv4-dev-e2net                               | e2open-dev-tanzu     |
 | e2net-kosh-psr                  | sv4-dev-e2net                | sv4-dev-e2net                               | e2open-dev-tanzu     |
+| watermill-client                | sv4-dev-e2net                | sv4-dev-e2net                               | e2open-dev-tanzu     |
+| watermill-client-dev            | sv4-dev-e2net                | sv4-dev-e2net                               | e2open-dev-tanzu     |
+| e2proxy                         | sv4-dev-e2proxy              | sv4-dev-e2proxy                             | e2open-dev-tanzu     |
 | cargoscreening-dev              | sv4-dev-gtm                  | dev-cargoscreening-devteam                  | e2open-dev-tanzu     |
+| e2net-dai                       | sv4-dev-rnd-sandbox          | sv4-dev-rnd-sandbox                         | e2open-dev-tanzu     |
+| catx                            | sv4-dev-sharedservices       | sv4-dev-sharedservices                      | e2open-dev-tanzu     |
 | e2search-zk                     | sv4-dev-sharedservices       | sv4-dev-sharedservices                      | e2open-dev-tanzu     |
 | watermill                       | sv4-dev-sharedservices       | sv4-dev-sharedservices                      | e2open-dev-tanzu     |
 | watermill-2nd                   | sv4-dev-sharedservices       | sv4-dev-sharedservices                      | e2open-dev-tanzu     |
 | watermill-playground            | sv4-dev-sharedservices       | sv4-dev-sharedservices                      | e2open-dev-tanzu     |
 | wm-dev                          | sv4-dev-sharedservices       | sv4-dev-sharedservices                      | e2open-dev-tanzu     |
 | wm-psr                          | sv4-dev-sharedservices       | sv4-dev-sharedservices                      | e2open-dev-tanzu     |
+| e2net-es                        | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
+| e2net-kosh                      | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
+| e2net-zk                        | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
 | ci-apps                         | stg-fra-ci-apps-tkc          | stg-fra-ci-developer                        | e2open-fr8-stg-tanzu |
 | e2proxy                         | stg-fra-e2proxy-tkc          | stg-fra-ci-developer                        | e2open-fr8-stg-tanzu |
 | e2proxy                         | stg-fra-e2proxy-walkme-tkc   | stg-fra-ci-developer                        | e2open-fr8-stg-tanzu |
@@ -174,8 +181,10 @@ draft: false
 | monitor-observability-testbench | stg-tanzu-e2proxy-walkme-tkc | stg-tanzu-e2proxy-walkme-tkc-cloudoperation | e2stg-tanzu          |
 | k8smonitor                      | stg-tanzu-e2proxy-walkme-tkc | stg-tanzu-monitor                           | e2stg-tanzu          |
 | monitor-zabbix                  | stg-tanzu-e2proxy-walkme-tkc | stg-tanzu-monitor                           | e2stg-tanzu          |
+| feeds-es-sb                     | stg-tanzu-rdm-sb-tkc         | stg-rdm-sb                                  | e2stg-tanzu          |
 | rdm-es-sb                       | stg-tanzu-rdm-sb-tkc         | stg-rdm-sb                                  | e2stg-tanzu          |
 | rdm-sb                          | stg-tanzu-rdm-sb-tkc         | stg-rdm-sb                                  | e2stg-tanzu          |
+| feeds-es-uat                    | stg-tanzu-rdm-uat-tkc        | stg-rdm-uat                                 | e2stg-tanzu          |
 | rdm-es-uat                      | stg-tanzu-rdm-uat-tkc        | stg-rdm-uat                                 | e2stg-tanzu          |
 | rdm-uat                         | stg-tanzu-rdm-uat-tkc        | stg-rdm-uat                                 | e2stg-tanzu          |
 | rdm-es-prod                     | sv4-dr-rdm                   | rdm-dr                                      | e2stg-tanzu          |
@@ -183,6 +192,7 @@ draft: false
 | e2net-es                        | sv4-stg-e2net                | stg-e2net                                   | e2stg-tanzu          |
 | e2net-kosh                      | sv4-stg-e2net                | stg-e2net                                   | e2stg-tanzu          |
 | e2net-zk                        | sv4-stg-e2net                | stg-e2net                                   | e2stg-tanzu          |
+| e2search-zk                     | sv4-stg-sharedservices       | sv4-stg-sharedservices                      | e2stg-tanzu          |
 | ci-apps                         | fra-prod-ci-apps-tkc         | prod-fra-ci-developer                       | fr8-prod-tanzu       |
 | infosec-fwdproxy                | fra-prod-ci-apps-tkc         | prod-fra-ci-infosec                         | fr8-prod-tanzu       |
 | e2proxy                         | fra-prod-e2proxy-tkc         | prod-fra-ci-developer                       | fr8-prod-tanzu       |
@@ -198,9 +208,11 @@ draft: false
 | monitor-logging                 | sjca-prod-ci-apps-tkc        | sjca-prod-ci-apps-tkc-cloudoperation        | sjca-prod-tanzu-k8s  |
 | k8smonitor                      | sjca-prod-ci-apps-tkc        | sjca-tanzu-monitor                          | sjca-prod-tanzu-k8s  |
 | monitor-zabbix                  | sjca-prod-ci-apps-tkc        | sjca-tanzu-monitor                          | sjca-prod-tanzu-k8s  |
-| cargoscreening                  | sjca-prod-e2net-tkc          | sjca-e2net                                  | sjca-prod-tanzu-k8s  |
 | e2proxy                         | sjca-prod-e2proxy-tkc        | sjca-prod-ci-apps-tkc-ci-developer          | sjca-prod-tanzu-k8s  |
 | monitor-log-testbench           | sjca-prod-e2proxy-tkc        | sjca-prod-e2proxy-tkc-cloudoperation        | sjca-prod-tanzu-k8s  |
 | monitor-logging                 | sjca-prod-e2proxy-tkc        | sjca-prod-e2proxy-tkc-cloudoperation        | sjca-prod-tanzu-k8s  |
 | k8smonitor                      | sjca-prod-e2proxy-tkc        | sjca-tanzu-monitor                          | sjca-prod-tanzu-k8s  |
 | monitor-zabbix                  | sjca-prod-e2proxy-tkc        | sjca-tanzu-monitor                          | sjca-prod-tanzu-k8s  |
+| e2net-es                        | sv1-prod-e2net               | sv1-prod-e2net                              | sjca-prod-tanzu-k8s  |
+| e2net-kosh                      | sv1-prod-e2net               | sv1-prod-e2net                              | sjca-prod-tanzu-k8s  |
+| e2net-zk                        | sv1-prod-e2net               | sv1-prod-e2net                              | sjca-prod-tanzu-k8s  |

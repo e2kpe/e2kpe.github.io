@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2024-01-11
+date: 2024-01-23
 menu: data
 showdates: true
 weight: 11
@@ -17,7 +17,6 @@ draft: false
 | chg-prod-cdm-awx-tkc         | v1.22.9      |
 | chg-prod-ci-apps-tkc         | v1.22.9      |
 | chg-prod-cops-tkc            | v1.22.9      |
-| chg-prod-e2net-tkc           | v1.22.9      |
 | chg-prod-e2proxy-tkc         | v1.22.9      |
 | chg-prod-e2proxy-walkme-tkc  | v1.22.9      |
 | chg-prod-rdm-tkc             | v1.22.9      |
@@ -29,7 +28,6 @@ draft: false
 | e2dev-tanzu-e2net-tkc        | v1.22.9      |
 | e2dev-tanzu-rdm-devqa-tkc    | v1.22.9      |
 | e2dev-tanzu-rdm-tkc          | v1.22.9      |
-| e2dev-tanzu-snop-tkc         | v1.22.9      |
 | fra-prod-ci-apps-tkc         | v1.22.9      |
 | fra-prod-cops-tkc            | v1.22.9      |
 | fra-prod-e2proxy-tkc         | v1.22.9      |
@@ -40,7 +38,6 @@ draft: false
 | sha-prod-e2proxy-tkc         | v1.22.9      |
 | sjca-prod-ci-apps-tkc        | v1.22.9      |
 | sjca-prod-cops-tkc           | v1.22.9      |
-| sjca-prod-e2net-tkc          | v1.22.9      |
 | sjca-prod-e2proxy-tkc        | v1.22.9      |
 | sjca-prod-vault-tkc          | v1.22.9      |
 | sjc-prod-sharedservices      | v1.22.9      |
@@ -71,12 +68,14 @@ draft: false
 | blr-dev-cops                 | v1.24.11     |
 | cdg-dr-cops                  | v1.24.11     |
 | ch3-prod-channel             | v1.24.11     |
+| ch3-prod-e2net               | v1.24.11     |
+| ch3-prod-sharedservices      | v1.24.11     |
 | den-dr-cops                  | v1.24.11     |
 | fr8-prod-e2net               | v1.24.11     |
+| fr8-stg-e2net                | v1.24.11     |
 | hanglo-training              | v1.24.11     |
 | king-trainging               | v1.24.11     |
-| sv1-dev-infosec              | v1.24.11     |
-| sv4-dev-cdm                  | v1.24.11     |
+| sv1-prod-e2net               | v1.24.11     |
 | sv4-dev-channel              | v1.24.11     |
 | sv4-dev-ci                   | v1.24.11     |
 | sv4-dev-cl                   | v1.24.11     |
@@ -91,7 +90,9 @@ draft: false
 | sv4-dev-rnd-sandbox          | v1.24.11     |
 | sv4-dev-sharedservices       | v1.24.11     |
 | sv4-stg-channel              | v1.24.11     |
+| sv4-stg-cops                 | v1.24.11     |
 | sv4-stg-e2net                | v1.24.11     |
+| sv4-stg-sharedservices       | v1.24.11     |
 | wingho-training              | v1.24.11     |
 | fr8-prod-e2net-cdm-platform  |              |
 | fr8-stg-e2net-cdm-platform   |              |
