@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2024-01-23
+date: 2024-02-08
 menu: data
 showdates: true
 weight: 11
@@ -25,7 +25,6 @@ draft: false
 | den-tanzu-e2proxy-walkme-tkc | v1.22.9      |
 | e2dev-tanzu-ci-tkc           | v1.22.9      |
 | e2dev-tanzu-cs-tkc           | v1.22.9      |
-| e2dev-tanzu-e2net-tkc        | v1.22.9      |
 | e2dev-tanzu-rdm-devqa-tkc    | v1.22.9      |
 | e2dev-tanzu-rdm-tkc          | v1.22.9      |
 | fra-prod-ci-apps-tkc         | v1.22.9      |
@@ -33,7 +32,6 @@ draft: false
 | fra-prod-e2proxy-tkc         | v1.22.9      |
 | fra-prod-e2proxy-walkme-tkc  | v1.22.9      |
 | fra-prod-sharedservices-tkc  | v1.22.9      |
-| oci-dr-cops                  | v1.22.9      |
 | sha-prod-ci-apps-tkc         | v1.22.9      |
 | sha-prod-e2proxy-tkc         | v1.22.9      |
 | sjca-prod-ci-apps-tkc        | v1.22.9      |
@@ -49,7 +47,6 @@ draft: false
 | stg-fra-e2proxy-walkme-tkc   | v1.22.9      |
 | stg-shared-service-tkc       | v1.22.9      |
 | stg-tanzu-ci-apps-tkc        | v1.22.9      |
-| stg-tanzu-cops-tkc           | v1.22.9      |
 | stg-tanzu-e2proxy-tkc        | v1.22.9      |
 | stg-tanzu-e2proxy-walkme-tkc | v1.22.9      |
 | stg-tanzu-rdm-sb-tkc         | v1.22.9      |
@@ -62,20 +59,24 @@ draft: false
 | den-tanzu-e2proxy-tkc        | v1.23.8      |
 | fr8-prod-vault-tkc           | v1.23.8      |
 | fr8-stg-cops                 | v1.23.8      |
-| fr8-stg-dcops                | v1.23.8      |
 | stg-cdm-waf-tkc              | v1.23.8      |
-| stgfra-dcops-tkc             | v1.23.8      |
 | blr-dev-cops                 | v1.24.11     |
+| blr-dev-test                 | v1.24.11     |
 | cdg-dr-cops                  | v1.24.11     |
 | ch3-prod-channel             | v1.24.11     |
 | ch3-prod-e2net               | v1.24.11     |
+| ch3-prod-gtm                 | v1.24.11     |
 | ch3-prod-sharedservices      | v1.24.11     |
 | den-dr-cops                  | v1.24.11     |
 | fr8-prod-e2net               | v1.24.11     |
+| fr8-prod-sharedservices      | v1.24.11     |
 | fr8-stg-e2net                | v1.24.11     |
-| hanglo-training              | v1.24.11     |
+| fr8-stg-sharedservices       | v1.24.11     |
 | king-trainging               | v1.24.11     |
+| network-test                 | v1.24.11     |
+| sha-prod-sharedservices      | v1.24.11     |
 | sv1-prod-e2net               | v1.24.11     |
+| sv1-prod-sharedservices      | v1.24.11     |
 | sv4-dev-channel              | v1.24.11     |
 | sv4-dev-ci                   | v1.24.11     |
 | sv4-dev-cl                   | v1.24.11     |
@@ -92,7 +93,7 @@ draft: false
 | sv4-stg-channel              | v1.24.11     |
 | sv4-stg-cops                 | v1.24.11     |
 | sv4-stg-e2net                | v1.24.11     |
+| sv4-stg-gtm                  | v1.24.11     |
 | sv4-stg-sharedservices       | v1.24.11     |
-| wingho-training              | v1.24.11     |
 | fr8-prod-e2net-cdm-platform  |              |
 | fr8-stg-e2net-cdm-platform   |              |

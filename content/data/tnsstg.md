@@ -1,6 +1,6 @@
 ---
 title: "tnsstg"
-date: 2024-01-23
+date: 2024-02-08
 menu: data
 showdates: true
 weight: 11
@@ -14,6 +14,7 @@ draft: false
 | e2net-es                        | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
 | e2net-kosh                      | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
 | e2net-zk                        | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
+| kosh                            | fr8-stg-sharedservices       | fr8-stg-sharedservices                      | e2open-fr8-stg-tanzu |
 | ci-apps                         | stg-fra-ci-apps-tkc          | stg-fra-ci-developer                        | e2open-fr8-stg-tanzu |
 | e2proxy                         | stg-fra-e2proxy-tkc          | stg-fra-ci-developer                        | e2open-fr8-stg-tanzu |
 | e2proxy                         | stg-fra-e2proxy-walkme-tkc   | stg-fra-ci-developer                        | e2open-fr8-stg-tanzu |
@@ -65,4 +66,6 @@ draft: false
 | e2net-es                        | sv4-stg-e2net                | stg-e2net                                   | e2stg-tanzu          |
 | e2net-kosh                      | sv4-stg-e2net                | stg-e2net                                   | e2stg-tanzu          |
 | e2net-zk                        | sv4-stg-e2net                | stg-e2net                                   | e2stg-tanzu          |
+| cargoscreening-stg              | sv4-stg-gtm                  | sv4-stg-gtm                                 | e2stg-tanzu          |
 | e2search-zk                     | sv4-stg-sharedservices       | sv4-stg-sharedservices                      | e2stg-tanzu          |
+| kosh                            | sv4-stg-sharedservices       | sv4-stg-sharedservices                      | e2stg-tanzu          |

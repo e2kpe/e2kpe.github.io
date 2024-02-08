@@ -1,6 +1,6 @@
 ---
 title: "tnsdev"
-date: 2024-01-23
+date: 2024-02-08
 menu: data
 showdates: true
 weight: 11
@@ -50,13 +50,6 @@ draft: false
 | tp-dev                          | e2dev-tanzu-cs-tkc        | dev-cs-rndteam                  | e2open-dev-tanzu |
 | trueid-dev                      | e2dev-tanzu-cs-tkc        | dev-cs-rndteam                  | e2open-dev-tanzu |
 | monitor-zabbix                  | e2dev-tanzu-cs-tkc        | dev-tanzu-monitor               | e2open-dev-tanzu |
-| activemq                        | e2dev-tanzu-e2net-tkc     | dev-e2net                       | e2open-dev-tanzu |
-| e2net-artemis                   | e2dev-tanzu-e2net-tkc     | dev-e2net                       | e2open-dev-tanzu |
-| hazelcast                       | e2dev-tanzu-e2net-tkc     | dev-e2net                       | e2open-dev-tanzu |
-| zookeeper                       | e2dev-tanzu-e2net-tkc     | dev-e2net                       | e2open-dev-tanzu |
-| e2net-es                        | e2dev-tanzu-e2net-tkc     | e2dev-tanzu-e2net-tkc-e2net-zk  | e2open-dev-tanzu |
-| e2net-kosh                      | e2dev-tanzu-e2net-tkc     | e2dev-tanzu-e2net-tkc-e2net-zk  | e2open-dev-tanzu |
-| e2net-zk                        | e2dev-tanzu-e2net-tkc     | e2dev-tanzu-e2net-tkc-e2net-zk  | e2open-dev-tanzu |
 | feeds-es-qa                     | e2dev-tanzu-rdm-devqa-tkc | dev-rdm-qa                      | e2open-dev-tanzu |
 | rdm-es-qa                       | e2dev-tanzu-rdm-devqa-tkc | dev-rdm-qa                      | e2open-dev-tanzu |
 | rdm-qa                          | e2dev-tanzu-rdm-devqa-tkc | dev-rdm-qa                      | e2open-dev-tanzu |
@@ -89,13 +82,20 @@ draft: false
 | e2net-kosh-psr                  | sv4-dev-e2net             | sv4-dev-e2net                   | e2open-dev-tanzu |
 | watermill-client                | sv4-dev-e2net             | sv4-dev-e2net                   | e2open-dev-tanzu |
 | watermill-client-dev            | sv4-dev-e2net             | sv4-dev-e2net                   | e2open-dev-tanzu |
+| watermill-client1               | sv4-dev-e2net             | sv4-dev-e2net                   | e2open-dev-tanzu |
 | e2proxy                         | sv4-dev-e2proxy           | sv4-dev-e2proxy                 | e2open-dev-tanzu |
 | cargoscreening-dev              | sv4-dev-gtm               | dev-cargoscreening-devteam      | e2open-dev-tanzu |
 | e2net-dai                       | sv4-dev-rnd-sandbox       | sv4-dev-rnd-sandbox             | e2open-dev-tanzu |
 | catx                            | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
+| discussion-service              | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
 | e2search-zk                     | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
+| kosh                            | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
+| kosh-psr                        | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
+| ocular                          | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
+| temporal                        | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
 | watermill                       | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
 | watermill-2nd                   | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
+| watermill-3rd                   | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
 | watermill-playground            | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
 | wm-dev                          | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
 | wm-psr                          | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
