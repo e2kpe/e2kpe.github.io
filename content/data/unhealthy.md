@@ -1,11 +1,12 @@
 ---
 title: "unhealthy"
-date: 2024-02-08
+date: 2024-02-20
 menu: data
 showdates: true
 weight: 11
 draft: false
 ---
 <!--more-->
-| clustername | nodecount | health | message |
-| ----------- | --------- | ------ | ------- |
+| clustername        | nodecount | health  | message                     |
+| ------------------ | --------- | ------- | --------------------------- |
+| e2dev-tanzu-cs-tkc |        27 | WARNING | 1 node is in WARNING state. |

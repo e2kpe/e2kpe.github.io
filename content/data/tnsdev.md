@@ -1,6 +1,6 @@
 ---
 title: "tnsdev"
-date: 2024-02-08
+date: 2024-02-20
 menu: data
 showdates: true
 weight: 11
@@ -63,11 +63,13 @@ draft: false
 | hackathon-innovation            | sv1-dev-rnd-sandbox       | hackathon-innovation            | e2open-dev-tanzu |
 | crp-dev                         | sv4-dev-channel           | sv4-dev-channel                 | e2open-dev-tanzu |
 | catx                            | sv4-dev-ci                | catx                            | e2open-dev-tanzu |
-| watermill                       | sv4-dev-ci                | watermill-developement-team     | e2open-dev-tanzu |
-| watermill-2nd                   | sv4-dev-ci                | watermill-developement-team     | e2open-dev-tanzu |
-| watermill-playground            | sv4-dev-ci                | watermill-developement-team     | e2open-dev-tanzu |
-| wm-dev                          | sv4-dev-ci                | watermill-developement-team     | e2open-dev-tanzu |
-| wm-psr                          | sv4-dev-ci                | watermill-developement-team     | e2open-dev-tanzu |
+| ci                              | sv4-dev-ci                | sv4-dev-ci                      | e2open-dev-tanzu |
+| ci-buildenv                     | sv4-dev-ci                | sv4-dev-ci                      | e2open-dev-tanzu |
+| ci-cdm                          | sv4-dev-ci                | sv4-dev-ci                      | e2open-dev-tanzu |
+| ci-helm                         | sv4-dev-ci                | sv4-dev-ci                      | e2open-dev-tanzu |
+| ci-productqa                    | sv4-dev-ci                | sv4-dev-ci                      | e2open-dev-tanzu |
+| ci-projectdev                   | sv4-dev-ci                | sv4-dev-ci                      | e2open-dev-tanzu |
+| ci-psr                          | sv4-dev-ci                | sv4-dev-ci                      | e2open-dev-tanzu |
 | clamav                          | sv4-dev-cops              | dev-cops                        | e2open-dev-tanzu |
 | artifactory                     | sv4-dev-devtools          | dev-tanzu-ci                    | e2open-dev-tanzu |
 | jenkins                         | sv4-dev-devtools          | dev-tanzu-ci                    | e2open-dev-tanzu |
@@ -89,9 +91,17 @@ draft: false
 | catx                            | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
 | discussion-service              | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
 | e2search-zk                     | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
+| feeds-es-dev                    | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
+| feeds-es-qa                     | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
 | kosh                            | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
 | kosh-psr                        | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
 | ocular                          | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
+| rdm-dev                         | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
+| rdm-devint                      | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
+| rdm-es-dev                      | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
+| rdm-es-devint                   | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
+| rdm-es-qa                       | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
+| rdm-qa                          | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
 | temporal                        | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
 | watermill                       | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
 | watermill-2nd                   | sv4-dev-sharedservices    | sv4-dev-sharedservices          | e2open-dev-tanzu |
