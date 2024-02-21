@@ -1,6 +1,6 @@
 ---
 title: "tkcstg"
-date: 2024-02-20
+date: 2024-02-21
 menu: data
 showdates: true
 weight: 11
@@ -27,8 +27,8 @@ draft: false
 | stg-tanzu-rdm-sb-tkc         |     240,788 |             6 |   36,000 |         68 |         6 | HEALTHY | Cluster is healthy |
 | stg-tanzu-rdm-uat-tkc        |     240,788 |             7 |   36,000 |         36 |         6 | HEALTHY | Cluster is healthy |
 | stg-vault-tkc                |      59,352 |            26 |   18,000 |         68 |         6 | HEALTHY | Cluster is healthy |
-| sv4-stg-channel              |     175,689 |            10 |   44,000 |         32 |         7 | HEALTHY | Cluster is healthy |
+| sv4-stg-channel              |     175,689 |            10 |   44,000 |         33 |         7 | HEALTHY | Cluster is healthy |
 | sv4-stg-cops                 |     111,276 |            16 |   28,000 |         51 |         7 | HEALTHY | Cluster is healthy |
 | sv4-stg-e2net                |     432,925 |            19 |  108,000 |         33 |         9 | HEALTHY | Cluster is healthy |
-| sv4-stg-gtm                  |     143,689 |            11 |   36,000 |         36 |         6 | HEALTHY | Cluster is healthy |
+| sv4-stg-gtm                  |     143,689 |            11 |   36,000 |         35 |         6 | HEALTHY | Cluster is healthy |
 | sv4-stg-sharedservices       |     175,689 |            13 |   44,000 |         39 |         7 | HEALTHY | Cluster is healthy |
