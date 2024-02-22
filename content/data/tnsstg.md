@@ -1,6 +1,6 @@
 ---
 title: "tnsstg"
-date: 2024-02-21
+date: 2024-02-22
 menu: data
 showdates: true
 weight: 11
@@ -14,6 +14,7 @@ draft: false
 | e2net-es                        | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
 | e2net-kosh                      | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
 | e2net-zk                        | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
+| feeds-es-uat                    | fr8-stg-sharedservices       | fr8-stg-sharedservices                      | e2open-fr8-stg-tanzu |
 | kosh                            | fr8-stg-sharedservices       | fr8-stg-sharedservices                      | e2open-fr8-stg-tanzu |
 | watermill                       | fr8-stg-sharedservices       | fr8-stg-sharedservices                      | e2open-fr8-stg-tanzu |
 | ci-apps                         | stg-fra-ci-apps-tkc          | stg-fra-ci-developer                        | e2open-fr8-stg-tanzu |
