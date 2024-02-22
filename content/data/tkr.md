@@ -98,3 +98,4 @@ draft: false
 | test-tkc                     | v1.24.11     |
 | fr8-prod-e2net-cdm-platform  |              |
 | fr8-stg-e2net-cdm-platform   |              |
+[tkr.csv](/csv/%{LIST}.csv)
