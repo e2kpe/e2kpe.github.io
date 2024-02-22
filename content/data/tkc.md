@@ -9,7 +9,7 @@ draft: false
 <!--more-->
 | clustername                  | memorytotal | memorypercent | cputotal | cpupercent | nodecount | health  | message                     |
 | ---------------------------- | ----------- | ------------- | -------- | ---------- | --------- | ------- | --------------------------- |
-| blr-dev-cops                 |      71,225 |            23 |   18,000 |         71 |         6 | HEALTHY | Cluster is healthy          |
+| blr-dev-cops                 |      71,225 |            23 |   18,000 |         72 |         6 | HEALTHY | Cluster is healthy          |
 | blr-dev-test                 |      71,225 |            22 |   18,000 |         70 |         6 | HEALTHY | Cluster is healthy          |
 | cdg-dr-ciapps                |     111,575 |            14 |   44,000 |         27 |         7 | HEALTHY | Cluster is healthy          |
 | cdg-dr-cops                  |      95,377 |            15 |   36,000 |         30 |         6 | HEALTHY | Cluster is healthy          |
@@ -25,13 +25,13 @@ draft: false
 | chg-prod-ci-apps-tkc         |     111,575 |            12 |   44,000 |         29 |         7 | HEALTHY | Cluster is healthy          |
 | chg-prod-cops-tkc            |     111,575 |            12 |   44,000 |         29 |         7 | HEALTHY | Cluster is healthy          |
 | chg-prod-e2proxy-tkc         |     304,355 |            18 |   76,000 |         35 |        11 | HEALTHY | Cluster is healthy          |
-| chg-prod-e2proxy-walkme-tkc  |      55,505 |            26 |   28,000 |         38 |         5 | HEALTHY | Cluster is healthy          |
+| chg-prod-e2proxy-walkme-tkc  |      55,505 |            26 |   28,000 |         39 |         5 | HEALTHY | Cluster is healthy          |
 | chg-prod-rdm-tkc             |     240,788 |             6 |   36,000 |         66 |         6 | HEALTHY | Cluster is healthy          |
 | chg-prod-sharedservices-tkc  |      95,636 |            23 |   36,000 |         49 |         6 | HEALTHY | Cluster is healthy          |
 | chg-prod-vault-tkc           |      47,255 |            35 |   24,000 |         53 |         6 | HEALTHY | Cluster is healthy          |
 | den-dr-cops                  |      95,380 |             3 |   24,000 |         26 |         6 | HEALTHY | Cluster is healthy          |
 | den-tanzu-ci-apps-tkc        |      95,636 |            12 |   48,000 |         24 |         6 | HEALTHY | Cluster is healthy          |
-| den-tanzu-e2proxy-tkc        |     111,577 |            15 |   44,000 |         31 |         7 | HEALTHY | Cluster is healthy          |
+| den-tanzu-e2proxy-tkc        |     111,577 |            16 |   44,000 |         31 |         7 | HEALTHY | Cluster is healthy          |
 | den-tanzu-e2proxy-walkme-tkc |      55,505 |            21 |   28,000 |         38 |         5 | HEALTHY | Cluster is healthy          |
 | e2dev-tanzu-ci-tkc           |     826,867 |            16 |  108,000 |         52 |         9 | HEALTHY | Cluster is healthy          |
 | e2dev-tanzu-cs-tkc           |     817,428 |            34 |  204,000 |         31 |        27 | WARNING | 1 node is in WARNING state. |
@@ -75,7 +75,7 @@ draft: false
 | stg-tanzu-rdm-uat-tkc        |     240,788 |             7 |   36,000 |         36 |         6 | HEALTHY | Cluster is healthy          |
 | stg-vault-tkc                |      59,352 |            26 |   18,000 |         68 |         6 | HEALTHY | Cluster is healthy          |
 | sv1-dev-rnd-sandbox          |     176,087 |            27 |   44,000 |         70 |         7 | HEALTHY | Cluster is healthy          |
-| sv1-prod-e2net               |     239,688 |            12 |   60,000 |         38 |         9 | HEALTHY | Cluster is healthy          |
+| sv1-prod-e2net               |     239,688 |            12 |   60,000 |         39 |         9 | HEALTHY | Cluster is healthy          |
 | sv1-prod-sharedservices      |     239,688 |            18 |   60,000 |         33 |         9 | HEALTHY | Cluster is healthy          |
 | sv4-dev-channel              |     175,689 |            10 |   44,000 |         32 |         7 | HEALTHY | Cluster is healthy          |
 | sv4-dev-ci                   |     207,688 |            17 |   52,000 |         39 |         8 | HEALTHY | Cluster is healthy          |
@@ -95,7 +95,7 @@ draft: false
 | sv4-stg-channel              |     175,689 |            10 |   44,000 |         32 |         7 | HEALTHY | Cluster is healthy          |
 | sv4-stg-cops                 |     111,276 |            16 |   28,000 |         51 |         7 | HEALTHY | Cluster is healthy          |
 | sv4-stg-e2net                |     432,925 |            19 |  108,000 |         18 |         9 | HEALTHY | Cluster is healthy          |
-| sv4-stg-gtm                  |     143,689 |            11 |   36,000 |         35 |         6 | HEALTHY | Cluster is healthy          |
-| sv4-stg-sharedservices       |     175,689 |            13 |   44,000 |         39 |         7 | HEALTHY | Cluster is healthy          |
+| sv4-stg-gtm                  |     143,689 |            11 |   36,000 |         36 |         6 | HEALTHY | Cluster is healthy          |
+| sv4-stg-sharedservices       |     175,689 |            14 |   44,000 |         39 |         7 | HEALTHY | Cluster is healthy          |
 | test-tkc                     |       7,660 |            39 |    6,000 |         57 |         2 | HEALTHY | Cluster is healthy          |
 [Download tkc.csv](/csv/tkc.csv)

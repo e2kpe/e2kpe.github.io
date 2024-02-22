@@ -9,7 +9,7 @@ do
   tmcpull.sh --csv --${list} --look      >> ${list}.md
   echo "[Download ${list}.csv](/csv/${list}.csv)" >> ${list}.md
   cd ../../static/csv
-  tmcpull.sh --csv --${list}             >> ${list}.csv
+  tmcpull.sh --csv --${list}              > ${list}.csv
   cd ../..
 done
 

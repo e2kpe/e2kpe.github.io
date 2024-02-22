@@ -9,7 +9,7 @@ draft: false
 <!--more-->
 | clustername               | memorytotal | memorypercent | cputotal | cpupercent | nodecount | health  | message                     |
 | ------------------------- | ----------- | ------------- | -------- | ---------- | --------- | ------- | --------------------------- |
-| blr-dev-cops              |      71,225 |            23 |   18,000 |         71 |         6 | HEALTHY | Cluster is healthy          |
+| blr-dev-cops              |      71,225 |            23 |   18,000 |         72 |         6 | HEALTHY | Cluster is healthy          |
 | blr-dev-test              |      71,225 |            22 |   18,000 |         70 |         6 | HEALTHY | Cluster is healthy          |
 | e2dev-tanzu-ci-tkc        |     826,867 |            16 |  108,000 |         52 |         9 | HEALTHY | Cluster is healthy          |
 | e2dev-tanzu-cs-tkc        |     817,428 |            34 |  204,000 |         31 |        27 | WARNING | 1 node is in WARNING state. |
