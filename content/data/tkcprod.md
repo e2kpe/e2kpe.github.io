@@ -18,7 +18,7 @@ draft: false
 | chg-prod-ci-apps-tkc        |     111,575 |            12 |   44,000 |         29 |         7 | HEALTHY | Cluster is healthy |
 | chg-prod-cops-tkc           |     111,575 |            12 |   44,000 |         29 |         7 | HEALTHY | Cluster is healthy |
 | chg-prod-e2proxy-tkc        |     304,355 |            18 |   76,000 |         35 |        11 | HEALTHY | Cluster is healthy |
-| chg-prod-e2proxy-walkme-tkc |      55,505 |            26 |   28,000 |         38 |         5 | HEALTHY | Cluster is healthy |
+| chg-prod-e2proxy-walkme-tkc |      55,505 |            26 |   28,000 |         39 |         5 | HEALTHY | Cluster is healthy |
 | chg-prod-rdm-tkc            |     240,788 |             6 |   36,000 |         66 |         6 | HEALTHY | Cluster is healthy |
 | chg-prod-sharedservices-tkc |      95,636 |            23 |   36,000 |         49 |         6 | HEALTHY | Cluster is healthy |
 | chg-prod-vault-tkc          |      47,255 |            35 |   24,000 |         53 |         6 | HEALTHY | Cluster is healthy |
@@ -41,4 +41,4 @@ draft: false
 | sjc-prod-sharedservices     |     240,783 |             4 |   60,000 |         16 |         6 | HEALTHY | Cluster is healthy |
 | sv1-prod-e2net              |     239,688 |            12 |   60,000 |         38 |         9 | HEALTHY | Cluster is healthy |
 | sv1-prod-sharedservices     |     239,688 |            18 |   60,000 |         33 |         9 | HEALTHY | Cluster is healthy |
-[tkcprod.csv](/csv/%{LIST}.csv)
+[tkcprod.csv](/csv/.csv)

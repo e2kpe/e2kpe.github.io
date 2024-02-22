@@ -16,4 +16,4 @@ draft: false
 | watermill   | cdg-dr-sharedservices | watermill             | cdg-dr      |
 | rdm-es-prod | sv4-dr-rdm            | rdm-dr                | e2stg-tanzu |
 | rdm-prod    | sv4-dr-rdm            | rdm-dr                | e2stg-tanzu |
-[tnsdr.csv](/csv/%{LIST}.csv)
+[tnsdr.csv](/csv/.csv)

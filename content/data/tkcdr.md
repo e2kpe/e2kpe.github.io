@@ -17,4 +17,4 @@ draft: false
 | den-dr-cops               |      95,380 |             3 |   24,000 |         26 |         6 | HEALTHY | Cluster is healthy |
 | sv4-dr-cdm-e2proxy        |      71,444 |             4 |   36,000 |         18 |         6 | HEALTHY | Cluster is healthy |
 | sv4-dr-rdm                |     119,828 |             3 |   36,000 |         18 |         6 | HEALTHY | Cluster is healthy |
-[tkcdr.csv](/csv/%{LIST}.csv)
+[tkcdr.csv](/csv/.csv)

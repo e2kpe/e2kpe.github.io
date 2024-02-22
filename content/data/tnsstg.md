@@ -71,4 +71,4 @@ draft: false
 | cargoscreening-stg              | sv4-stg-gtm                  | sv4-stg-gtm                                 | e2stg-tanzu          |
 | e2search-zk                     | sv4-stg-sharedservices       | sv4-stg-sharedservices                      | e2stg-tanzu          |
 | kosh                            | sv4-stg-sharedservices       | sv4-stg-sharedservices                      | e2stg-tanzu          |
-[tnsstg.csv](/csv/%{LIST}.csv)
+[tnsstg.csv](/csv/.csv)

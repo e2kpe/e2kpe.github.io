@@ -29,4 +29,4 @@ draft: false
 | sv4-dev-rdm               |     143,689 |            10 |   36,000 |         30 |         6 | HEALTHY | Cluster is healthy          |
 | sv4-dev-rnd-sandbox       |     175,689 |            10 |   44,000 |         33 |         7 | HEALTHY | Cluster is healthy          |
 | sv4-dev-sharedservices    |     561,337 |            11 |  140,000 |         25 |        11 | HEALTHY | Cluster is healthy          |
-[tkcdev.csv](/csv/%{LIST}.csv)
+[tkcdev.csv](/csv/.csv)
