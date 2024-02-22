@@ -20,8 +20,8 @@ draft: false
 | sv4-dev-ci                |     207,688 |            17 |   52,000 |         39 |         8 | HEALTHY | Cluster is healthy          |
 | sv4-dev-cl                |      63,380 |            19 |   16,000 |         58 |         5 | HEALTHY | Cluster is healthy          |
 | sv4-dev-cops              |      71,224 |            21 |   24,000 |         48 |         6 | HEALTHY | Cluster is healthy          |
-| sv4-dev-devtools          |     239,688 |            12 |   60,000 |         38 |         9 | HEALTHY | Cluster is healthy          |
-| sv4-dev-e2net             |     561,337 |            25 |  140,000 |         40 |        11 | HEALTHY | Cluster is healthy          |
+| sv4-dev-devtools          |     239,688 |            12 |   60,000 |         39 |         9 | HEALTHY | Cluster is healthy          |
+| sv4-dev-e2net             |     561,337 |            24 |  140,000 |         39 |        11 | HEALTHY | Cluster is healthy          |
 | sv4-dev-e2proxy           |     175,689 |            12 |   44,000 |         34 |         7 | HEALTHY | Cluster is healthy          |
 | sv4-dev-gtm               |     175,689 |            11 |   44,000 |         33 |         7 | HEALTHY | Cluster is healthy          |
 | sv4-dev-portworx-demo1    |     111,276 |            17 |   28,000 |         59 |         7 | HEALTHY | Cluster is healthy          |
@@ -29,4 +29,4 @@ draft: false
 | sv4-dev-rdm               |     143,689 |            10 |   36,000 |         30 |         6 | HEALTHY | Cluster is healthy          |
 | sv4-dev-rnd-sandbox       |     175,689 |            10 |   44,000 |         33 |         7 | HEALTHY | Cluster is healthy          |
 | sv4-dev-sharedservices    |     561,337 |            11 |  140,000 |         25 |        11 | HEALTHY | Cluster is healthy          |
-[tkcdev.csv](/csv/.csv)
+[Download tkcdev.csv](/csv/tkcdev.csv)

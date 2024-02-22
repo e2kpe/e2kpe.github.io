@@ -7,7 +7,7 @@ do
   cat _header | sed -e "s/TITLE/${list}/" > ${list}.md
   sed -i "s/DATE/${dateshort}/" ${list}.md
   tmcpull.sh --csv --${list} --look      >> ${list}.md
-  echo "[${list}.csv](/csv/${LIST}.csv)" >> ${list}.md
+  echo "[Download ${list}.csv](/csv/${list}.csv)" >> ${list}.md
   cd ../../static/csv
   tmcpull.sh --csv --${list}             >> ${list}.csv
   cd ../..

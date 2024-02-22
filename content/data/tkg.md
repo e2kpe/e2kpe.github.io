@@ -20,4 +20,4 @@ draft: false
 | svl-lab-tkgm         | default                | DISCONNECTED | management cluster is disconnected from TMC        |
 | cdg-dr               | default                | HEALTHY      | management cluster is connected to TMC and healthy |
 | blr-dev              | default                | HEALTHY      | management cluster is connected to TMC and healthy |
-[tkg.csv](/csv/.csv)
+[Download tkg.csv](/csv/tkg.csv)
