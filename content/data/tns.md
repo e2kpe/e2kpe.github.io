@@ -1,6 +1,6 @@
 ---
 title: "tns"
-date: 2024-02-22
+date: 2024-02-23
 menu: data
 showdates: true
 weight: 11
@@ -102,7 +102,16 @@ draft: false
 | rdm-dev                         | e2dev-tanzu-rdm-tkc          | rdm-rndteam                                 | e2open-dev-tanzu     |
 | rdm-es-dev                      | e2dev-tanzu-rdm-tkc          | rdm-rndteam                                 | e2open-dev-tanzu     |
 | hackathon-innovation            | sv1-dev-rnd-sandbox          | hackathon-innovation                        | e2open-dev-tanzu     |
+| awx                             | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |
+| awx-qa                          | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |
+| cdmplatform                     | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |
+| crp                             | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |
 | crp-dev                         | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |
+| cvis                            | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |
+| cvis-dev                        | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |
+| dealreg                         | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |
+| feeds                           | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |
+| fm-dev                          | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |
 | catx                            | sv4-dev-ci                   | catx                                        | e2open-dev-tanzu     |
 | ci                              | sv4-dev-ci                   | sv4-dev-ci                                  | e2open-dev-tanzu     |
 | ci-buildenv                     | sv4-dev-ci                   | sv4-dev-ci                                  | e2open-dev-tanzu     |
@@ -112,6 +121,7 @@ draft: false
 | ci-projectdev                   | sv4-dev-ci                   | sv4-dev-ci                                  | e2open-dev-tanzu     |
 | ci-psr                          | sv4-dev-ci                   | sv4-dev-ci                                  | e2open-dev-tanzu     |
 | clamav                          | sv4-dev-cops                 | dev-cops                                    | e2open-dev-tanzu     |
+| devops-test                     | sv4-dev-devtools             | dev-demo-tkc                                | e2open-dev-tanzu     |
 | artifactory                     | sv4-dev-devtools             | dev-tanzu-ci                                | e2open-dev-tanzu     |
 | jenkins                         | sv4-dev-devtools             | dev-tanzu-ci                                | e2open-dev-tanzu     |
 | trivy                           | sv4-dev-devtools             | dev-tanzu-ci                                | e2open-dev-tanzu     |
