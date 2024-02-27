@@ -1,6 +1,6 @@
 ---
 title: "tkcdr"
-date: 2024-02-23
+date: 2024-02-27
 menu: data
 showdates: true
 weight: 11
@@ -16,5 +16,5 @@ draft: false
 | cdg-dr-sharedservices     |      95,636 |            15 |   36,000 |         30 |         6 | HEALTHY | Cluster is healthy |
 | den-dr-cops               |      95,380 |             3 |   24,000 |         26 |         6 | HEALTHY | Cluster is healthy |
 | sv4-dr-cdm-e2proxy        |      71,444 |             4 |   36,000 |         18 |         6 | HEALTHY | Cluster is healthy |
-| sv4-dr-rdm                |     119,828 |             3 |   36,000 |         18 |         6 | HEALTHY | Cluster is healthy |
+| sv4-dr-rdm                |     119,828 |             4 |   36,000 |         19 |         6 | HEALTHY | Cluster is healthy |
 [Download tkcdr.csv](/csv/tkcdr.csv)
