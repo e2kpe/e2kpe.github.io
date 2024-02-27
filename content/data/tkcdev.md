@@ -9,8 +9,8 @@ draft: false
 <!--more-->
 | clustername               | memorytotal | memorypercent | cputotal | cpupercent | nodecount | health       | message                                           |
 | ------------------------- | ----------- | ------------- | -------- | ---------- | --------- | ------------ | ------------------------------------------------- |
-| blr-dev-cops              |      71,225 |            23 |   18,000 |         71 |         6 | HEALTHY      | Cluster is healthy                                |
-| e2dev-tanzu-ci-tkc        |     826,867 |            14 |  108,000 |         51 |         9 | HEALTHY      | Cluster is healthy                                |
+| blr-dev-cops              |      71,225 |            23 |   18,000 |         72 |         6 | HEALTHY      | Cluster is healthy                                |
+| e2dev-tanzu-ci-tkc        |     826,867 |            14 |  108,000 |         52 |         9 | HEALTHY      | Cluster is healthy                                |
 | e2dev-tanzu-cs-tkc        |     817,428 |             8 |  204,000 |         24 |        27 | WARNING      | 1 node is in WARNING state.                       |
 | e2dev-tanzu-rdm-devqa-tkc |     240,788 |             6 |   36,000 |         35 |         6 | HEALTHY      | Cluster is healthy                                |
 | e2dev-tanzu-rdm-tkc       |     305,111 |             5 |   44,000 |         33 |         7 | HEALTHY      | Cluster is healthy                                |
@@ -19,7 +19,7 @@ draft: false
 | sv4-dev-ci                |     207,688 |            10 |   52,000 |         38 |         8 | HEALTHY      | Cluster is healthy                                |
 | sv4-dev-cl                |      63,380 |            19 |   16,000 |         58 |         5 | HEALTHY      | Cluster is healthy                                |
 | sv4-dev-cops              |      71,224 |            24 |   24,000 |         56 |         6 | HEALTHY      | Cluster is healthy                                |
-| sv4-dev-devtools          |     239,688 |            14 |   60,000 |         46 |         9 | HEALTHY      | Cluster is healthy                                |
+| sv4-dev-devtools          |     239,688 |            31 |   60,000 |         78 |         9 | HEALTHY      | Cluster is healthy                                |
 | sv4-dev-e2net             |     561,337 |            24 |  140,000 |         39 |        11 | HEALTHY      | Cluster is healthy                                |
 | sv4-dev-e2proxy           |     175,689 |            12 |   44,000 |         34 |         7 | HEALTHY      | Cluster is healthy                                |
 | sv4-dev-gtm               |     175,689 |            11 |   44,000 |         33 |         7 | HEALTHY      | Cluster is healthy                                |
