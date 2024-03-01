@@ -42,7 +42,6 @@ stg-tanzu-e2proxy-walkme-tkc,v1.22.9
 stg-tanzu-rdm-sb-tkc,v1.22.9
 stg-tanzu-rdm-uat-tkc,v1.22.9
 stg-vault-tkc,v1.22.9
-sv1-dev-rnd-sandbox,v1.22.9
 sv4-dr-cdm-e2proxy,v1.22.9
 sv4-dr-rdm,v1.22.9
 den-tanzu-ci-apps-tkc,v1.23.8

@@ -7,9 +7,9 @@ stg-cargoscreening-tkc,119821,12,72000,16,6,HEALTHY,Cluster is healthy
 stg-cdm-awx-tkc,305111,9,44000,44,7,HEALTHY,Cluster is healthy
 stg-cdm-ppi-tkc,948341,26,124000,17,17,HEALTHY,Cluster is healthy
 stg-cdm-waf-tkc,47256,10,24000,30,6,HEALTHY,Cluster is healthy
-stg-fra-ci-apps-tkc,95636,14,36000,36,6,HEALTHY,Cluster is healthy
+stg-fra-ci-apps-tkc,95636,14,36000,33,6,HEALTHY,Cluster is healthy
 stg-fra-e2proxy-tkc,176087,11,44000,32,7,HEALTHY,Cluster is healthy
-stg-fra-e2proxy-walkme-tkc,31315,34,20000,50,5,HEALTHY,Cluster is healthy
+stg-fra-e2proxy-walkme-tkc,31315,33,20000,49,5,HEALTHY,Cluster is healthy
 stg-shared-service-tkc,434319,3,60000,20,6,HEALTHY,Cluster is healthy
 stg-tanzu-ci-apps-tkc,111575,15,44000,31,7,HEALTHY,Cluster is healthy
 stg-tanzu-e2proxy-tkc,127514,38,52000,40,8,HEALTHY,Cluster is healthy

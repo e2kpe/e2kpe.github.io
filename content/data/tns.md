@@ -1,6 +1,6 @@
 ---
 title: "tns"
-date: 2024-02-27
+date: 2024-03-01
 menu: data
 showdates: true
 weight: 11
@@ -101,7 +101,6 @@ draft: false
 | feeds-es-dev                    | e2dev-tanzu-rdm-tkc          | rdm-rndteam                                 | e2open-dev-tanzu     |
 | rdm-dev                         | e2dev-tanzu-rdm-tkc          | rdm-rndteam                                 | e2open-dev-tanzu     |
 | rdm-es-dev                      | e2dev-tanzu-rdm-tkc          | rdm-rndteam                                 | e2open-dev-tanzu     |
-| hackathon-innovation            | sv1-dev-rnd-sandbox          | hackathon-innovation                        | e2open-dev-tanzu     |
 | awx                             | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |
 | awx-qa                          | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |
 | cdmplatform                     | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |

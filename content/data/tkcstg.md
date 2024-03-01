@@ -1,6 +1,6 @@
 ---
 title: "tkcstg"
-date: 2024-02-27
+date: 2024-03-01
 menu: data
 showdates: true
 weight: 11
@@ -17,9 +17,9 @@ draft: false
 | stg-cdm-awx-tkc              |     305,111 |             9 |   44,000 |         44 |         7 | HEALTHY | Cluster is healthy                 |
 | stg-cdm-ppi-tkc              |     948,341 |            26 |  124,000 |         17 |        17 | HEALTHY | Cluster is healthy                 |
 | stg-cdm-waf-tkc              |      47,256 |            10 |   24,000 |         30 |         6 | HEALTHY | Cluster is healthy                 |
-| stg-fra-ci-apps-tkc          |      95,636 |            14 |   36,000 |         36 |         6 | HEALTHY | Cluster is healthy                 |
+| stg-fra-ci-apps-tkc          |      95,636 |            14 |   36,000 |         33 |         6 | HEALTHY | Cluster is healthy                 |
 | stg-fra-e2proxy-tkc          |     176,087 |            11 |   44,000 |         32 |         7 | HEALTHY | Cluster is healthy                 |
-| stg-fra-e2proxy-walkme-tkc   |      31,315 |            34 |   20,000 |         50 |         5 | HEALTHY | Cluster is healthy                 |
+| stg-fra-e2proxy-walkme-tkc   |      31,315 |            33 |   20,000 |         49 |         5 | HEALTHY | Cluster is healthy                 |
 | stg-shared-service-tkc       |     434,319 |             3 |   60,000 |         20 |         6 | HEALTHY | Cluster is healthy                 |
 | stg-tanzu-ci-apps-tkc        |     111,575 |            15 |   44,000 |         31 |         7 | HEALTHY | Cluster is healthy                 |
 | stg-tanzu-e2proxy-tkc        |     127,514 |            38 |   52,000 |         40 |         8 | HEALTHY | Cluster is healthy                 |

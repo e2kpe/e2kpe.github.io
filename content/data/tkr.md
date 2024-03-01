@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2024-02-27
+date: 2024-03-01
 menu: data
 showdates: true
 weight: 11
@@ -52,7 +52,6 @@ draft: false
 | stg-tanzu-rdm-sb-tkc         | v1.22.9      |
 | stg-tanzu-rdm-uat-tkc        | v1.22.9      |
 | stg-vault-tkc                | v1.22.9      |
-| sv1-dev-rnd-sandbox          | v1.22.9      |
 | sv4-dr-cdm-e2proxy           | v1.22.9      |
 | sv4-dr-rdm                   | v1.22.9      |
 | den-tanzu-ci-apps-tkc        | v1.23.8      |
