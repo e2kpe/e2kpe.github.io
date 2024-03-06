@@ -7,16 +7,16 @@ weight: 11
 draft: false
 ---
 <!--more-->
-| env  | site | cn       | fullName             | ClusterGroup           | health  | READYmessage                                              |
-| ---- | ---- | -------- | -------------------- | ---------------------- | ------- | --------------------------------------------------------- |
-| prod | ch3  | ch3-prod | chg-prod-tanzu-k8s   | chg-prod-tanzu         | HEALTHY | management cluster is connected to TMC and healthy        |
-| dev  | sv4  | sv4-dev  | e2open-dev-tanzu     | e2open-dev-tanzu       | HEALTHY | management cluster is connected to TMC and healthy        |
-| stg  | sv4  | sv4-stg  | e2stg-tanzu          | e2open-stg-tanzu       | HEALTHY | management cluster is connected to TMC and healthy        |
-| prod | sv1  | sv1-prod | sjca-prod-tanzu-k8s  | e2open-sjca-prod-tanzu | HEALTHY | management cluster is connected to TMC and healthy        |
-| dr   | de2  | de2-dr   | denver-tanzu         | dever-tanzu            | HEALTHY | management cluster is connected to TMC and healthy        |
-| prod | fr8  | fra-prod | fr8-prod-tanzu       | e2open-fr8-prod-tanzu  | HEALTHY | management cluster is connected to TMC and healthy        |
-| stg  | fr8  | fr8-stg  | e2open-fr8-stg-tanzu | e2open-fr8-stg-tanzu   | HEALTHY | management cluster is connected to TMC and healthy        |
-| prod | sh2  | sh2-prod | sha-tanzu            | default                | HEALTHY | management cluster is connected to TMC and healthy        |
-| dr   | cdg  | cdg-dr   | cdg-dr               | default                | HEALTHY | management cluster is connected to TMC and healthy        |
-| dev  | blr  | blr-dev  | blr-dev              | default                | WARNING | management cluster is connected to TMC but is not healthy |
+| env  | site | cn       | fullName             | health  | READYmessage                                              |
+| ---- | ---- | -------- | -------------------- | ------- | --------------------------------------------------------- |
+| prod | ch3  | ch3-prod | chg-prod-tanzu-k8s   | HEALTHY | management cluster is connected to TMC and healthy        |
+| dev  | sv4  | sv4-dev  | e2open-dev-tanzu     | HEALTHY | management cluster is connected to TMC and healthy        |
+| stg  | sv4  | sv4-stg  | e2stg-tanzu          | HEALTHY | management cluster is connected to TMC and healthy        |
+| prod | sv1  | sv1-prod | sjca-prod-tanzu-k8s  | HEALTHY | management cluster is connected to TMC and healthy        |
+| dr   | de2  | de2-dr   | denver-tanzu         | HEALTHY | management cluster is connected to TMC and healthy        |
+| prod | fr8  | fra-prod | fr8-prod-tanzu       | HEALTHY | management cluster is connected to TMC and healthy        |
+| stg  | fr8  | fr8-stg  | e2open-fr8-stg-tanzu | HEALTHY | management cluster is connected to TMC and healthy        |
+| prod | sh2  | sh2-prod | sha-tanzu            | HEALTHY | management cluster is connected to TMC and healthy        |
+| dr   | cdg  | cdg-dr   | cdg-dr               | HEALTHY | management cluster is connected to TMC and healthy        |
+| dev  | blr  | blr-dev  | blr-dev              | WARNING | management cluster is connected to TMC but is not healthy |
 [Download tkg.csv](/csv/tkg.csv)

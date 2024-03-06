@@ -40,5 +40,5 @@ draft: false
 | sjca-prod-vault-tkc         |      35,160 |            39 |   18,000 |         57 |         6 | HEALTHY | Cluster is healthy |
 | sjc-prod-sharedservices     |     240,783 |             4 |   60,000 |         16 |         6 | HEALTHY | Cluster is healthy |
 | sv1-prod-e2net              |     239,688 |            12 |   60,000 |         39 |         9 | HEALTHY | Cluster is healthy |
-| sv1-prod-sharedservices     |     239,688 |            18 |   60,000 |         34 |         9 | HEALTHY | Cluster is healthy |
+| sv1-prod-sharedservices     |     239,688 |            18 |   60,000 |         33 |         9 | HEALTHY | Cluster is healthy |
 [Download tkcprod.csv](/csv/tkcprod.csv)
