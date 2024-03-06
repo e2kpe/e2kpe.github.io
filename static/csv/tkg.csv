@@ -9,4 +9,4 @@ e2open-fr8-stg-tanzu,e2open-fr8-stg-tanzu,HEALTHY,management cluster is connecte
 sha-tanzu,default,HEALTHY,management cluster is connected to TMC and healthy
 svl-lab-tkgm,default,DISCONNECTED,management cluster is disconnected from TMC
 cdg-dr,default,HEALTHY,management cluster is connected to TMC and healthy
-blr-dev,default,HEALTHY,management cluster is connected to TMC and healthy
+blr-dev,default,WARNING,management cluster is connected to TMC but is not healthy

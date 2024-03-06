@@ -1,6 +1,6 @@
 ---
 title: "tnsdr"
-date: 2024-03-01
+date: 2024-03-06
 menu: data
 showdates: true
 weight: 11
@@ -10,6 +10,9 @@ draft: false
 | namespace   | clustername           | workspace             | mgmtcluster |
 | ----------- | --------------------- | --------------------- | ----------- |
 | ci-apps     | cdg-dr-ciapps         | prod-fra-ci-developer | cdg-dr      |
+| e2net-es    | cdg-dr-e2net          | cdg-dr-e2net          | cdg-dr      |
+| e2net-kosh  | cdg-dr-e2net          | cdg-dr-e2net          | cdg-dr      |
+| e2net-zk    | cdg-dr-e2net          | cdg-dr-e2net          | cdg-dr      |
 | e2proxy     | cdg-dr-e2proxy        | prod-fra-ci-developer | cdg-dr      |
 | kosh        | cdg-dr-sharedservices | cdg-dr-sharedservices | cdg-dr      |
 | kosh-e2net  | cdg-dr-sharedservices | cdg-dr-sharedservices | cdg-dr      |

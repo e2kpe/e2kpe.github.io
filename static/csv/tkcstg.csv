@@ -12,7 +12,7 @@ stg-fra-e2proxy-tkc,176087,11,44000,32,7,HEALTHY,Cluster is healthy
 stg-fra-e2proxy-walkme-tkc,31315,33,20000,49,5,HEALTHY,Cluster is healthy
 stg-shared-service-tkc,434319,3,60000,20,6,HEALTHY,Cluster is healthy
 stg-tanzu-ci-apps-tkc,111575,15,44000,31,7,HEALTHY,Cluster is healthy
-stg-tanzu-e2proxy-tkc,127514,38,52000,40,8,HEALTHY,Cluster is healthy
+stg-tanzu-e2proxy-tkc,127514,42,52000,42,8,HEALTHY,Cluster is healthy
 stg-tanzu-e2proxy-walkme-tkc,47255,37,24000,52,6,HEALTHY,Cluster is healthy
 stg-tanzu-rdm-sb-tkc,240788,6,36000,68,6,HEALTHY,Cluster is healthy
 stg-tanzu-rdm-uat-tkc,240788,7,36000,36,6,HEALTHY,Cluster is healthy

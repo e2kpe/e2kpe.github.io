@@ -4,6 +4,9 @@ rdm-prod,fr8-prod-e2net-cdm-platform,fr8-prod-rdm,attached
 rdm-es-uat,fr8-stg-e2net-cdm-platform,fr8stg-rdm,attached
 rdm-uat,fr8-stg-e2net-cdm-platform,fr8stg-rdm,attached
 ci-apps,cdg-dr-ciapps,prod-fra-ci-developer,cdg-dr
+e2net-es,cdg-dr-e2net,cdg-dr-e2net,cdg-dr
+e2net-kosh,cdg-dr-e2net,cdg-dr-e2net,cdg-dr
+e2net-zk,cdg-dr-e2net,cdg-dr-e2net,cdg-dr
 e2proxy,cdg-dr-e2proxy,prod-fra-ci-developer,cdg-dr
 kosh,cdg-dr-sharedservices,cdg-dr-sharedservices,cdg-dr
 kosh-e2net,cdg-dr-sharedservices,cdg-dr-sharedservices,cdg-dr
