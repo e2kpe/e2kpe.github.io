@@ -17,7 +17,7 @@ draft: false
 | stg-cdm-awx-tkc              |     305,111 |             9 |   44,000 |         44 |         7 | HEALTHY | Cluster is healthy                 |
 | stg-cdm-ppi-tkc              |     948,341 |            26 |  124,000 |         17 |        17 | HEALTHY | Cluster is healthy                 |
 | stg-cdm-waf-tkc              |      47,256 |            10 |   24,000 |         30 |         6 | HEALTHY | Cluster is healthy                 |
-| stg-fra-ci-apps-tkc          |      95,636 |            14 |   36,000 |         33 |         6 | HEALTHY | Cluster is healthy                 |
+| stg-fra-ci-apps-tkc          |      95,636 |            14 |   36,000 |         36 |         6 | HEALTHY | Cluster is healthy                 |
 | stg-fra-e2proxy-tkc          |     176,087 |            11 |   44,000 |         32 |         7 | HEALTHY | Cluster is healthy                 |
 | stg-fra-e2proxy-walkme-tkc   |      31,315 |            33 |   20,000 |         49 |         5 | HEALTHY | Cluster is healthy                 |
 | stg-shared-service-tkc       |     434,319 |             3 |   60,000 |         20 |         6 | HEALTHY | Cluster is healthy                 |
@@ -28,8 +28,8 @@ draft: false
 | stg-tanzu-rdm-uat-tkc        |     240,788 |             7 |   36,000 |         36 |         6 | HEALTHY | Cluster is healthy                 |
 | stg-vault-tkc                |      59,352 |            26 |   18,000 |         68 |         6 | HEALTHY | Cluster is healthy                 |
 | sv4-stg-channel              |     175,689 |            10 |   44,000 |         32 |         7 | HEALTHY | Cluster is healthy                 |
-| sv4-stg-cops                 |     111,276 |            16 |   28,000 |         51 |         7 | HEALTHY | Cluster is healthy                 |
+| sv4-stg-cops                 |     111,276 |            17 |   28,000 |         51 |         7 | HEALTHY | Cluster is healthy                 |
 | sv4-stg-e2net                |     432,925 |            19 |  108,000 |         18 |         9 | HEALTHY | Cluster is healthy                 |
 | sv4-stg-gtm                  |     143,689 |            11 |   36,000 |         35 |         6 | HEALTHY | Cluster is healthy                 |
-| sv4-stg-sharedservices       |     175,689 |            13 |   44,000 |         39 |         7 | HEALTHY | Cluster is healthy                 |
+| sv4-stg-sharedservices       |     175,689 |            14 |   44,000 |         39 |         7 | HEALTHY | Cluster is healthy                 |
 [Download tkcstg.csv](/csv/tkcstg.csv)

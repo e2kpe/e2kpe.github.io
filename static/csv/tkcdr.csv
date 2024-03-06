@@ -1,5 +1,5 @@
 clustername,memorytotal,memorypercent,cputotal,cpupercent,nodecount,health,message
-cdg-dr-ciapps,111575,14,44000,27,7,HEALTHY,Cluster is healthy
+cdg-dr-ciapps,111575,15,44000,27,7,HEALTHY,Cluster is healthy
 cdg-dr-cops,95377,15,36000,30,6,HEALTHY,Cluster is healthy
 cdg-dr-e2net,239688,9,60000,28,9,HEALTHY,Cluster is healthy
 cdg-dr-e2net-cdm-platform,240788,6,36000,30,6,HEALTHY,Cluster is healthy
