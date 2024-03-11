@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2024-03-06
+date: 2024-03-11
 menu: data
 showdates: true
 weight: 11
@@ -87,7 +87,6 @@ draft: false
 | sv4-dev-gtm                  | v1.24.11     |
 | sv4-dev-portworx-demo1       | v1.24.11     |
 | sv4-dev-portworx-demo2       | v1.24.11     |
-| sv4-dev-rdm                  | v1.24.11     |
 | sv4-dev-rnd-sandbox          | v1.24.11     |
 | sv4-dev-sharedservices       | v1.24.11     |
 | sv4-stg-channel              | v1.24.11     |
