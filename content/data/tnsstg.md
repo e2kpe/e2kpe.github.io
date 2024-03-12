@@ -1,6 +1,6 @@
 ---
 title: "tnsstg"
-date: 2024-03-11
+date: 2024-03-12
 menu: data
 showdates: true
 weight: 11
@@ -69,6 +69,7 @@ draft: false
 | e2net-kosh                      | sv4-stg-e2net                | stg-e2net                                   | e2stg-tanzu          |
 | e2net-zk                        | sv4-stg-e2net                | stg-e2net                                   | e2stg-tanzu          |
 | cargoscreening-stg              | sv4-stg-gtm                  | sv4-stg-gtm                                 | e2stg-tanzu          |
+| cisco-e2net-kosh                | sv4-stg-sharedservices       | sv4-stg-sharedservices                      | e2stg-tanzu          |
 | e2search-zk                     | sv4-stg-sharedservices       | sv4-stg-sharedservices                      | e2stg-tanzu          |
 | kosh                            | sv4-stg-sharedservices       | sv4-stg-sharedservices                      | e2stg-tanzu          |
 [Download tnsstg.csv](/csv/tnsstg.csv)

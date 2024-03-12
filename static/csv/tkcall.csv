@@ -1,8 +1,8 @@
 env,clustername,memorytotal,memorypercent,cputotal,cpupercent,nodecount,health,message
-prod,ch3-prod-channel,143689,11,36000,35,6,HEALTHY,Cluster is healthy
+prod,ch3-prod-channel,143689,11,36000,36,6,HEALTHY,Cluster is healthy
 prod,ch3-prod-e2net,239688,10,60000,34,9,HEALTHY,Cluster is healthy
 prod,ch3-prod-gtm,175689,10,44000,32,7,HEALTHY,Cluster is healthy
-prod,ch3-prod-sharedservices,175689,10,44000,33,7,HEALTHY,Cluster is healthy
+prod,ch3-prod-sharedservices,175689,10,44000,32,7,HEALTHY,Cluster is healthy
 prod,chg-prod-cargoscreening-tkc,119821,10,72000,16,6,HEALTHY,Cluster is healthy
 prod,chg-prod-cdm-awx-tkc,305111,8,44000,42,7,HEALTHY,Cluster is healthy
 prod,chg-prod-ci-apps-tkc,111575,12,44000,29,7,HEALTHY,Cluster is healthy
@@ -29,13 +29,13 @@ prod,sjca-prod-cops-tkc,111575,12,44000,29,7,HEALTHY,Cluster is healthy
 prod,sjca-prod-e2proxy-tkc,127514,27,52000,36,8,HEALTHY,Cluster is healthy
 prod,sjca-prod-vault-tkc,35160,39,18000,57,6,HEALTHY,Cluster is healthy
 prod,sjc-prod-sharedservices,240783,4,60000,16,6,HEALTHY,Cluster is healthy
-prod,sv1-prod-e2net,239688,12,60000,39,9,HEALTHY,Cluster is healthy
+prod,sv1-prod-e2net,239688,12,60000,38,9,HEALTHY,Cluster is healthy
 prod,sv1-prod-sharedservices,239688,18,60000,33,9,HEALTHY,Cluster is healthy
 dr,cdg-dr-ciapps,111575,14,44000,27,7,HEALTHY,Cluster is healthy
 dr,cdg-dr-cops,95377,15,36000,30,6,HEALTHY,Cluster is healthy
-dr,cdg-dr-e2net,239688,9,60000,28,9,HEALTHY,Cluster is healthy
+dr,cdg-dr-e2net,239688,10,60000,33,9,HEALTHY,Cluster is healthy
 dr,cdg-dr-e2net-cdm-platform,240788,6,36000,30,6,HEALTHY,Cluster is healthy
-dr,cdg-dr-e2proxy,95636,21,36000,33,6,HEALTHY,Cluster is healthy
+dr,cdg-dr-e2proxy,95636,21,36000,34,6,HEALTHY,Cluster is healthy
 dr,cdg-dr-sharedservices,95636,15,36000,30,6,HEALTHY,Cluster is healthy
 dr,den-dr-cops,95380,3,24000,26,6,HEALTHY,Cluster is healthy
 dr,den-tanzu-ci-apps-tkc,95636,12,48000,24,6,HEALTHY,Cluster is healthy
@@ -62,8 +62,8 @@ stg,stg-tanzu-rdm-sb-tkc,240788,6,36000,68,6,HEALTHY,Cluster is healthy
 stg,stg-tanzu-rdm-uat-tkc,240788,7,36000,36,6,HEALTHY,Cluster is healthy
 stg,stg-vault-tkc,59352,26,18000,68,6,HEALTHY,Cluster is healthy
 stg,sv4-stg-channel,175689,10,44000,32,7,HEALTHY,Cluster is healthy
-stg,sv4-stg-cops,111276,16,28000,51,7,HEALTHY,Cluster is healthy
-stg,sv4-stg-e2net,432925,19,108000,18,9,HEALTHY,Cluster is healthy
+stg,sv4-stg-cops,111276,17,28000,51,7,HEALTHY,Cluster is healthy
+stg,sv4-stg-e2net,432925,20,108000,18,9,HEALTHY,Cluster is healthy
 stg,sv4-stg-gtm,143689,11,36000,35,6,HEALTHY,Cluster is healthy
 stg,sv4-stg-sharedservices,175689,13,44000,39,7,HEALTHY,Cluster is healthy
 dev,blr-dev-cops,71225,23,18000,71,6,HEALTHY,Cluster is healthy
@@ -72,15 +72,15 @@ dev,e2dev-tanzu-ci-tkc,826867,13,108000,48,9,HEALTHY,Cluster is healthy
 dev,e2dev-tanzu-cs-tkc,817428,34,204000,30,27,WARNING,1 node is in WARNING state.
 dev,e2dev-tanzu-rdm-devqa-tkc,240788,6,36000,33,6,HEALTHY,Cluster is healthy
 dev,e2dev-tanzu-rdm-tkc,305111,5,44000,32,7,HEALTHY,Cluster is healthy
-dev,sv4-dev-channel,175689,10,44000,32,7,HEALTHY,Cluster is healthy
+dev,sv4-dev-channel,175689,13,44000,33,7,HEALTHY,Cluster is healthy
 dev,sv4-dev-ci,207688,10,52000,38,8,HEALTHY,Cluster is healthy
 dev,sv4-dev-cl,63380,19,16000,58,5,HEALTHY,Cluster is healthy
 dev,sv4-dev-cops,71224,24,24000,56,6,HEALTHY,Cluster is healthy
 dev,sv4-dev-devtools,239688,31,60000,78,9,HEALTHY,Cluster is healthy
-dev,sv4-dev-e2net,561337,24,140000,40,11,HEALTHY,Cluster is healthy
+dev,sv4-dev-e2net,561337,24,140000,39,11,HEALTHY,Cluster is healthy
 dev,sv4-dev-e2proxy,175689,12,44000,34,7,HEALTHY,Cluster is healthy
 dev,sv4-dev-gtm,175689,11,44000,47,7,HEALTHY,Cluster is healthy
-dev,sv4-dev-portworx-demo1,111276,17,28000,59,7,HEALTHY,Cluster is healthy
+dev,sv4-dev-portworx-demo1,111276,16,28000,51,7,HEALTHY,Cluster is healthy
 dev,sv4-dev-portworx-demo2,0,0,0,0,7,DISCONNECTED,Disconnected. Last heartbeat 2024-02-27T08:07:27Z
 dev,sv4-dev-rnd-sandbox,175689,10,44000,34,7,HEALTHY,Cluster is healthy
-dev,sv4-dev-sharedservices,561337,26,140000,30,11,HEALTHY,Cluster is healthy
+dev,sv4-dev-sharedservices,561337,27,140000,30,11,HEALTHY,Cluster is healthy

@@ -1,6 +1,6 @@
 ---
 title: "tkcdr"
-date: 2024-03-11
+date: 2024-03-12
 menu: data
 showdates: true
 weight: 11
@@ -11,9 +11,9 @@ draft: false
 | ---------------------------- | ----------- | ------------- | -------- | ---------- | --------- | ------- | ------------------ |
 | cdg-dr-ciapps                |     111,575 |            14 |   44,000 |         27 |         7 | HEALTHY | Cluster is healthy |
 | cdg-dr-cops                  |      95,377 |            15 |   36,000 |         30 |         6 | HEALTHY | Cluster is healthy |
-| cdg-dr-e2net                 |     239,688 |             9 |   60,000 |         28 |         9 | HEALTHY | Cluster is healthy |
+| cdg-dr-e2net                 |     239,688 |            10 |   60,000 |         33 |         9 | HEALTHY | Cluster is healthy |
 | cdg-dr-e2net-cdm-platform    |     240,788 |             6 |   36,000 |         30 |         6 | HEALTHY | Cluster is healthy |
-| cdg-dr-e2proxy               |      95,636 |            21 |   36,000 |         33 |         6 | HEALTHY | Cluster is healthy |
+| cdg-dr-e2proxy               |      95,636 |            21 |   36,000 |         34 |         6 | HEALTHY | Cluster is healthy |
 | cdg-dr-sharedservices        |      95,636 |            15 |   36,000 |         30 |         6 | HEALTHY | Cluster is healthy |
 | den-dr-cops                  |      95,380 |             3 |   24,000 |         26 |         6 | HEALTHY | Cluster is healthy |
 | den-tanzu-ci-apps-tkc        |      95,636 |            12 |   48,000 |         24 |         6 | HEALTHY | Cluster is healthy |
