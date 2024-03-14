@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2024-03-12
+date: 2024-03-14
 menu: data
 showdates: true
 weight: 11
@@ -51,7 +51,6 @@ draft: false
 | stg-tanzu-e2proxy-walkme-tkc | v1.22.9      |
 | stg-tanzu-rdm-sb-tkc         | v1.22.9      |
 | stg-tanzu-rdm-uat-tkc        | v1.22.9      |
-| stg-vault-tkc                | v1.22.9      |
 | sv4-dr-cdm-e2proxy           | v1.22.9      |
 | sv4-dr-rdm                   | v1.22.9      |
 | den-tanzu-ci-apps-tkc        | v1.23.8      |
@@ -80,21 +79,16 @@ draft: false
 | sv4-dev-channel              | v1.24.11     |
 | sv4-dev-ci                   | v1.24.11     |
 | sv4-dev-cl                   | v1.24.11     |
-| sv4-dev-cops                 | v1.24.11     |
 | sv4-dev-devtools             | v1.24.11     |
 | sv4-dev-e2net                | v1.24.11     |
 | sv4-dev-e2proxy              | v1.24.11     |
 | sv4-dev-gtm                  | v1.24.11     |
-| sv4-dev-portworx-demo1       | v1.24.11     |
-| sv4-dev-portworx-demo2       | v1.24.11     |
 | sv4-dev-rnd-sandbox          | v1.24.11     |
 | sv4-dev-sharedservices       | v1.24.11     |
 | sv4-stg-channel              | v1.24.11     |
-| sv4-stg-cops                 | v1.24.11     |
 | sv4-stg-e2net                | v1.24.11     |
 | sv4-stg-gtm                  | v1.24.11     |
 | sv4-stg-sharedservices       | v1.24.11     |
-| test-tkc                     | v1.24.11     |
 | fr8-prod-e2net-cdm-platform  |              |
 | fr8-stg-e2net-cdm-platform   |              |
 [Download tkr.csv](/csv/tkr.csv)

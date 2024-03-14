@@ -16,8 +16,8 @@ e2net-es,ch3-prod-e2net,ch3-prod-e2net,chg-prod-tanzu-k8s
 e2net-kosh,ch3-prod-e2net,ch3-prod-e2net,chg-prod-tanzu-k8s
 e2net-zk,ch3-prod-e2net,ch3-prod-e2net,chg-prod-tanzu-k8s
 cargoscreening-prod,ch3-prod-gtm,ch3-prod-gtm,chg-prod-tanzu-k8s
-cisco-e2net-kosh,ch3-prod-sharedservices,ch3-prod-sharedservices,chg-prod-tanzu-k8s
 kosh,ch3-prod-sharedservices,ch3-prod-sharedservices,chg-prod-tanzu-k8s
+kosh-e2net-cisco,ch3-prod-sharedservices,ch3-prod-sharedservices,chg-prod-tanzu-k8s
 cargoscreening-prod,chg-prod-cargoscreening-tkc,chg-cargoscreening-devteam,chg-prod-tanzu-k8s
 ci-prod,chg-prod-ci-apps-tkc,chg-prod-ci-apps-tkc-ci-developer,chg-prod-tanzu-k8s
 monitor-log-testbench,chg-prod-ci-apps-tkc,chg-prod-ci-apps-tkc-cloudoperation,chg-prod-tanzu-k8s
@@ -113,7 +113,6 @@ ci-helm,sv4-dev-ci,sv4-dev-ci,e2open-dev-tanzu
 ci-productqa,sv4-dev-ci,sv4-dev-ci,e2open-dev-tanzu
 ci-projectdev,sv4-dev-ci,sv4-dev-ci,e2open-dev-tanzu
 ci-psr,sv4-dev-ci,sv4-dev-ci,e2open-dev-tanzu
-clamav,sv4-dev-cops,dev-cops,e2open-dev-tanzu
 devops-test,sv4-dev-devtools,dev-demo-tkc,e2open-dev-tanzu
 artifactory,sv4-dev-devtools,dev-tanzu-ci,e2open-dev-tanzu
 jenkins,sv4-dev-devtools,dev-tanzu-ci,e2open-dev-tanzu
@@ -214,9 +213,9 @@ e2net-es,sv4-stg-e2net,stg-e2net,e2stg-tanzu
 e2net-kosh,sv4-stg-e2net,stg-e2net,e2stg-tanzu
 e2net-zk,sv4-stg-e2net,stg-e2net,e2stg-tanzu
 cargoscreening-stg,sv4-stg-gtm,sv4-stg-gtm,e2stg-tanzu
-cisco-e2net-kosh,sv4-stg-sharedservices,sv4-stg-sharedservices,e2stg-tanzu
 e2search-zk,sv4-stg-sharedservices,sv4-stg-sharedservices,e2stg-tanzu
 kosh,sv4-stg-sharedservices,sv4-stg-sharedservices,e2stg-tanzu
+kosh-e2net-cisco,sv4-stg-sharedservices,sv4-stg-sharedservices,e2stg-tanzu
 e2net-es,fr8-prod-e2net,fr8-prod-e2net,fr8-prod-tanzu
 e2net-kosh,fr8-prod-e2net,fr8-prod-e2net,fr8-prod-tanzu
 e2net-zk,fr8-prod-e2net,fr8-prod-e2net,fr8-prod-tanzu

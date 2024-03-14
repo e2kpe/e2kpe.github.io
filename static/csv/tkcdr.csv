@@ -3,7 +3,7 @@ cdg-dr-ciapps,111575,14,44000,27,7,HEALTHY,Cluster is healthy
 cdg-dr-cops,95377,15,36000,30,6,HEALTHY,Cluster is healthy
 cdg-dr-e2net,239688,10,60000,33,9,HEALTHY,Cluster is healthy
 cdg-dr-e2net-cdm-platform,240788,6,36000,30,6,HEALTHY,Cluster is healthy
-cdg-dr-e2proxy,95636,21,36000,34,6,HEALTHY,Cluster is healthy
+cdg-dr-e2proxy,95636,21,36000,33,6,HEALTHY,Cluster is healthy
 cdg-dr-sharedservices,95636,15,36000,30,6,HEALTHY,Cluster is healthy
 den-dr-cops,95380,3,24000,26,6,HEALTHY,Cluster is healthy
 den-tanzu-ci-apps-tkc,95636,12,48000,24,6,HEALTHY,Cluster is healthy

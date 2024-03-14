@@ -1,6 +1,6 @@
 ---
 title: "tnsdev"
-date: 2024-03-12
+date: 2024-03-14
 menu: data
 showdates: true
 weight: 11
@@ -78,7 +78,6 @@ draft: false
 | ci-productqa                    | sv4-dev-ci                | sv4-dev-ci                      | e2open-dev-tanzu |
 | ci-projectdev                   | sv4-dev-ci                | sv4-dev-ci                      | e2open-dev-tanzu |
 | ci-psr                          | sv4-dev-ci                | sv4-dev-ci                      | e2open-dev-tanzu |
-| clamav                          | sv4-dev-cops              | dev-cops                        | e2open-dev-tanzu |
 | devops-test                     | sv4-dev-devtools          | dev-demo-tkc                    | e2open-dev-tanzu |
 | artifactory                     | sv4-dev-devtools          | dev-tanzu-ci                    | e2open-dev-tanzu |
 | jenkins                         | sv4-dev-devtools          | dev-tanzu-ci                    | e2open-dev-tanzu |
