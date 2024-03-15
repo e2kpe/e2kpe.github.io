@@ -1,6 +1,6 @@
 ---
 title: "tns"
-date: 2024-03-14
+date: 2024-03-15
 menu: data
 showdates: true
 weight: 11
@@ -241,6 +241,7 @@ draft: false
 | watermill                       | fra-prod-sharedservices-tkc  | fra-prod-sharedservices                     | fr8-prod-tanzu       |
 | ci-prod                         | sha-prod-ci-apps-tkc         | sha-prod-ci-apps-tkc-cloudoperation         | sha-tanzu            |
 | e2proxy                         | sha-prod-e2proxy-tkc         | sha-e2proxy                                 | sha-tanzu            |
+| artifactory-edge                | sha-prod-sharedservices      | sha-prod-sharedservices                     | sha-tanzu            |
 | kosh                            | sha-prod-sharedservices      | sha-prod-sharedservices                     | sha-tanzu            |
 | watermill                       | sjc-prod-sharedservices      | watermill                                   | sjca-prod-tanzu-k8s  |
 | ci-prod                         | sjca-prod-ci-apps-tkc        | sjca-prod-ci-apps-tkc-ci-developer          | sjca-prod-tanzu-k8s  |

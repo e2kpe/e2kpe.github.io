@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2024-03-14
+date: 2024-03-15
 menu: data
 showdates: true
 weight: 11
@@ -67,8 +67,10 @@ draft: false
 | ch3-prod-gtm                 | v1.24.11     |
 | ch3-prod-sharedservices      | v1.24.11     |
 | den-dr-cops                  | v1.24.11     |
+| falco-test                   | v1.24.11     |
 | fr8-prod-e2net               | v1.24.11     |
 | fr8-prod-sharedservices      | v1.24.11     |
+| fr8-stg-ci                   | v1.24.11     |
 | fr8-stg-e2net                | v1.24.11     |
 | fr8-stg-sharedservices       | v1.24.11     |
 | king-trainging               | v1.24.11     |
