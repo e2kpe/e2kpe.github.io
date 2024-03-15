@@ -18,6 +18,6 @@ stg-tanzu-e2proxy-walkme-tkc,47255,38,24000,52,6,HEALTHY,Cluster is healthy
 stg-tanzu-rdm-sb-tkc,240788,6,36000,68,6,HEALTHY,Cluster is healthy
 stg-tanzu-rdm-uat-tkc,240788,7,36000,36,6,HEALTHY,Cluster is healthy
 sv4-stg-channel,175689,10,44000,33,7,HEALTHY,Cluster is healthy
-sv4-stg-e2net,432925,20,108000,18,9,HEALTHY,Cluster is healthy
+sv4-stg-e2net,432925,19,108000,18,9,HEALTHY,Cluster is healthy
 sv4-stg-gtm,143689,11,36000,35,6,HEALTHY,Cluster is healthy
 sv4-stg-sharedservices,175689,13,44000,39,7,HEALTHY,Cluster is healthy
