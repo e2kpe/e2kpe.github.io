@@ -1,12 +1,12 @@
 clustername,memorytotal,memorypercent,cputotal,cpupercent,nodecount,health,message
-blr-dev-cops,71225,23,18000,71,6,HEALTHY,Cluster is healthy
+blr-dev-cops,71225,23,18000,72,6,HEALTHY,Cluster is healthy
 blr-dev-test,71225,19,18000,57,6,HEALTHY,Cluster is healthy
 e2dev-tanzu-ci-tkc,826867,13,108000,47,9,HEALTHY,Cluster is healthy
 e2dev-tanzu-cs-tkc,817428,34,204000,30,27,WARNING,1 node is in WARNING state.
 e2dev-tanzu-rdm-devqa-tkc,240788,6,36000,33,6,HEALTHY,Cluster is healthy
 e2dev-tanzu-rdm-tkc,305111,5,44000,32,7,HEALTHY,Cluster is healthy
 sv4-dev-channel,239688,18,60000,32,9,HEALTHY,Cluster is healthy
-sv4-dev-ci,207688,11,52000,43,8,HEALTHY,Cluster is healthy
+sv4-dev-ci,207688,10,52000,38,8,HEALTHY,Cluster is healthy
 sv4-dev-cl,63380,19,16000,58,5,HEALTHY,Cluster is healthy
 sv4-dev-devtools,239688,31,60000,77,9,HEALTHY,Cluster is healthy
 sv4-dev-e2net,561337,24,140000,39,11,HEALTHY,Cluster is healthy
