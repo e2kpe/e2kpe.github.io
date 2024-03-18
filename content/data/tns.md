@@ -17,6 +17,9 @@ draft: false
 | e2net-es                        | cdg-dr-e2net                 | cdg-dr-e2net                                | cdg-dr               |
 | e2net-kosh                      | cdg-dr-e2net                 | cdg-dr-e2net                                | cdg-dr               |
 | e2net-zk                        | cdg-dr-e2net                 | cdg-dr-e2net                                | cdg-dr               |
+| feeds-es-prod                   | cdg-dr-e2net-cdm-platform    | cdg-dr-e2net-cdm-platform                   | cdg-dr               |
+| rdm-es-prod                     | cdg-dr-e2net-cdm-platform    | cdg-dr-e2net-cdm-platform                   | cdg-dr               |
+| rdm-prod                        | cdg-dr-e2net-cdm-platform    | cdg-dr-e2net-cdm-platform                   | cdg-dr               |
 | e2proxy                         | cdg-dr-e2proxy               | prod-fra-ci-developer                       | cdg-dr               |
 | feeds-es-prod                   | cdg-dr-sharedservices        | cdg-dr-sharedservices                       | cdg-dr               |
 | kosh                            | cdg-dr-sharedservices        | cdg-dr-sharedservices                       | cdg-dr               |

@@ -1,8 +1,8 @@
 clustername,memorytotal,memorypercent,cputotal,cpupercent,nodecount,health,message
-ch3-prod-channel,143689,12,36000,38,6,HEALTHY,Cluster is healthy
+ch3-prod-channel,143689,11,36000,36,6,HEALTHY,Cluster is healthy
 ch3-prod-e2net,239688,10,60000,34,9,HEALTHY,Cluster is healthy
 ch3-prod-gtm,175689,10,44000,32,7,HEALTHY,Cluster is healthy
-ch3-prod-sharedservices,175689,10,44000,33,7,HEALTHY,Cluster is healthy
+ch3-prod-sharedservices,175689,16,44000,46,7,HEALTHY,Cluster is healthy
 chg-prod-cargoscreening-tkc,119821,10,72000,16,6,HEALTHY,Cluster is healthy
 chg-prod-cdm-awx-tkc,305111,8,44000,42,7,HEALTHY,Cluster is healthy
 chg-prod-ci-apps-tkc,111575,12,44000,29,7,HEALTHY,Cluster is healthy

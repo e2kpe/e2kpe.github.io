@@ -18,7 +18,7 @@ draft: false
 | stg-cdm-awx-tkc              |     305,111 |             9 |   44,000 |         44 |         7 | HEALTHY | Cluster is healthy                 |
 | stg-cdm-ppi-tkc              |     948,341 |            27 |  124,000 |         17 |        17 | HEALTHY | Cluster is healthy                 |
 | stg-cdm-waf-tkc              |      47,256 |            10 |   24,000 |         30 |         6 | HEALTHY | Cluster is healthy                 |
-| stg-fra-ci-apps-tkc          |      95,636 |            14 |   36,000 |         36 |         6 | HEALTHY | Cluster is healthy                 |
+| stg-fra-ci-apps-tkc          |      95,636 |            14 |   36,000 |         33 |         6 | HEALTHY | Cluster is healthy                 |
 | stg-fra-e2proxy-tkc          |     176,087 |            11 |   44,000 |         32 |         7 | HEALTHY | Cluster is healthy                 |
 | stg-fra-e2proxy-walkme-tkc   |      31,315 |            33 |   20,000 |         49 |         5 | HEALTHY | Cluster is healthy                 |
 | stg-shared-service-tkc       |     434,319 |             3 |   60,000 |         20 |         6 | HEALTHY | Cluster is healthy                 |

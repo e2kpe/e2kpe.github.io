@@ -16,7 +16,7 @@ draft: false
 | e2dev-tanzu-rdm-devqa-tkc |     240,788 |             6 |   36,000 |         33 |         6 | HEALTHY | Cluster is healthy          |
 | e2dev-tanzu-rdm-tkc       |     305,111 |             5 |   44,000 |         32 |         7 | HEALTHY | Cluster is healthy          |
 | sv4-dev-channel           |     239,688 |            18 |   60,000 |         32 |         9 | HEALTHY | Cluster is healthy          |
-| sv4-dev-ci                |     207,688 |            10 |   52,000 |         38 |         8 | HEALTHY | Cluster is healthy          |
+| sv4-dev-ci                |     207,688 |            11 |   52,000 |         43 |         8 | HEALTHY | Cluster is healthy          |
 | sv4-dev-cl                |      63,380 |            19 |   16,000 |         58 |         5 | HEALTHY | Cluster is healthy          |
 | sv4-dev-devtools          |     239,688 |            31 |   60,000 |         77 |         9 | HEALTHY | Cluster is healthy          |
 | sv4-dev-e2net             |     561,337 |            24 |  140,000 |         39 |        11 | HEALTHY | Cluster is healthy          |
