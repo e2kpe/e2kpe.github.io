@@ -1,6 +1,6 @@
 ---
 title: "tnsstg"
-date: 2024-03-15
+date: 2024-03-18
 menu: data
 showdates: true
 weight: 11
@@ -11,6 +11,7 @@ draft: false
 | ------------------------------- | ---------------------------- | ------------------------------------------- | -------------------- |
 | rdm-es-uat                      | fr8-stg-e2net-cdm-platform   | fr8stg-rdm                                  | attached             |
 | rdm-uat                         | fr8-stg-e2net-cdm-platform   | fr8stg-rdm                                  | attached             |
+| ci-apps                         | fr8-stg-ci                   | fr8-stg-ci                                  | e2open-fr8-stg-tanzu |
 | e2net-es                        | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
 | e2net-kosh                      | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
 | e2net-zk                        | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |

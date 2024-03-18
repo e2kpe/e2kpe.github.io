@@ -1,6 +1,6 @@
 ---
 title: "tns"
-date: 2024-03-15
+date: 2024-03-18
 menu: data
 showdates: true
 weight: 11
@@ -18,6 +18,7 @@ draft: false
 | e2net-kosh                      | cdg-dr-e2net                 | cdg-dr-e2net                                | cdg-dr               |
 | e2net-zk                        | cdg-dr-e2net                 | cdg-dr-e2net                                | cdg-dr               |
 | e2proxy                         | cdg-dr-e2proxy               | prod-fra-ci-developer                       | cdg-dr               |
+| feeds-es-prod                   | cdg-dr-sharedservices        | cdg-dr-sharedservices                       | cdg-dr               |
 | kosh                            | cdg-dr-sharedservices        | cdg-dr-sharedservices                       | cdg-dr               |
 | kosh-e2net                      | cdg-dr-sharedservices        | cdg-dr-sharedservices                       | cdg-dr               |
 | watermill                       | cdg-dr-sharedservices        | watermill                                   | cdg-dr               |
@@ -28,6 +29,8 @@ draft: false
 | cargoscreening-prod             | ch3-prod-gtm                 | ch3-prod-gtm                                | chg-prod-tanzu-k8s   |
 | kosh                            | ch3-prod-sharedservices      | ch3-prod-sharedservices                     | chg-prod-tanzu-k8s   |
 | kosh-e2net-cisco                | ch3-prod-sharedservices      | ch3-prod-sharedservices                     | chg-prod-tanzu-k8s   |
+| ocular                          | ch3-prod-sharedservices      | ch3-prod-sharedservices                     | chg-prod-tanzu-k8s   |
+| temporal                        | ch3-prod-sharedservices      | ch3-prod-sharedservices                     | chg-prod-tanzu-k8s   |
 | cargoscreening-prod             | chg-prod-cargoscreening-tkc  | chg-cargoscreening-devteam                  | chg-prod-tanzu-k8s   |
 | ci-prod                         | chg-prod-ci-apps-tkc         | chg-prod-ci-apps-tkc-ci-developer           | chg-prod-tanzu-k8s   |
 | monitor-log-testbench           | chg-prod-ci-apps-tkc         | chg-prod-ci-apps-tkc-cloudoperation         | chg-prod-tanzu-k8s   |
@@ -163,6 +166,7 @@ draft: false
 | watermill-playground            | sv4-dev-sharedservices       | sv4-dev-sharedservices                      | e2open-dev-tanzu     |
 | wm-dev                          | sv4-dev-sharedservices       | sv4-dev-sharedservices                      | e2open-dev-tanzu     |
 | wm-psr                          | sv4-dev-sharedservices       | sv4-dev-sharedservices                      | e2open-dev-tanzu     |
+| ci-apps                         | fr8-stg-ci                   | fr8-stg-ci                                  | e2open-fr8-stg-tanzu |
 | e2net-es                        | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
 | e2net-kosh                      | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
 | e2net-zk                        | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |

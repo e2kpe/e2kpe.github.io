@@ -1,6 +1,6 @@
 ---
 title: "tkcprod"
-date: 2024-03-15
+date: 2024-03-18
 menu: data
 showdates: true
 weight: 11
@@ -9,10 +9,10 @@ draft: false
 <!--more-->
 | clustername                 | memorytotal | memorypercent | cputotal | cpupercent | nodecount | health  | message            |
 | --------------------------- | ----------- | ------------- | -------- | ---------- | --------- | ------- | ------------------ |
-| ch3-prod-channel            |     143,689 |            11 |   36,000 |         35 |         6 | HEALTHY | Cluster is healthy |
+| ch3-prod-channel            |     143,689 |            12 |   36,000 |         38 |         6 | HEALTHY | Cluster is healthy |
 | ch3-prod-e2net              |     239,688 |            10 |   60,000 |         34 |         9 | HEALTHY | Cluster is healthy |
 | ch3-prod-gtm                |     175,689 |            10 |   44,000 |         32 |         7 | HEALTHY | Cluster is healthy |
-| ch3-prod-sharedservices     |     175,689 |            10 |   44,000 |         32 |         7 | HEALTHY | Cluster is healthy |
+| ch3-prod-sharedservices     |     175,689 |            10 |   44,000 |         33 |         7 | HEALTHY | Cluster is healthy |
 | chg-prod-cargoscreening-tkc |     119,821 |            10 |   72,000 |         16 |         6 | HEALTHY | Cluster is healthy |
 | chg-prod-cdm-awx-tkc        |     305,111 |             8 |   44,000 |         42 |         7 | HEALTHY | Cluster is healthy |
 | chg-prod-ci-apps-tkc        |     111,575 |            12 |   44,000 |         29 |         7 | HEALTHY | Cluster is healthy |
