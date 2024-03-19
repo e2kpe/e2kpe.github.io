@@ -1,6 +1,6 @@
 ---
 title: "tns"
-date: 2024-03-18
+date: 2024-03-19
 menu: data
 showdates: true
 weight: 11
@@ -121,6 +121,8 @@ draft: false
 | dealreg                         | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |
 | feeds                           | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |
 | fm-dev                          | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |
+| ppi                             | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |
+| sso                             | sv4-dev-channel              | sv4-dev-channel                             | e2open-dev-tanzu     |
 | catx                            | sv4-dev-ci                   | catx                                        | e2open-dev-tanzu     |
 | ci                              | sv4-dev-ci                   | sv4-dev-ci                                  | e2open-dev-tanzu     |
 | ci-buildenv                     | sv4-dev-ci                   | sv4-dev-ci                                  | e2open-dev-tanzu     |
