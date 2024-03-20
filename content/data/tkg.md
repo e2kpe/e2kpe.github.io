@@ -1,6 +1,6 @@
 ---
 title: "tkg"
-date: 2024-03-19
+date: 2024-03-20
 menu: data
 showdates: true
 weight: 11
@@ -13,7 +13,7 @@ draft: false
 | dev  | sv4  | sv4-dev  | e2open-dev-tanzu     | HEALTHY | management cluster is connected to TMC and healthy        |
 | stg  | sv4  | sv4-stg  | e2stg-tanzu          | HEALTHY | management cluster is connected to TMC and healthy        |
 | prod | sv1  | sv1-prod | sjca-prod-tanzu-k8s  | HEALTHY | management cluster is connected to TMC and healthy        |
-| dr   | de2  | de2-dr   | denver-tanzu         | WARNING | management cluster is connected to TMC but is not healthy |
+| dr   | de2  | de2-dr   | denver-tanzu         | HEALTHY | management cluster is connected to TMC and healthy        |
 | prod | fr8  | fra-prod | fr8-prod-tanzu       | HEALTHY | management cluster is connected to TMC and healthy        |
 | stg  | fr8  | fr8-stg  | e2open-fr8-stg-tanzu | HEALTHY | management cluster is connected to TMC and healthy        |
 | prod | sh2  | sh2-prod | sha-tanzu            | HEALTHY | management cluster is connected to TMC and healthy        |
