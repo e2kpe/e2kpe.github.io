@@ -1,6 +1,6 @@
 ---
 title: "tnsdev"
-date: 2024-03-20
+date: 2024-03-21
 menu: data
 showdates: true
 weight: 11
@@ -50,13 +50,6 @@ draft: false
 | tp-dev                          | e2dev-tanzu-cs-tkc     | dev-cs-rndteam                  | e2open-dev-tanzu |
 | trueid-dev                      | e2dev-tanzu-cs-tkc     | dev-cs-rndteam                  | e2open-dev-tanzu |
 | monitor-zabbix                  | e2dev-tanzu-cs-tkc     | dev-tanzu-monitor               | e2open-dev-tanzu |
-| rdm-devint                      | e2dev-tanzu-rdm-tkc    | dev-rdm-qa                      | e2open-dev-tanzu |
-| rdm-es-devint                   | e2dev-tanzu-rdm-tkc    | dev-rdm-qa                      | e2open-dev-tanzu |
-| monitor-zabbix                  | e2dev-tanzu-rdm-tkc    | dev-tanzu-monitor               | e2open-dev-tanzu |
-| e2flow-dev                      | e2dev-tanzu-rdm-tkc    | rdm-rndteam                     | e2open-dev-tanzu |
-| feeds-es-dev                    | e2dev-tanzu-rdm-tkc    | rdm-rndteam                     | e2open-dev-tanzu |
-| rdm-dev                         | e2dev-tanzu-rdm-tkc    | rdm-rndteam                     | e2open-dev-tanzu |
-| rdm-es-dev                      | e2dev-tanzu-rdm-tkc    | rdm-rndteam                     | e2open-dev-tanzu |
 | awx                             | sv4-dev-channel        | sv4-dev-channel                 | e2open-dev-tanzu |
 | awx-qa                          | sv4-dev-channel        | sv4-dev-channel                 | e2open-dev-tanzu |
 | cdmci                           | sv4-dev-channel        | sv4-dev-channel                 | e2open-dev-tanzu |

@@ -1,6 +1,6 @@
 ---
 title: "tkcprod"
-date: 2024-03-20
+date: 2024-03-21
 menu: data
 showdates: true
 weight: 11
@@ -9,7 +9,7 @@ draft: false
 <!--more-->
 | clustername                 | memorytotal | memorypercent | cputotal | cpupercent | nodecount | health  | message            |
 | --------------------------- | ----------- | ------------- | -------- | ---------- | --------- | ------- | ------------------ |
-| ch3-prod-channel            |     143,689 |            11 |   36,000 |         36 |         6 | HEALTHY | Cluster is healthy |
+| ch3-prod-channel            |     143,689 |            15 |   36,000 |         46 |         6 | HEALTHY | Cluster is healthy |
 | ch3-prod-e2net              |     239,688 |            10 |   60,000 |         34 |         9 | HEALTHY | Cluster is healthy |
 | ch3-prod-gtm                |     175,689 |            10 |   44,000 |         32 |         7 | HEALTHY | Cluster is healthy |
 | ch3-prod-sharedservices     |     175,689 |            16 |   44,000 |         46 |         7 | HEALTHY | Cluster is healthy |
@@ -27,13 +27,13 @@ draft: false
 | fr8-prod-sharedservices     |     175,689 |            58 |   44,000 |         32 |         7 | HEALTHY | Cluster is healthy |
 | fr8-prod-vault-tkc          |      35,162 |            42 |   18,000 |         60 |         6 | HEALTHY | Cluster is healthy |
 | fra-prod-ci-apps-tkc        |     111,575 |            12 |   44,000 |         29 |         7 | HEALTHY | Cluster is healthy |
-| fra-prod-cops-tkc           |     111,575 |            17 |   44,000 |         33 |         7 | HEALTHY | Cluster is healthy |
+| fra-prod-cops-tkc           |     111,575 |            16 |   44,000 |         32 |         7 | HEALTHY | Cluster is healthy |
 | fra-prod-e2proxy-tkc        |     176,087 |            10 |   44,000 |         32 |         7 | HEALTHY | Cluster is healthy |
 | fra-prod-e2proxy-walkme-tkc |      55,505 |            19 |   28,000 |         35 |         5 | HEALTHY | Cluster is healthy |
 | fra-prod-sharedservices-tkc |     240,784 |             5 |   60,000 |         19 |         6 | HEALTHY | Cluster is healthy |
 | sha-prod-ci-apps-tkc        |      95,634 |            13 |   48,000 |         24 |         6 | HEALTHY | Cluster is healthy |
 | sha-prod-e2proxy-tkc        |     111,573 |            15 |   56,000 |         24 |         7 | HEALTHY | Cluster is healthy |
-| sha-prod-sharedservices     |     175,689 |            11 |   44,000 |         34 |         7 | HEALTHY | Cluster is healthy |
+| sha-prod-sharedservices     |     175,689 |            11 |   44,000 |         33 |         7 | HEALTHY | Cluster is healthy |
 | sjca-prod-ci-apps-tkc       |     111,575 |            12 |   44,000 |         29 |         7 | HEALTHY | Cluster is healthy |
 | sjca-prod-cops-tkc          |     111,575 |            12 |   44,000 |         29 |         7 | HEALTHY | Cluster is healthy |
 | sjca-prod-e2proxy-tkc       |     127,514 |            27 |   52,000 |         36 |         8 | HEALTHY | Cluster is healthy |

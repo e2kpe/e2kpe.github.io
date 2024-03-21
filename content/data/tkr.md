@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2024-03-20
+date: 2024-03-21
 menu: data
 showdates: true
 weight: 11
@@ -25,7 +25,6 @@ draft: false
 | den-tanzu-e2proxy-walkme-tkc | v1.22.9      |
 | e2dev-tanzu-ci-tkc           | v1.22.9      |
 | e2dev-tanzu-cs-tkc           | v1.22.9      |
-| e2dev-tanzu-rdm-tkc          | v1.22.9      |
 | fra-prod-ci-apps-tkc         | v1.22.9      |
 | fra-prod-cops-tkc            | v1.22.9      |
 | fra-prod-e2proxy-tkc         | v1.22.9      |
