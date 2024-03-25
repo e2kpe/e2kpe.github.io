@@ -1,6 +1,6 @@
 ---
 title: "tkr"
-date: 2024-03-22
+date: 2024-03-25
 menu: data
 showdates: true
 weight: 11
@@ -37,7 +37,6 @@ draft: false
 | sjca-prod-e2proxy-tkc        | v1.22.9      |
 | sjca-prod-vault-tkc          | v1.22.9      |
 | sjc-prod-sharedservices      | v1.22.9      |
-| stg-cargoscreening-tkc       | v1.22.9      |
 | stg-cdm-awx-tkc              | v1.22.9      |
 | stg-cdm-ppi-tkc              | v1.22.9      |
 | stg-fra-ci-apps-tkc          | v1.22.9      |
@@ -70,6 +69,8 @@ draft: false
 | fr8-prod-sharedservices      | v1.24.11     |
 | fr8-stg-ci                   | v1.24.11     |
 | fr8-stg-e2net                | v1.24.11     |
+| fr8-stg-e2proxy              | v1.24.11     |
+| fr8-stg-e2proxy-walkme       | v1.24.11     |
 | fr8-stg-sharedservices       | v1.24.11     |
 | king-trainging               | v1.24.11     |
 | network-test                 | v1.24.11     |

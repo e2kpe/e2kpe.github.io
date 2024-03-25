@@ -1,6 +1,6 @@
 ---
 title: "tnsstg"
-date: 2024-03-22
+date: 2024-03-25
 menu: data
 showdates: true
 weight: 11
@@ -15,6 +15,7 @@ draft: false
 | e2net-es                        | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
 | e2net-kosh                      | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
 | e2net-zk                        | fr8-stg-e2net                | fr8-stg-e2net                               | e2open-fr8-stg-tanzu |
+| e2proxy                         | fr8-stg-e2proxy              | fr8-stg-e2proxy                             | e2open-fr8-stg-tanzu |
 | feeds-es-uat                    | fr8-stg-sharedservices       | fr8-stg-sharedservices                      | e2open-fr8-stg-tanzu |
 | kosh                            | fr8-stg-sharedservices       | fr8-stg-sharedservices                      | e2open-fr8-stg-tanzu |
 | watermill                       | fr8-stg-sharedservices       | fr8-stg-sharedservices                      | e2open-fr8-stg-tanzu |
@@ -22,7 +23,6 @@ draft: false
 | e2proxy                         | stg-fra-e2proxy-tkc          | stg-fra-ci-developer                        | e2open-fr8-stg-tanzu |
 | e2proxy                         | stg-fra-e2proxy-walkme-tkc   | stg-fra-ci-developer                        | e2open-fr8-stg-tanzu |
 | e2proxy-walkme                  | stg-fra-e2proxy-walkme-tkc   | stg-fra-ci-developer                        | e2open-fr8-stg-tanzu |
-| cargoscreening-stg              | stg-cargoscreening-tkc       | stg-cargoscreening-devteam                  | e2stg-tanzu          |
 | awx-demo                        | stg-cdm-awx-tkc              | stg-cs-rndteam                              | e2stg-tanzu          |
 | awx-staging                     | stg-cdm-awx-tkc              | stg-cs-rndteam                              | e2stg-tanzu          |
 | crp                             | stg-cdm-ppi-tkc              | stg-cdm-ppi-ws                              | e2stg-tanzu          |

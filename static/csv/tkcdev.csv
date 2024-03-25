@@ -1,14 +1,14 @@
 clustername,memorytotal,memorypercent,cputotal,cpupercent,nodecount,health,message
-blr-dev-cops,0,0,0,0,6,DISCONNECTED,Disconnected. Last heartbeat 2024-03-22T13:56:40Z
+blr-dev-cops,0,0,0,0,6,DISCONNECTED,Disconnected. Last heartbeat 2024-03-23T18:08:00Z
 blr-dev-test,71225,21,18000,60,6,HEALTHY,Cluster is healthy
-e2dev-tanzu-ci-tkc,826867,9,108000,40,9,HEALTHY,Cluster is healthy
-e2dev-tanzu-cs-tkc,817428,34,204000,31,27,HEALTHY,Cluster is healthy
-sv4-dev-channel,239688,45,60000,44,9,HEALTHY,Cluster is healthy
+e2dev-tanzu-ci-tkc,826867,8,108000,40,9,HEALTHY,Cluster is healthy
+e2dev-tanzu-cs-tkc,817428,33,204000,31,27,HEALTHY,Cluster is healthy
+sv4-dev-channel,239688,46,60000,44,9,HEALTHY,Cluster is healthy
 sv4-dev-ci,207688,10,52000,38,8,HEALTHY,Cluster is healthy
 sv4-dev-cl,63380,19,16000,58,5,HEALTHY,Cluster is healthy
-sv4-dev-devtools,239688,31,60000,77,9,HEALTHY,Cluster is healthy
+sv4-dev-devtools,239688,31,60000,78,9,HEALTHY,Cluster is healthy
 sv4-dev-e2net,561337,24,140000,40,11,HEALTHY,Cluster is healthy
-sv4-dev-e2proxy,175689,29,44000,50,7,HEALTHY,Cluster is healthy
+sv4-dev-e2proxy,175689,29,44000,49,7,HEALTHY,Cluster is healthy
 sv4-dev-gtm,175689,11,44000,54,7,HEALTHY,Cluster is healthy
 sv4-dev-rnd-sandbox,175689,10,44000,34,7,HEALTHY,Cluster is healthy
-sv4-dev-sharedservices,561337,33,140000,34,11,HEALTHY,Cluster is healthy
+sv4-dev-sharedservices,561337,33,140000,34,11,WARNING,1 node is in WARNING state.
