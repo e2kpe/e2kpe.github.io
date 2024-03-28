@@ -18,7 +18,7 @@ draft: false
 | sv4-dev-cl             |      63,380 |            19 |   16,000 |         58 |         5 | HEALTHY      | Cluster is healthy                                |
 | sv4-dev-devtools       |     239,688 |            31 |   60,000 |         78 |         9 | HEALTHY      | Cluster is healthy                                |
 | sv4-dev-e2net          |     561,337 |            25 |  140,000 |         41 |        11 | HEALTHY      | Cluster is healthy                                |
-| sv4-dev-e2proxy        |     175,689 |            30 |   44,000 |         52 |         7 | HEALTHY      | Cluster is healthy                                |
+| sv4-dev-e2proxy        |     175,689 |            30 |   44,000 |         54 |         7 | HEALTHY      | Cluster is healthy                                |
 | sv4-dev-gtm            |     175,689 |            11 |   44,000 |         54 |         7 | HEALTHY      | Cluster is healthy                                |
 | sv4-dev-rnd-sandbox    |     175,689 |            10 |   44,000 |         34 |         7 | HEALTHY      | Cluster is healthy                                |
 | sv4-dev-sharedservices |     561,337 |            33 |  140,000 |         34 |        11 | HEALTHY      | Cluster is healthy                                |
